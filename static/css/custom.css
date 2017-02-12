@@ -381,6 +381,14 @@ div.share-content {
   text-align: justify;
 }
 
+.panel .panel-body p {
+  display: inline-block;
+  text-align: justify;
+  letter-spacing: 0.06em;
+  font-weight: 700;
+  font-size: 14px;
+}
+
 .thumbnail {
   position: relative;
   width: 50px;
