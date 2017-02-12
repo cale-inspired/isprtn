@@ -1,0 +1,70 @@
+{{ if isset .Site.Params "recent_posts" }}
+{{ if .Site.Params.recent_posts.enable }}
+<section class="bar background-white no-mb">
+    <div class="container">
+
+        <div class="col-md-12">
+        <a href="{{ .Site.BaseURL }}/blog/">
+            <div class="heading text-center blog-header"><br/><br/><br/><br/><br/><br/>
+                <h2>{{ .Site.Params.recent_posts.title }}</h2><br/><br/><br/>
+            
+
+            <p class="lead">
+              {{ .Site.Params.recent_posts.subtitle }}
+            </p>
+            </div></a><br/>
+            <!-- *** BLOG HOMEPAGE *** -->
+
+               
+            <div class="row">
+               
+                {{ $posts := .Paginate (where .Data.Pages "Type" "blog") }}
+                {{ range first 4 $posts.Pages }}
+                <div class="col-md-3 col-sm-6">
+                    <div class="box-image-text blog">
+                        <div class="top">
+                            <div class="image">
+                                {{ if isset .Params "banner" }}
+                                <img src="{{ .Site.BaseURL}}img/blog/{{ .Params.banner }}" class="img-responsive" alt="Thumbnail: {{ .Title }}" >
+                                {{ else }}
+                                <img src="{{ .Site.BaseURL}}img/placeholder.png" class="img-responsive" alt="">
+                                {{ end }}
+                            </div>
+                            <div class="bg"></div>
+                            <div class="text">
+                                <p class="buttons">
+                                    <a href="{{ .Permalink }}" class="btn btn-template-transparent-primary"><i class="fa fa-link"></i> Weiterlesen</a>
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="content">
+                            <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
+                            {{ if isset .Params "author" }}
+                              <p class="author-category">Von <a href="#">{{ .Params.author }}</a> am <time class="post-date" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" | safeHTML }}">
+                                                {{ .Date.Day }}. {{ index $.Site.Data.monate (printf "%d" .Date.Month) }} {{ .Date.Year }}
+                                            </time>
+                            {{ end }}
+                            </p>
+                            <p class="intro">{{ .Summary }}</p>
+                            <p class="read-more">
+                              <a href="{{ .Permalink }}" class="btn btn-template-main">Weiterlesen</a>
+                            </p>
+                        </div>
+                    </div>
+                    <!-- /.box-image-text -->
+
+                </div>
+                {{ end }}
+                {{ end }}
+            </div>
+            <!-- /.row -->
+
+            <!-- *** BLOG HOMEPAGE END *** -->
+
+        </div>
+    </div>
+    <!-- /.container -->
+</section>
+<!-- /.bar -->
+{{ end }}

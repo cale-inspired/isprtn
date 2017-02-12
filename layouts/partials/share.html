@@ -1,0 +1,31 @@
+<div class="share">
+<div class="share-main">
+<!--<img src="{{ .Site.BaseURL}}img/share.png" class="" alt="Inspirierie deine Freunde mit diesem Artikel">-->
+<div class="share-content">
+  <a class="fa fa-twitter" href="https://twitter.com/share?text='{{ .Title | safeHTML}}'&amp;url={{ .Permalink }}"
+      onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+      <span class="hidden">Twitter</span>
+  </a>
+  <a class="fa fa-facebook" href="https://www.facebook.com/sharer/sharer.php?u={{ .Permalink }}"
+      onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
+      <span class="hidden">Facebook</span>
+  </a>
+  <a class="fa fa-google-plus" href="https://plus.google.com/share?url={{ .Permalink }}"
+     onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">
+      <span class="hidden">Google+</span>
+  </a>
+  <a class="fa fa-envelope" href="mailto:?&subject='{{ .Title | safeHTML }}'%20auf%20inspiritana.org&body=Lies%20'{{ .Title | safeHTML}}'%20auf%20inspiritana.org:%20{{ .Permalink }}%0A~%20Get%20inspired%20%26%20share%20the%20spirit!%20~">
+    <span class="hidden">E-Mail</span>
+  </a>
+  <a class="fa fa-reddit-alien" href="http://www.reddit.com/submit?url={{ .Permalink }}&title={{ .Title | safeHTML }}%20@%20inspiritana.org">
+    <span class="hidden">Reddit</span>
+  </a>
+  <a class="fa fa-pinterest" href="http://pinterest.com/pin/create/button/?url={{ .Permalink }}{{ if .Params.pinterestmedia }}&amp;media={{ .Site.BaseURL }}{{ .Params.pinterestmedia }}{{ end }}&amp;description={{ .Title | safeHTML}}"
+      onclick="window.open(this.href, 'pinterest-share','width=580,height=296');return false;">
+      <span class="hidden">Pinterest</span>
+  </a>
+
+
+</div>
+</div>
+</div>

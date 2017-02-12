@@ -1,0 +1,21 @@
+<div class="panel sidebar-menu">
+
+    <div class="panel-heading">
+        <h3 class="panel-title">Connect & share the spirit:</h3>
+    </div>
+            <div class="panel-body" id="connect-sidebar">
+                                     
+            {{ range .Site.Params.connect.list }}
+                            
+                                    {{ if in .name "Mail"}}
+                                    <a href="mailto:czazlzez@inszpiritzana.org" onmouseover="this.href=this.href.replace(/z/g,'');">
+                                    {{ else }}
+                                    <a href="{{ .link }}">
+                                    {{ end }}
+                                            <i class="fa fa-{{ .icon }}"></i>
+                                    </a>
+                               
+                        {{ end }}
+                        <a href="{{ .Site.BaseURL}}blog/index.xml"><i class="fa fa-rss-square"></i></a>
+            </div>
+</div>
