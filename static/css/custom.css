@@ -545,7 +545,7 @@ p.lead {
 /* BREADCRUMBS */
 #heading-breadcrumbs {
   background: url('../img/texture.png') center center repeat; /*pattern from subtlepatterns.com */
-  padding: 10px 0;
+  padding: 5px 0;
   margin-bottom: 0px;
   border-bottom: solid 1px #785828;
   text-align: center;
@@ -567,12 +567,13 @@ p.lead {
     }
   }
 
-#heading-breadcrumbs h2 {
+#heading-breadcrumbs p {
   color: #785823;
   font-size: 22px;
+  font-weight: bold;
 }
 @media (max-width: 991px) {
-  #heading-breadcrumbs h2 {
+  #heading-breadcrumbs p {
     text-align: center;
     font-size: 19px;
   }

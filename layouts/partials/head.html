@@ -83,6 +83,16 @@
     <meta property="og:title" content="{{ .Title }} - inspiritana.org" />
   {{ end }}
 
+  {{ if .Description }}
+  <meta property="og:description" content="{{ .Description }}">
+  {{ else if .IsPage }}
+  <meta property="og:description" content="{{ .Summary | plainify }}">
+  {{ else if eq .URL "/blog/" }}
+  <meta property="og:description" content="Lass dich inspirieren - mit einzigartigen Blog-Posts und Videos zu Yoga, Reisen, Mind & Meditation, Gesundheit und mehr. - Get inspired & share the spirit!">
+  {{ else }}
+  <meta property="og:description" content="Yoga-Unterricht auf Spendenbasis. Inspirierender Blog & Videos über Yoga, Reisen, Mind & Meditation, Gesundheit & mehr. - Get inspired & share the spirit!">
+  {{ end }}
+
   <meta property="og:type" content="website" />
   <meta property="og:url" content="{{ .URL }}" />
 
