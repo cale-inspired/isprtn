@@ -51,7 +51,7 @@ Unser deutscher Besuch macht sich nach dem Mittag auf den Rückweg nach Marrakes
 
 Auf dem Weg halten wir in **Taznakht**: Die Frauen der Umgebung weben hier in einer selbstgegründeten Kooperative **Teppiche aus Schafswolle**. Das möchten wir gerne unterstützen - außerdem suchen wir ohnehin nach einem schicken Teppich für den Bus. Wir begeben uns also auf den kleinen Marktplatz direkt an der Straße und schauen uns die Ware an. Keine zwei Minuten später sind wir **umringt von mindestens 30 schaulustigen Männern, Frauen und Kindern**. Wahrscheinlich kommen hier (um diese Jahreszeit) nicht viele Touristen vorbei, sodass wir heute einmal für die Unterhaltung des Tages sorgen.   
 
-{{< figure src="/img/blog/Teppichmarkt_Taznakht.JPG" title="Der kleine Teppichmarkt in Taznakht, Marokko" alt="Der kleine Teppichmarkt in Taznakht, Marokko" >}}  
+{{< figure src="/img/blog/Teppichmarkt_Taznakhte.JPG" title="Der kleine Teppichmarkt in Taznakht, Marokko" alt="Der kleine Teppichmarkt in Taznakht, Marokko" >}}  
 
 Das Problem: Die Berber hier sprechen zwar gebrochen Französisch, **mit Englisch, Spanisch oder Deutsch kommen wir aber kein bisschen weiter**. Also stammeln wir ein paar Brocken Arabisch und Französisch vor uns hin, und versuchen den Rest mit Zeichensprache. Wirklich funktioniert das jedoch nicht. Aus der Menschenblase drängt sich plötzlich ein älterer Mann in traditionellem Berbergewand zu uns durch - er spricht überraschend gut Deutsch und **bietet uns seine Hilfe an**.     
 

@@ -20,6 +20,7 @@ Einen festen Standort für den Unterricht gibt es also nicht. Stattdessen machen
 **Individuell**: Du würdest mich gerne an einem bestimmten Ort treffen? Solange sich das halbwegs mit meinem Reiseplan vereinbaren lässt, komme ich gerne vorbei. Vielleicht kann ich dich auch abholen und wir reisen gemeinsam ein Stück, während wir jeden Tag Yoga praktizieren. :)
 
 
+.... weitere Infos gibt's bald! Bitte noch etwas Geduld :>
 
 
 
