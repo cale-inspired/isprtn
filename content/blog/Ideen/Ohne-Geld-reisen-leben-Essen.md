@@ -90,6 +90,6 @@ Außerdem solltest du auf Umweltverschmutzung in der Nähe deines Fundes achten,
 
 ## Verpflegung & Übernachtung im Austausch für Arbeit
 
-Über **Netzwerke wie helpx oder workaway** findest du Projekte in der ganzen Welt, bei denen du **Kost & Logie im Austausch für deine Mitarbeit** bekommst. Wie das genau funktioniert, erfährst du im **3. Teil der "Ohne Geld"-Reihe: Übernachtung**.
+Über **Netzwerke wie helpx oder workaway** findest du Projekte in der ganzen Welt, bei denen du **Kost & Logie im Austausch für deine Mitarbeit** bekommst. Wie das genau funktioniert, erfährst du im **[3. Teil der "Ohne Geld"-Reihe: Übernachtung]({{< relref "Ohne-Geld-reisen-leben-Übernachtung.md" >}})**.
 
 #### Du hast noch weitere Tipps, wie sich Reisende ohne oder mit wenig Geld ernähren können? Du hast gute oder schlechte Erfahrungen mit den oben genannten Vorschlägen gemacht? Lass es uns in einem Kommentar wissen!
