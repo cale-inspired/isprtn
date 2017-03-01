@@ -2,7 +2,7 @@
 author = "Cale"
 banner = "Thumb_Ohne-Geld-Übernachtung.jpg"
 categories = ["Ideen"]
-date = "2017-02-28T22:18:59+01:00"
+date = "2017-02-28T16:18:59+01:00"
 draft = false
 featured = ""
 keywords = "ohne geld reisen leben übernachtung"
