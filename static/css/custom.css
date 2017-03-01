@@ -259,11 +259,15 @@ div#content {
 }
 
 /*Bildunterschrift*/
-figcaption h4 {
+figcaption {
   font-size: 17px;
   color: #785828;
   font-style: italic;
   text-align: right;
+  font-family: "Roboto", Helvetica, Arial, sans-serif;
+  font-weight: 900;
+  line-height: 1.1;
+  margin-top: 5px;
 }
 
 /*Sidebar in Artikel-Ansicht*/
