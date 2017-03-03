@@ -85,13 +85,13 @@
 
                         <ul class="pager">
                             {{ if .Paginator.HasNext }}
-                            <li class="previous"><a href="{{ $.Site.BaseURL }}{{ .Paginator.Next.URL }}"><i class="fa fa-angle-double-left"></i> Zurück</a></li>
+                            <li class="previous"><a href="{{ .Site.BaseURL }}{{ .Paginator.Next.URL }}"><i class="fa fa-angle-double-left"></i> Zurück</a></li>
                             {{ else }}
                             <li class="previous disabled"><a href="#"><i class="fa fa-angle-double-left"></i> Zurück</a></li>
                             {{ end }}
 
                             {{ if .Paginator.HasPrev }}
-                            <li class="next"><a href="{{ $.Site.BaseURL }}{{ .Paginator.Prev.URL }}">Vor <i class="fa fa-angle-double-right"></i></a></li>
+                            <li class="next"><a href="{{ .Site.BaseURL }}{{ .Paginator.Prev.URL }}">Vor <i class="fa fa-angle-double-right"></i></a></li>
                             {{ else }}
                             <li class="next disabled"><a href="#">Vor <i class="fa fa-angle-double-right"></i></a></li>
                             {{ end }}
