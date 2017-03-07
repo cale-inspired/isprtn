@@ -5,10 +5,10 @@ categories = ["Reisen", "UnserLeben"]
 date = "2017-03-07T22:44:07+01:00"
 draft = false
 featured = ""
-keywords = "marokko städte camper essaouira marrakesch "
-subtitle = ""
+keywords = "marokko städte camper essaouira marrakesch"
+subtitle = "Großstadt-Hopping in Marokko"
 tags = ["Marokko", "Städte", "Orte"]
-title = "UnserLeben #12 - Essaouira & Marrakesch – Großstadt-Hopping in Marokko"
+title = "UnserLeben #12 - Essaouira & Marrakesch"
 
 +++
 
