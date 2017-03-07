@@ -132,7 +132,7 @@ preserveTaxonomyNames = true
 [params.recent_posts]
     enable = true
     title = "Aus unserem Blog"
-    subtitle = "Yoga, Mind & Meditation, Reisen, Gesundheit - das sind unsere Themen. Und obendrauf ein Hauch Inspiritana. :)"
+    subtitle = ""
 
 [params.featuredposts]
     enable = true
