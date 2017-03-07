@@ -14,7 +14,7 @@ title = "UnserLeben #12 - Essaouira & Marrakesch"
 
 Nachdem du in unserem letzten Post ganz schön viel zu lesen hattest, wollen wir heute wieder **mehr Bilder** sprechen lassen: Also auf geht’s! Wir nehmen dich mit auf **Großstadt-Tour nach Essaouira und Marrakesch**.<!--more-->       
      
-## Essauoira: Hübsche Hafenstadt mit interessanter Medina
+## Essaouira: Hübsche Hafenstadt mit interessanter Medina
 
 Wir haben unseren vorerst letzten Termin bei einem **marokkanischen Tierarzt** in Essaouira. Dieser muss nun nach den beiden vorangegangenen Impfungen gegen Tollwut einen **Bluttest** durchführen, welcher unbedingt notwendig ist, um einen Hund mit über die Grenze nach Europa nehmen zu dürfen. Das Blut wird allerdings erst nach Frankreich ins Labor geschickt, bevor die Resultate zurück nach Marokko gesendet werden… Der ganze Prozess dauert etwa 14 Tage, also ungefähr so lange wie unser **Visum in Marokko** noch gültig ist. Nun können wir nur noch hoffen, dass die Ergebnisse rechtzeitig ankommen und dann bei der Grenzkontrolle auch alles anerkannt wird. **Daumen drücken ist angesagt** :-)      
 
@@ -22,7 +22,7 @@ Wir haben unseren vorerst letzten Termin bei einem **marokkanischen Tierarzt** i
 alt="Kleiner Hund frisst Mohnblüte" >}}
 
 Nach dem Termin treffen wir uns mit Philipp, Sönke und Olli am **Hafen** und können dort das rege Treiben bei **feuchtem Sonnenuntergangs-Feeling** beobachten:
-{{< figure src="/img/blog/Essaouira_Hafen_Sonnenuntergang.JPG" title="Sonnenuntergang am Hafen Essauoiras genießen" alt="Möwen im Sonnenuntergang an der Atlantikküste" >}}
+{{< figure src="/img/blog/Essaouira_Hafen_Sonnenuntergang.JPG" title="Sonnenuntergang am Hafen Essaouiras genießen" alt="Möwen im Sonnenuntergang an der Atlantikküste" >}}
 
 Links und rechts **Verkaufsstände**, an denen die Händler ihre frisch gefangene und teilweise noch lebendige Ware präsentieren. Überall **Möwen**, die ganz aufgeregt umher fliegen und durch ihren Kot dem fischig-salzigen Geruch in der Luft noch eine ätzende Note mitgeben. 
 
@@ -50,7 +50,7 @@ alt="Mann webt Tücher in kleinem Kämmerlein" >}}
 
 ## Marrakesch: Menschen, Lärm, Verkehr, Läden, Essen
 
-Nach dem Mittag geht es dann auf direktem Wege über die N8 nach **Marrakesch**, wo wir nach ca. fünf Stunden Fahrt gegen 18 Uhr ankommen. Da Olli am nächsten Morgen hier einen Termin in einem der wenigen offiziell anerkannten **Tattoo-Studie** Marokkos hat, lässt er sich unsere nächste Snack-Night entgehen, aber erspart sich somit auch den Wochenend-Trubel in Marrakeschs Stadtkern:
+Nach dem Mittag geht es dann auf direktem Wege über die N8 nach **Marrakesch**, wo wir nach ca. fünf Stunden Fahrt gegen 18 Uhr ankommen. Da Olli am nächsten Morgen hier einen Termin in einem der wenigen offiziell anerkannten **Tattoo-Studios** Marokkos hat, lässt er sich unsere nächste Snack-Night entgehen, aber erspart sich somit auch den Wochenend-Trubel in Marrakeschs Stadtkern:
 Unser erster Anlaufpunkt ist die **Koutoubia-Moschee** (eine der ältesten Moscheen Marokkos) und der **„Djemaa el-Fna“**, Marrakeschs großer **Marktplatz in der Medina**, der als UNESCO-Weltkulturerbe zählt.
 {{< figure src="/img/blog/Marrakesch_Koutoubia.JPG" title="Marrakeschs Moschee bei Nacht"
 alt="Hell beleuchtete Moschee in Marrakesch" >}}
