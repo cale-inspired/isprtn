@@ -42,7 +42,7 @@ alt="Kleine Straße durch die Medina von Essaouira" >}}
 alt="Kleiner Laden voll mit unterschiedlichen marokkanischen Instrumenten" >}}
 {{< figure src="/img/blog/Essaouira_Stadtmauer.JPG" title="Die alte Stadtmauer der Medina von Essaouira"
 alt="Stadtmauern der Medina von Essaouira" >}}
-{{< figure src="/img/blog/Essaouira_Shops.JPG" title="Touristenläden in der Medina von Essaouira"
+{{< figure src="/img/blog/Essaouira_Shops.JPG" title="Läden in der Medina von Essaouira"
 alt="Geschäft voll mit Tüchern, Trommeln, Jelabas" >}}
 {{< figure src="/img/blog/Essaouira_Tuchweber.JPG" title="Tuchweberei auf minimalem Raum"
 alt="Mann webt Tücher in kleinem Kämmerlein" >}}
@@ -57,11 +57,11 @@ alt="Hell beleuchtete Moschee in Marrakesch" >}}
 Ich habe zwar Menschenmassen und Chaos erwartet, doch nicht in solchen Ausmaßen. Mitten auf dem Platz wird jeden Abend die **große Fressmeile** aufgebaut, in der Sandwiches, Panini, Suppen, Tajine und andere Gerichte zu recht **happigen Preisen** angeboten werden. Dicht gedrängt wirst du durch den schmalen Gang geschoben und bekommst von allen Seiten Menü-Karten ins Gesicht gehalten.
 {{< figure src="/img/blog/Marrakesch_Fressmeile.JPG" title="Marrakeschs Fressmeile auf dem Djemaa el-Fna"
 alt="Aufgebaute Zelte mit Sitzgarnituren auf dem großen Marktplatz in Marrakesch" >}}
-Für mich ist das nichts und beim nächsten Besuch würde ich mir das nicht nochmal antun. Ringsum die Fressmeile lassen sich **Touristen in Pferdekutschen** durch das gepflasterte Zentrum fahren. Teilweise sehen die Pferde total **abgemagert** aus und können einem nur leidtun…      
+Für mich ist das nichts und beim nächsten Besuch würde ich mir das nicht nochmal antun. Ringsum die Fressmeile lassen sich **Touristen, aber auch Einheimische in Pferdekutschen** durch das gepflasterte Zentrum fahren. Teilweise sehen die Pferde total **abgemagert** aus und können einem nur leidtun…      
 Wir verkriechen uns in ein paar kleinere und weniger dicht belaufene **Nebengassen** und beschließen, am nächsten Morgen gleich zeitig zurückzukehren, um noch vor den Touristenmassen unsere Einkäufe bei einem **ruhigeren Stadtbummel** zu erledigen:
 {{< figure src="/img/blog/Marrakesch_BilderKönig.JPG" title="Ein Raum voll mit Bildern des Königs"
 alt="Raum voll mit Bildern des marokkanischen Königs" >}}
-{{< figure src="/img/blog/Marrakesch_Läden.JPG" title="Touristen-Geschäfte in Marrakeschs Medina"
+{{< figure src="/img/blog/Marrakesch_Läden.JPG" title="Geschäfte für allerlei in Marrakeschs Medina"
 alt="Touristen in Einkaufspassage" >}}
 {{< figure src="/img/blog/Marrakesch_Rucksack-Geschäft.JPG" title="Rucksäcke werden vor Ort genäht"
 alt="Kleine Kammer voll mit selbst-genähten Rucksäcken" >}}

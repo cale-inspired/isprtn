@@ -68,7 +68,7 @@ Leider verheißt uns das Wetter die zwei Tage, die wir hier sind, wenig Gutes: *
 
 So wird uns Tafraoute als der Ort in Erinnerung bleiben, an dem sich **unsere Gruppe getrennt** hat: **Mike und Lily** haben genug von Marokko, und fahren von hier ab alleine im Eiltempo gen Spanien. **Christie** wird die nächsten Tage von Agadir zurück nach Berlin, und von dort aus weiter in die USA fliegen, um ihre Familie zu besuchen. Einzigartige Erfahrungen haben wir zusammen gemacht - aber es wird auch wieder Zeit für Veränderung. 
 
-## Zurück an die Küste - nach Agadir und ins Paradise Valley
+## Zurück an die Küste - nach Agadir und zum Paradise Valley
 
 Die direkte Strecke von Tafraoute nach Agadir entpuppt sich als mindestens so sehenswert wie Tafraoute selbst: **Grün bewachsene, teilweise bewirtschaftete Hügel inzwischen gigantischer Schluchten, mit traditionellen charmvollen Dörfern und vereinzelten Burgen**. Gerne würden wir aller fünf Kilometer anhalten und das Ganze im Detail betrachten - aber wir haben es leider eilig, um es pünktlich zum Arzttermin zu schaffen. Deshalb fahren wir zügig durch die traumhaft-verwunschene Gegend, die mich irgendwie an Nepal erinnert.    
 
@@ -84,7 +84,7 @@ Im Anschluss verlassen wir total erschöpft von der ganzen Fahrerei und dem Stad
 
 {{< figure src="/img/blog/Marokko_Dromedare2.JPG" title=" " alt="Dromedare, die von Argan-Bäumen fressen" ttl="Eine große Dromedar-Herde, die sich von Argan-Blättern ernährt" >}}
 
-Zwei Nächte verbringen wir hier, bevor wir weiter zum und durchs **Paradise Valley** fahren. Auf jeden Fall einen Besuch wert, wenn wir hier auch leider aufgrund von Platzmangel nicht mit den Campern übernachten können. Also geht's weiter durch die bergige Landschaft. **Schöne Szenerie, freundliche Leute - aber die sehr kurvige Strecke wieder recht anstrengend.** Für 130 Kilometer brauchen wir letztlich vier Stunden, bevor wir kurz vor Sonnenuntergang unser Lager direkt an einer Stausee-Mauer aufschlagen.
+Zwei Nächte verbringen wir hier, bevor wir weiter zum **Paradise Valley** fahren. Die Straße führt direkt bis an das dicht bewachsene tiefe Tal heran - von hier aus geht ein Wanderweg weiter. Da wir zum Wochenende hier sind, ist der Parkplatz übervoll. Aufgrund von Platzmangel können wir mit den Campern auch nicht übernachten. Also geht's weiter durch die bergige Landschaft. **Schöne Szenerie, freundliche Leute - aber die sehr kurvige Strecke wieder recht anstrengend.** Für 130 Kilometer brauchen wir letztlich vier Stunden, bevor wir kurz vor Sonnenuntergang unser Lager direkt an einer Stausee-Mauer aufschlagen.
 
 {{< figure src="/img/blog/ParadiseValley.jpg" title="Das Paradise Valley bei Agadir" alt="Paradise Valley in Marokko" >}}
 {{< figure src="/img/blog/Marokko_Landschaft2.jpg" title="Serpentinen durch wundervolle Landschaften" alt="Serpentinen-Straße in Marokko" >}}
