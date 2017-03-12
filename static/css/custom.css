@@ -165,6 +165,17 @@ body {
   margin-bottom: 5px;
 }
 
+#blog-preview div.col-md-6 {
+  min-height: 500px;
+  min-width: 50%;
+}
+
+@media (max-width: 767px) {
+  #blog-preview div.col-md-6 {
+    min-height: none;
+  }
+}
+
 /* BLOG-Seite: Übersicht */ 
 
 #blog-listing-medium .post {
