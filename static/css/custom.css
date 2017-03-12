@@ -155,6 +155,16 @@ body {
   margin: auto;
 }
 
+/* BLOG-PREVIEW auf index */
+#blog-preview h3 {
+  margin: 0px;
+}
+
+#blog-preview p {
+  margin-top: 0px;
+  margin-bottom: 5px;
+}
+
 /* BLOG-Seite: Übersicht */ 
 
 #blog-listing-medium .post {
@@ -206,7 +216,7 @@ div#content {
   text-decoration: none;
 }
 
-#blog-listing-medium .post .author-category {
+.author-category {
   float: left;
   color: #888888;
   text-transform: uppercase;
@@ -218,7 +228,7 @@ div#content {
   margin: 0px;
 }
 
-#blog-listing-medium .post .author-category a {
+.author-category a {
   color: #888888;
 }
 

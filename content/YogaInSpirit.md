@@ -9,7 +9,7 @@ Kostenloser Yoga-Unterricht für jedermann - das ist das #YogaInSpirit-Projekt! 
 
 Ganz einfach gesagt: Ich unterrichte Yoga, während ich um die Welt reise.   
 
-Einen festen Standort für den Unterricht gibt es also nicht. Stattdessen machen wir dort Yoga, wo sich unsere Wege : am Strand, im Wald, in der Stadt oder bei dir zu Hause.
+Einen festen Standort für den Unterricht gibt es also nicht. Stattdessen machen wir dort Yoga, wo sich unsere Wege kreuzen: am Strand, im Wald, in der Stadt oder bei dir zu Hause.
 
 
 

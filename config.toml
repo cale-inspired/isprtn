@@ -27,7 +27,7 @@ preserveTaxonomyNames = true
     tags = "tags"
 
 [params]
-    author = "DevCows"
+    author = "Cale"
 
     # Since this template is static, the contact form uses www.formspree.io as a
     # proxy. The form makes a POST request to their servers to send the actual
@@ -44,18 +44,10 @@ preserveTaxonomyNames = true
     # Enable the contact form by entering your Formspree.io email
     email = "cale@inspiritana.org"
     about_us = "Spannende Reiseberichte, inspirierende Ideen und interessante Artikel und Videos über Yoga, Gesundheit, Meditation und mehr. Kostenloser Yoga-Unterricht (auf Spendenbasis) für Einzelpersonen und Gruppen. Individuell, kreativ, einzigartig, aufregend!"
-    copyright = "2016 - inspiritana.org"
+    copyright = "2017 - inspiritana.org"
     date_format = "02. 01. 2006"
     logo = "img/logo.png"
-    address = """<p><strong>Universal Ltd.</strong>
-        <br>13/25 New Avenue
-        <br>Newtown upon River
-        <br>45Y 73J
-        <br>England
-        <br>
-        <strong>Great Britain</strong>
-      </p>
-      """
+    address = ""
 
 [[params.menu]]
     name = "Home"
@@ -78,7 +70,7 @@ preserveTaxonomyNames = true
     weight = 4
 
 [social]
-    github = "devcows"
+    github = ""
 
 [params.contact]
     map = true
@@ -140,19 +132,19 @@ preserveTaxonomyNames = true
     subtitle = ""
 
 [params.connect]
-    title = "Connect & share the spirit"
-
-    [[params.connect.list]]
-        name = "YouTube"
-        icon = "youtube-square"
-        link = "https://www.youtube.com/channel/UC_mzz0Tx8Pdw660eipqfIrA"
-        description = ""
+    
 
     [[params.connect.list]]
         name = "Facebook"
         icon = "facebook-square"
         link= "http://facebook.com/inspiritana.org"
         description= ""
+
+    [[params.connect.list]]
+        name = "YouTube"
+        icon = "youtube-square"
+        link = "https://www.youtube.com/channel/UC_mzz0Tx8Pdw660eipqfIrA"
+        description = ""
 
     [[params.connect.list]]
         name= "Instagram"
@@ -167,11 +159,7 @@ preserveTaxonomyNames = true
         link= ""
         description= ""
 
-    [[params.connect.list]]
-        name= "Twitter"
-        icon= "twitter-square"
-        link= "https://instagram.com/inspiritana/"
-        description= ""
+
 
 
 ignoreFiles = [ ".foo", ".ign" ]
