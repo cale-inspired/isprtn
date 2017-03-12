@@ -5,10 +5,10 @@ categories = ["ÜberUns"]
 date = "2017-03-10T14:54:36+01:00"
 draft = false
 featured = ""
-keywords = "dachträger dachgepäckträger düdo marokko"
+keywords = "dachträger dachgepäckträger düdo 407 marokko"
 subtitle = "Sonnendeck, mehr Stauraum und einfach so - ein Dachträger für unseren Düdo"
 tags = ["Eddie", "Bus"]
-title = "Unser Düdo - jetzt mit Dachträger"
+title = "Unser Düdo 407 - jetzt mit Dachträger aus Marokko"
 +++
 
 Einen **Dachgepäckträger für unseren Düdo** wollen wir schon seit Langem - nun nehmen wir das Projekt hier **in Marokko** in Angriff. Ich erzähle euch die Story zu Eddies neuer Krone.<!--more-->
@@ -43,7 +43,9 @@ Als wir am nächsten Morgen gegen 11 an der Werkstatt aufschlagen, ist das **Gru
 
 {{< figure src="/img/blog/Dachgepäckträger_Flex.JPG" title="Arbeitsschutz? Nein, danke! :D" alt="Arbeitsschutz in Marokko, in der Werkstatt" >}}  
 
-Als wir am Nachmittag wiederkommen, arbeiten die Jungs gerade an den **Halterungen**, über die der Dachgepäckträger später in der Regenrinne befestigt werden soll. Wir wollen auf keinen Fall Schrauben durch die Dachrinne, sondern eine gummigepolsterte **Klemmkonstruktion mit Schraubgewinde**. Tatsächlich haben die Jungs Erfahrungen mit dieser Lösung und setzen das Ganze auch super um.    
+Als wir am Nachmittag wiederkommen, arbeiten die Jungs gerade an den **Halterungen**, über die der Dachgepäckträger später in der Regenrinne befestigt werden soll. Wir wollen auf keinen Fall Schrauben durch die Dachrinne, sondern eine gummigepolsterte **Klemmkonstruktion mit Schraubgewinde**. Tatsächlich haben die Jungs Erfahrungen mit dieser Lösung und setzen das Ganze auch super um. 
+
+{{< figure src="/img/blog/Dachgepäckträger_Halterung.JPG" title="Die Dachgepäckträger-Halterung an der Regenrinne" alt="Dachgepäckträger-Halterung an der Regenrinne" >}}    
 
 Bevor wir wieder zu unserem 40 Kilometer entfernten Schlafplatz am See zurückfahren, geben wir beim gegenüberliegenden **Tischler** noch die Holzstreben in Auftrag. Der Preis von knapp 80 Euro ist uns definitiv zu hoch. Wir fahren mit dem Holzfritzen und seinem Bruder, der gut Französisch spricht, in ein Holzlager. Hier will man für's Material rund 30 Euro. Wir fahren zum nächsten Händler: Hier bekommen wir **7 Leisten à 4,20 Meter für 20 Euro**. Wir schlagen zu, und bestellen beim Holzverarbeiter fertig zugesägte, geschliffene und lassierte Bretter bis morgen Mittag. Für die Arbeit will er 30 Euro.   
 
