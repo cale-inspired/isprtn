@@ -12,7 +12,7 @@ title = "Marokko: Preise & tägliche Kosten"
 
 +++
 
-Nach 3 Monaten im Land haben wir mittlerweile einen kleinen **Überblick der Kosten und Preise in Marokko**. An ein paar Beispielen bekommst du eine Vorstellung der Lebenshaltungskosten.<!--more-->
+Nach drei Monaten im Land haben wir mittlerweile einen kleinen **Überblick der Kosten und Preise in Marokko**. An ein paar Beispielen bekommst du eine Vorstellung der Lebenshaltungskosten.<!--more-->
 
 ## Lebensmittel in Marokko: Das kosten Nahrung und Getränke
 
