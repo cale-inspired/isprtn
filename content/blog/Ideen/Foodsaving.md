@@ -7,7 +7,7 @@ draft = false
   
 keywords = "Foodsaving Lebensmittel Müll Containern"
 subtitle = "Gedanken über die Lebensmittelverschwendung unserer Konsumgesellschaft"
-tags = ["Lebensmittel", "Lifestyle", "Foodsaving", "Recycling"]
+tags = ["Lebensmittel", "Lifestyle", "Foodsaving", "Recycling", "Containern"]
 title = "Foodsaving – Lebensmittel gehören nicht in die Tonne!"
 
 +++
@@ -59,4 +59,4 @@ Umso wichtiger ist es, dass wir ein **gegenseitiges Bewusstsein schaffen** und u
 
 *Quellen:     
 http://shoutoutloud.eu/eine-welt-zwischen-ueberfluss-und-absolutem-mangel/    
-https://www.verbraucherzentrale.de/libensmittelverschwendung/*
+https://www.verbraucherzentrale.de/lebensmittelverschwendung*
