@@ -53,6 +53,4 @@ Unsere dreimonatige **Reise durch Marokko** neigt sich stark dem Ende - aber fü
 - Klar lässt sich die Bevölkerung eines ganzen Landes nicht über einen Kamm scheren, doch habe ich die allermeisten Marokkaner wirklich als überaus **gastfreundlich** kennengelernt: Immer wieder lud man uns zu sich nach Hause ein, bot uns Tee und Speisen an - ohne etwas im Gegenzug zu erwarten. Selbstlose **Nächstenliebe** und Gastfreundschaft im Sinne des Islams.
 - Wenn wir etwas Bestimmtes gebraucht oder gesucht haben, oder uns aufgrund der Sprachbarriere nicht verständigen konnten, war jedes Mal **ein hilfsbereiter Marokkaner zur Stelle**. Teilweise machten sie sich enormen Aufwand und geleiteten uns nicht nur einmal quer durch die ganze Stadt, um uns zu unserem Ziel zu führen.    
       
-
-
 **Warst du selbst schon in Marokko? Wenn ja, stimmst du mir in diesen Punkten überein, oder hast du das Land anders kennengelernt? Wieso gefällt dir Marokko? Verrat's uns in den Kommentaren!**
