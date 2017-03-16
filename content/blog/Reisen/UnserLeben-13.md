@@ -1,14 +1,14 @@
 +++
-author = ""
-banner = ".jpg"
-categories = [""]
-date = "2017-03-15T22:23:53+01:00"
+author = "Cale"
+banner = "Thumb_UnserLeben13.jpg"
+categories = ["Reisen", "UnserLeben"]
+date = "2017-03-16T22:23:53+01:00"
 draft = false
 featured = ""
-keywords = ""
-subtitle = ""
-tags = [""]
-title = "UnserLeben #13"
+keywords = "unserleben demnate souk marokko khemisset larache"
+subtitle = "Eine fahr- und arbeitsreiche Woche - mit jeder Menge zu sehen"
+tags = ["Marokko", "Eddie", "Camper", "Natur"]
+title = "UnserLeben #13 - Fahren, basteln und erleben"
 
 +++
 
