@@ -37,7 +37,7 @@ Aber weiter im Text: Wer in Demnate ist, muss die **Naturbrücke** etwa zwei Kil
 
 {{< figure src="/img/blog/Demnate_Naturbrücke.JPG" title="Ein gigantischer, natürlich geformter Felsbogen" alt="Imi-n-Ifri - die Naturbrücke bei Demnate" >}} 
 
-{{< figure src="/img/blog/Demnate_Naturbrücke.JPG" title="Geschätzt 50 Meter hoch, ist es beeindruckend, unter der Naturbrücke zu stehen" alt="Der natürlich geformte Felsbogen bei Demnate" >}} 
+{{< figure src="/img/blog/Demnate_Naturbrücke2.JPG" title="Geschätzt 50 Meter hoch, ist es beeindruckend, unter der Naturbrücke zu stehen" alt="Der natürlich geformte Felsbogen bei Demnate" >}} 
 
 
 ## Große Schritte Richtung Spanien - weiter nach Khemisset 
