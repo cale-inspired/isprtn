@@ -48,6 +48,6 @@ Der Sturm wird immer heftiger und wir werden in der Nacht ordentlich durchgescha
 
 Doch es geht kein Weg drumherum: Mein **erlaubter Aufenthalt von 90 Tagen** endet genau am 15.03.2017 – Ich muss also ausreisen. Olli, der später als wir eingereist ist, könnte zwar noch zwei Wochen länger bleiben, will sich aber mit uns Richtung Portugal bewegen. Sönke und Cale, die im Dezember nochmal kurzzeitig gemeinsam in **Mellia** waren und so bei der Einreise nach Marokko wieder **neue Einreisestempel** bekommen haben, haben noch bis zum 20.03. Zeit.  
 
-Doch da Cale noch auf Shantis **TITA-Bestimmung** wartet, die er für die Einreise in ein europäisches Land benötigt, mache ich mich schon mal **gemeinsam mit Sönke** auf den Weg nach **Tanger-Med**, um von dort **zurück nach Algeciras** zu fahren, während Olli von **Ceuta** aus startet. Unser Wiedersehen mit Cale und Shanti planen wir für ca. drei Tage später in Palmones. - **Es bleibt spannend!**    
+Doch da Cale noch auf Shantis **Titer-Bestimmung** wartet, die er für die Einreise in ein europäisches Land benötigt, mache ich mich schon mal **gemeinsam mit Sönke** auf den Weg nach **Tanger-Med**, um von dort **zurück nach Algeciras** zu fahren, während Olli von **Ceuta** aus startet. Unser Wiedersehen mit Cale und Shanti planen wir für ca. drei Tage später in Palmones. - **Es bleibt spannend!**    
 
 **Wie die Story weitergeht, erfährst du in unserem nächsten Beitrag.**
