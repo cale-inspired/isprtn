@@ -29,7 +29,7 @@ Letztlich werden wir **in Khemisset** fündig: Die erste KFZ-Werkstatt verweist 
 
 ## 2. Teil: Materialeinkauf und Abmachungen für den Dachgepäckträger
 
-Wir kaufen sofort an Ort und Stelle die benötigten **Materialien** ein, damit die Jungs von der Werkstatt gleich mit der Arbeit beginnen können: 14 Meter massives Vierkantrohr, 10 Meter dünneres Rundrohr sowie die U-Träger für die Halterungen. Zusammen macht das **läppige 30 Euro**.   
+Wir kaufen sofort an Ort und Stelle die benötigten **Materialien** ein, damit die Jungs von der Werkstatt gleich mit der Arbeit beginnen können: 14 Meter massives Vierkantrohr, 10 Meter dünneres Rundrohr sowie die U-Träger für die Halterungen. Zusammen macht das **läppische 30 Euro**.   
 
 Wir geben den Jungs unsere vorbereiteten Skizzen mit allen nötigen Maßen. **Zwei Tage soll es dauern - in sha-allah**. Wir machen ihnen klar, dass es maximal zwei Tage dauern darf und es einen satten Bonus gibt, wenn sie innerhalb eines Tages fertig sind.   
 
