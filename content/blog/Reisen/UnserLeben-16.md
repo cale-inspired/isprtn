@@ -39,6 +39,8 @@ Für Sönke und uns geht es nun weiter in den **Nationalpark Coto de Doñana**, 
 {{< figure src="/img/blog/ParqueDonana_Pfad.JPG" title="Wunderschön angelegter Holzpfad im Naturpark"
 alt="Holzpfad durch den Nationalpark in Andalusien" >}}
 {{< figure src="/img/blog/ParqueDonana_Stellplatz.JPG" title="Unser Stellplatz für zwei Nächte im Naturpark" alt="Campervans parken im Nationalpark unter großen Bäumen" >}}
+{{< figure src="/img/blog/Cale-Cindy-Shanti.JPG" title="Ein kleines Gruppenbildchen der inspiritana-Crew"
+alt="Das inspiritana-Team: Cale, Cindy & Shanti" >}}
 {{< figure src="/img/blog/ParqueDonana_Cale-Shanti.JPG" title="Wunderschöner weißer Sandstrand vor klarem Meer" alt="Cale und Shanti am Strand" >}}
 ## Portugal – wir kommen!
 Unser erster Tag in Portugal hätte nicht besser sein können: Gleich im ersten Örtchen finden wir den **Handyladen NOS**, bei dem wir eine portugiesische SIM-Karte mit unbegrenztem(!) Datenvolumen für 32,- ergattern! Das ist sogar günstiger als in Marokko…      
