@@ -14,7 +14,7 @@ Oder du hast **ein ganz anderes Anliegen**?
 
 #### Wir haben immer ein offenes Ohr für dich!    
 
-Um uns zu erreichen, nutze einfach einen der unten angegeben Kanäle oder folgendes Formular:
+Um uns zu erreichen, nutze einfach einen der rechts angegeben **Kanäle (Connect & Follow the Spirit)** oder folgendes Formular:
 
  <form action="https://formspree.io/kontakt@inspiritana.org" method="POST" class="navbar-form" role="search">
                     <div class="input-group">
@@ -22,8 +22,6 @@ Um uns zu erreichen, nutze einfach einen der unten angegeben Kanäle oder folgen
   <textarea name="Nachricht" placeholder="Deine Nachricht an inspiritana.org" class="form-control"></textarea><br>
   <button type="Senden"class="btn btn-template-main senden-button">Send <i class="fa fa-send"></i></button>
   </div>
-
-
 
 </form>
 
