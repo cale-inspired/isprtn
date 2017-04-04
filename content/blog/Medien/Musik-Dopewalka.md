@@ -3,7 +3,7 @@ author = "Cale"
 banner = "Thumb_Dopewalka.jpg"
 categories = ["Medien"]
 date = "2017-04-04T19:05:36+01:00"
-draft = false
+draft = true
 featured = ""
 keywords = ""
 subtitle = ""
@@ -20,7 +20,7 @@ Nur sehr wenige Musik-Interpreten kann ich so sehr empfehlen wie Deepwalka (vorh
 
 {{% youtube fi7mfO7AeCc %}}     
 
-- Was den Reggae-Künstler für mich aber wirklich besonders macht, sind seine tiefsinnigen Texte. Bei  manchen Liedern entdecke ich noch jetzt - beim 20. Mal - Interpretationsmöglichkeiten. Ein gutes  Beispiel hierfür der Track "Ich will sehen":
+- Was den Reggae-Künstler für mich aber wirklich besonders macht, sind seine tiefsinnigen Texte. Bei  manchen Liedern entdecke ich noch jetzt immer wieder Interpretationsmöglichkeiten. Ein gutes Beispiel hierfür der Track "Ich will sehen":
 
 > Du wirst auch dann noch hören, wenn jeder Ton verklungen ist,    
 > und noch sehen, wenn das letzte Objekt verschwunden ist,    
@@ -38,4 +38,6 @@ Nur sehr wenige Musik-Interpreten kann ich so sehr empfehlen wie Deepwalka (vorh
 
 {{% youtube uiVjYVX6OUY %}}
 
+- An Albumtiteln wie "Fluss des Lebens" und "Hier & Jetzt" lässt sich bereits erahnen: Die Texte des deutschen Musikers gehen weit über Stammtisch-Philosophie heraus. Deepwalka (Dopewalka) spricht über das Leben im Moment, die Essenz des Vergänglichen und die positive Energie, die wir alle in uns tragen. Er teilt mit uns Erkenntnisse, die viele Menschen auch beim Meditieren erfahren. 
 
+{{% youtube v4rOXP8nS8g %}}
