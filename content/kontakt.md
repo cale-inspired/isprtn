@@ -16,14 +16,7 @@ Oder du hast **ein ganz anderes Anliegen**?
 
 Um uns zu erreichen, nutze einfach einen der rechts angegeben **Kanäle (Connect & Follow the Spirit)** oder folgendes Formular:
 
- <form action="https://formspree.io/kontakt@inspiritana.org" method="POST" class="navbar-form" role="search">
-                    <div class="input-group">
-  <input name="E-Mail" placeholder="Deine E-Mail-Adresse" type="email" class="form-control"><br>
-  <textarea name="Nachricht" placeholder="Deine Nachricht an inspiritana.org" class="form-control"></textarea><br>
-  <button type="Senden"class="btn btn-template-main senden-button">Send <i class="fa fa-send"></i></button>
-  </div>
-
-</form>
+**Es gibt derzeit Probleme mit dem Kontaktformular. Bitte sende uns direkt <a href="mailto:czazlzez@inszpiritzana.org" onmouseover="this.href=this.href.replace(/z/g,'');">eine Mail</a> oder schreibe uns <a href="https://facebook.com/inspiritana.org">bei Facebook!</a>**
 
 Wir freuen uns darauf, von dir zu hören!     
 
