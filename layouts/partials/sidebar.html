@@ -1,3 +1,7 @@
+{{ if .IsPage }}
+	{{ partial "widgets/author.html" . }}
+{{ end }}
+
 {{ partial "widgets/connect.html" . }}
 
 {{ partial "widgets/newsletter.html" . }}

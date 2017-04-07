@@ -42,7 +42,7 @@ preserveTaxonomyNames = true
     # - you're done. Happy mailing!
     #
     # Enable the contact form by entering your Formspree.io email
-    email = "cale@inspiritana.org"
+    email = "kontakt@inspiritana.org"
     about_us = "Spannende Reiseberichte, inspirierende Ideen und interessante Artikel und Videos über Yoga, Gesundheit, Meditation und mehr. Kostenloser Yoga-Unterricht (auf Spendenbasis) für Einzelpersonen und Gruppen. Individuell, kreativ, einzigartig, aufregend!"
     copyright = "2017 - inspiritana.org"
     date_format = "02. 01. 2006"

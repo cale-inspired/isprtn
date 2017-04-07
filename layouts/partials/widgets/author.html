@@ -1,0 +1,23 @@
+<div class="panel sidebar-menu" id="kurzbio">
+
+    <div class="panel-heading">
+        <h3 class="panel-title">Geschrieben von:</h3>
+    </div>
+            <div class="panel-body">                   
+                <div class="image">
+                    {{ if eq .Params.author "Cindy" }}
+                        <img src="{{ .Site.BaseURL}}img/cindy-avatar.png" class="img-responsive" alt="" >
+                    {{ else }}
+                        <img src="{{ .Site.BaseURL}}img/cale-avatar.png" class="img-responsive" alt="" >
+                    {{ end }}
+                </div>
+                <h4>{{ if eq .Params.author "Cindy" }} Cindy {{ else }} Cale {{ end }}</h3>
+                <p class="intro">
+                    {{ if eq .Params.author "Cindy" }} 
+                        {{ index .Site.Data.dassindwir.bcindy "description" | markdownify }} 
+                    {{ else }} 
+                        {{ index .Site.Data.dassindwir.acale "description" | markdownify }} 
+                    {{ end }}
+                </p>                  
+            </div>
+</div>

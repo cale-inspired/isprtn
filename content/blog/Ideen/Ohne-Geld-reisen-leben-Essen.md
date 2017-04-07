@@ -57,7 +57,7 @@ Um das angesprochene Risiko zu minimieren, solltest du **kritisch abwägen**, we
 
 Hier bekommst du die **Abfälle, bevor sie in den Müll gewandert sind**. Dadurch sind diese generell noch unbedenklicher - und du musst dir nicht die Hände schmutzig machen! Man könnte das sozusagen **"Pre-Dumpster-Diving"** nennen. ;)
 
-Besonders erfolgreich war ich mit dieser Methode in den *fruterias* (Obstläden) und *panaderias* (Bäckerein) in Andalusien, Südspanien. Aber im Endeffekt funktioniert das Pre-Dumpster-Diving überall - auch in Deutschland. 
+Besonders erfolgreich war ich mit dieser Methode in den *fruterias* (Obstläden) und *panaderias* (Bäckereien) in Andalusien, Südspanien. Aber im Endeffekt funktioniert das Pre-Dumpster-Diving überall - auch in Deutschland. 
 
 {{< figure src="/img/blog/Brot.JPG" title="Bestes Brot ganz ohne Geld - meist vom Vortag" alt="Ohne Geld Brot in Bäckereien bekommen" >}}    
 

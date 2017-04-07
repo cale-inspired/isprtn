@@ -50,6 +50,14 @@ body {
 .navbar-brand img {
 	height: 63px;
 }
+
+@media (max-width: 768px) {
+  .navbar-brand img {
+    
+    
+  }
+}
+
 .navbar-brand:hover,
 .navbar-brand:focus {
   text-decoration: none;
@@ -454,6 +462,38 @@ div.share-content {
   font-size: 35px;
   color: #785828;
 }
+
+#kurzbio {
+  background: url('../img/texture2.png') center center repeat; /*pattern from subtlepatterns.com */
+  border: 1px solid #785828;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+#kurzbio h3 {
+  border-bottom: none;
+  font-style: italic;
+}
+
+#kurzbio h4 {
+  text-align: center;
+  font-style: none;
+}
+
+#kurzbio p {
+  text-align: center;
+  font-size: 13px;
+  line-height: 17px;
+  color: #785828;
+  margin-top: 5px;
+}
+
+#kurzbio img {
+  max-width: 150px;
+  margin: auto;
+  margin-top: 0px;
+}
+
 /* CAROUSEL */
 .owl-carousel .owl-controls .owl-page.active span,
 .owl-theme .owl-controls .owl-page.active span,
