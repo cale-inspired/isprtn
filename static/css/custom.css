@@ -796,6 +796,21 @@ p.lead {
 
 /* KONTAKT-SEITE */
 /*Formspree-Formular*/
-.senden-button {
+#kontaktformular {
+  max-width: 400px;
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+
+#kontaktformular .form-group {
+  margin: 10px;
+  margin-right: 0px;
+}
+
+#kontaktformular textarea {
+  min-height: 100px;
+}
+
+#kontaktformular button {
   float: right;
 }
