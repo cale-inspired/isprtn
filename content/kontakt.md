@@ -19,8 +19,6 @@ Um uns zu erreichen, nutze einfach einen der rechts angegeben **Kanäle (Connect
 {{< kontaktformular >}}
 
 
-**Es gibt derzeit Probleme mit dem Kontaktformular. Bitte sende uns direkt <a href="mailto:kzontzzakt@inszpiritzana.org" onmouseover="this.href=this.href.replace(/z/g,'');">eine Mail</a> oder schreibe uns <a href="https://facebook.com/inspiritana.org">bei Facebook!</a>**
-
 Wir freuen uns darauf, von dir zu hören!     
 
 Bis bald!     
