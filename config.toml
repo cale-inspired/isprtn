@@ -28,6 +28,7 @@ preserveTaxonomyNames = true
 
 [params]
     author = "Cale"
+    
 
     # Since this template is static, the contact form uses www.formspree.io as a
     # proxy. The form makes a POST request to their servers to send the actual

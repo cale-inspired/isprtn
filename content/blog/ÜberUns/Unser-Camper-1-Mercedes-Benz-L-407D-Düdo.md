@@ -2,9 +2,9 @@
 author = "Cale"
 banner = "Thumb_UnserCamper1.jpg"
 categories = ["ÜberUns"]
-date = "2016-12-14T20:24:55+01:00"
-draft = false
-  
+date = "2016-12-14"
+Lastmod = "2017-12-13T20:24:55+01:00"
+draft = false 
 keywords = "mercedes benz l 407 d 407d düdo campervan bus wohnmobil"
 subtitle = "Unser Campervan Eddie vorgestellt in Text und Bild - Teil 1"
 tags = ["Eddie", "Bus", "Camping"]
@@ -42,16 +42,24 @@ Wenn wir gefahren kommen, **hört man uns meist schon von Weitem**. Wenn wir irg
 
 {{< figure src="/img/blog/Bus/Außen-orange.JPG" title=" " alt="Mercedes L407D als Campervan und Wohnmobil" >}}   
 
+**UPDATE:** Seitdem wir **[unseren Düdo in der Wüste lackiert]({{< relref "Wir-lackieren-unseren-Bus.md" >}})** haben, sind wir etwas unauffälliger unterwegs. Mit dem neuen Wüstenbeige ist Eddie seinem Originallack wieder verdächtig nahe gekommen, jedoch etwas dunkler - und das Dach braun:
+
+{{< figure src="/img/blog/Lackieren_Fertig.JPG" title="Unser Düdo 407 - mittlerweile im diskreten Beige-Braun" alt="Unser Mercedes Benz Düdo 407 mit der neuen Lackierung" >}}
+
 Mit der großen Frontscheibe und zwei Metern Breite wirken Düdos meines Erachtens immer wuchtig. Durch die **verstärkten Federn hinten** ist unser L407D noch ein ganzes Stück höher als gewöhnlich, was ihm - sagen wir - eine **stattliche Figur** verschafft. Da wir die Flachdach-Variante haben, ist er aber zumindest **in der Höhe recht handlich**.    
 
 Der größte Blickfang von außen ist ohne Frage die **Glaskuppel auf dem Dach** - wir scherzen ab und zu über den "Spaceshuttle-Look":
 
 {{< figure src="/img/blog/Bus/Dachkuppel-außen.JPG" title="Die 2,50m lange Dachkuppel unseres Düdos" alt="Düdo mit Glaskuppel auf dem Dach" >}} 
 
+Anfang März haben wir uns **[in Marokko einen Dachgepäckträger bauen lassen]({{< relref "Düdo-Dachgepäckträger.md" >}})**. Mit einer Fläche von 1,40 x 2,00 m ist hier jede Menge Platz für Kram jeglicher Art. Meistens transportieren wir hier ein Fahrrad, das Solarpanel, ein paar Kanister und haufenweise anderer Kram, der nicht so oft gebraucht wird.
+
+{{< figure src="/img/blog/Dachgepäckträger3.JPG" title="Die neue Dachterasse - handmade in Morocco" alt="Der Dachgepäckträger unseres Campers" >}}
+
 Bei genauerem Hinsehen fällt auch ein **verruster Topfdeckel auf dem Dach auf**...
 
 {{< figure src="/img/blog/Bus/Esse.JPG" title=" " alt="Die Esse unseres Campervan-Ofen" >}} 
 
-Welche Rolle dieser spielt und was sich sonst noch alles in unserem rollenden Zuhause verbirgt, erfährst du - sehr bald! - im zweiten Teil zu unserem Mercedes-Bus Eddie.
+Welche Rolle dieser spielt und was sich sonst noch alles in unserem rollenden Zuhause verbirgt, erfährst du **[im zweiten Teil zu unserem Mercedes-Bus Eddie]({{< relref "Unser-Camper-2-Innenausbau.md" >}})**.
 
-### Tipp: [Folge uns auf Facebook](http://facebook.com/inspiritana.org), um Teil 2 der Artikel-Serie nicht zu verpassen!
+**Tipp: [Folge uns auf Facebook](http://facebook.com/inspiritana.org), um keine aktuellen Beiträge zu verpassen!**
