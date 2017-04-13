@@ -4,6 +4,7 @@ banner = "Thumb_Ohne-Geld-Wasser.JPG"
 categories = ["Ideen", "Reisen"]
 date = "2017-01-27T14:35:57+01:00"
 draft = false
+featured = "1"
 keywords = "leben reisen ohne geld wasser"
 subtitle = "So einfach findest du ohne Geld Wasser auf Reisen & zu Hause"
 tags = ["Ohne Geld", "Reisen", "Leben", "Tipps", "Wasser"]

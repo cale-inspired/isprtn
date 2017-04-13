@@ -4,7 +4,7 @@
         <h3 class="panel-title">Am beliebtesten</h3>
     </div>
             <div class="panel-body">
-                {{ range first 4 (where $.Site.Pages "Params.featured" "=" "1") }}
+                {{ range first 5 (where $.Site.Pages "Params.featured" "=" "1") }}
                     
                  
                 <div class="item same-height-row clearfix">

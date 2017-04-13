@@ -5,6 +5,7 @@ categories = ["ÜberUns"]
 date = "2016-12-14"
 Lastmod = "2017-12-13T20:24:55+01:00"
 draft = false 
+featured = "1"
 keywords = "mercedes benz l 407 d 407d düdo campervan bus wohnmobil"
 subtitle = "Unser Campervan Eddie vorgestellt in Text und Bild - Teil 1"
 tags = ["Eddie", "Bus", "Camping"]
