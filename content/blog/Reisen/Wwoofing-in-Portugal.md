@@ -17,7 +17,7 @@ Mitte April habe ich mich – dieses mal allein - auf den Weg Richtung **Tabuá*
 ## Freiwilligenarbeit in Portugal – und wo genau?
 Hier im kleinen Dörfchen **Póvoa de Midões** kommt es mir vor, als gehöre dieser Fleck Erde noch zu den Örtchen auf der Welt, in denen es etwas **entschleunigt** zugeht, in denen die Zeit noch nicht einfach so an einem vorbeifliegt.       
 
-Bernd und Martina haben schon vor über 25 Jahren ihr **2ha großes Grundstück** im Herzen Portugals gekauft – ihre „[Quinta Bamboo](http://quintabamboo.com/)“ liegt umringt von anderen Farmhäusern, Eukalyptuswäldchen und Ackerflächen etwa sieben Kilometer von der nächstgrößeren Ortschaft Tabuá entfernt.       
+Bernd und Martina haben schon vor über 25 Jahren ihr **3ha großes Grundstück** im Herzen Portugals gekauft – ihre „[Quinta Bamboo](http://quintabamboo.com/)“ liegt umringt von anderen Farmhäusern, Eukalyptuswäldchen und Ackerflächen etwa sieben Kilometer von der nächstgrößeren Ortschaft Tabuá entfernt.       
 
 {{< figure src="/img/blog/Quinta_Ausblick.JPG" title="Ausblick auf das Tal Vale de Mondego"
 alt="Blick auf das Tal Vale de Mondego" >}}
@@ -51,7 +51,7 @@ alt="Yoga-Plattform mit Blick auf ein grünes Tal" >}}
 Zwischen all der Arbeit haben wir interessante und tiefgreifende Gespräche am Mittagstisch. Außerdem darf ich die beiden zu ihren täglichen Yoga-/ Taekwon-Do-Einheiten in die Akademie begleiten.
 
 ## Wanderung durch die wunderschöne Serra da Estrela
-Sehr dankbar bin ich dafür, dass die beiden sich die Zeit nehmen, mit mir eine Wanderung durch das „Sternen-Gebirge“ **Serra da Estrela**, Portugals höchstem Gebirge (zumindest auf dem Festland), zu unternehmen. Nach einer sehr lustigen, abenteuerlichen Fahrt und ein paar Abkürzungen, die sich letztlich als Umwege herausstellen, finden wir sogar den wunderschönen **Wanderpfad** wieder, den sie mir zeigen wollten. Die Landschaft hier auf circa 1900m Höhe mit ihren runden Felsformationen erinnert mich gleich an die [**Gegend um Tafraout** in Marokko, die wir im März erkundet haben]({{< relref "UnserLeben-11.md" >}}). Aber sieh' selbst:
+Sehr dankbar bin ich dafür, dass die beiden sich die Zeit nehmen, mit mir eine Wanderung durch das „Sternen-Gebirge“ **Serra da Estrela**, Portugals höchstem Gebirge (zumindest auf dem Festland), zu unternehmen. Nach einer sehr lustigen, abenteuerlichen Fahrt und ein paar Abkürzungen, die sich letztlich als Umwege herausstellen, finden wir sogar den wunderschönen **Wanderpfad** wieder, den sie mir zeigen wollten. Die Landschaft hier auf circa 1900m Höhe mit ihren runden Felsformationen erinnert mich gleich an die [**Gegend um Tafraout**]({{< relref "UnserLeben-11.md" >}}) in Marokko, die wir im März erkundet haben. Aber sieh' selbst:
 {{< figure src="/img/blog/Estrela_Landschaft.JPG" title="Wunderschöne Gebirgslandschaft in der Serra da Estrela"
 alt="Parkplatz an den Klippen" >}}
 {{< figure src="/img/blog/Estrela_Haus1.JPG" title="Überall runde Felsen, Wälder und blühende Büsche im Estrela-Gebirge"
