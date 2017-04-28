@@ -63,4 +63,4 @@ alt="Cindy zwischen den Felsen" >}}
 {{< figure src="/img/blog/Estrela_Stausee.JPG" title="Stausee im Estrela-Gebirge"
 alt="Blick auf einen Stausee im Estrela-Gebirge" >}}
 
-Ich freue mich riesig auf die noch verbleibenden Tage auf der Quinta Bamboo und bin so **glücklich**, hier gelandet und so herzlich von Bernd und Martina empfangen worden zu sein. Alles in allem kann ich jedem nur empfehlen, den beiden, mit ihrer offenen, witzig-liebevollen und inspirierenden Art, inklusive der **Quinta Bamboo**, einem so magischen Ort, einen Besuch abzustatten – egal ob als Helfer, Gast oder vielleicht sogar beides. **Es ist eine Wohltat für Leib und Seele :-)**
+Ich freue mich riesig auf die noch verbleibenden Tage auf der Quinta Bamboo und bin so **glücklich**, hier gelandet und so herzlich von Bernd und Martina empfangen worden zu sein. **Alles in allem kann ich jedem nur empfehlen, den beiden, mit ihrer offenen, witzig-liebevollen und inspirierenden Art, inklusive der Quinta Bamboo, einem so magischen Ort, einen Besuch abzustatten – egal ob als Helfer, Gast oder vielleicht sogar beides. **Es ist eine Wohltat für Leib und Seele :-)**
