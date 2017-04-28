@@ -39,7 +39,7 @@ alt="Verschiedene Pflanzen und Kräuter in einem Garten" >}}
 {{< figure src="/img/blog/Quinta_Salat.JPG" title="Leckerer Salat – alles aus eigener Ernte, sogar das verwendete Olivenöl"
 alt="Frischer Wildkräutersalat" >}}
 
-##Yoga als Lebensphilosophie auf der Quinta Bamboo
+## Yoga als Lebensphilosophie auf der Quinta Bamboo
 
 Bernd und Martina betreiben neben ihrer Quinta samt **Ferien- und Zen-Haus** eine Yoga- und Taekwon-Do-Akademie.       
 {{< figure src="/img/blog/Quinta.JPG" title="Ferienhaus und gemütliches Zen-Holzhaus für Urlauber"
