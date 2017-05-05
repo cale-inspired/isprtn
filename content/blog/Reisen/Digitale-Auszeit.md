@@ -6,7 +6,7 @@ date = "2017-05-04T11:02:30+01:00"
 draft = false
 featured = ""
 keywords = "digitale auszeit offtime portugal barranco barao de sao joao rainbow gathering"
-subtitle = "Liebe statt Internet, Freunde statt Likes & Zeit statt Uhrzeit."
+subtitle = "Von Strandpartys, Hippiemärkten und Regenbögen."
 tags = ["Internet", "Natur", "Menschen", "Strände"]
 title = "Digitale Auszeit."
 
@@ -30,7 +30,7 @@ In diesem Zuge lasse ich auch mein Smartphone ausgeschaltet, und **lebe ohne Uhr
 
 Stattdessen nutze ich die Zeit, um ein paar **analoge Arbeiten** anzugehen: Am ersten Tag filtere ich gut 40 Liter Öl, am zweiten räume ich das Auto auf, an den darauffolgenden erledige ich Stück für Stück die restlichen Lackierarbeiten im Innenbereich, insbesondere an den Türen.    
 
-Etwa **drei, vier Stunden Arbeit am Tag** scheint mir ein angemessenes Maß. Die restliche Zeit verbringe ich mit den **wundervollen, vielfältigen Menschen** auf dem Parkplatz. Man lernt sich schnell kennen, und innerhalb weniger Tage sind wir eine große Familie. Ganz **verschiedene Charaktere mit unterschiedlichen Backgrounds und Fahrzeugen jeder Art**. Für jeden ist etwas dabei, und jeder versteht sich mit den anderen. Es is **ein friedliches, freundliches und sorgenloses Zusammenleben** - die Außenwelt ist schnell vergessen. Morgens unterrichte ich meist einige Familienmitglieder im Yoga, und die Nachfrage steigt von Tag zu Tag. 
+Etwa **drei, vier Stunden Arbeit am Tag** scheint mir ein angemessenes Maß. Die restliche Zeit verbringe ich mit den **wundervollen, vielfältigen Menschen** auf dem Parkplatz. Man lernt sich schnell kennen, und innerhalb weniger Tage fühlt es sich an wie eine große Familie. Ganz **verschiedene Charaktere mit unterschiedlichen Backgrounds und Fahrzeugen jeder Art**. Für jeden ist etwas dabei, und jeder versteht sich mit den anderen. Es is **ein friedliches, freundliches und sorgenloses Zusammenleben** - die Außenwelt ist schnell vergessen. Morgens unterrichte ich meist einige Familienmitglieder im Yoga, und die Nachfrage steigt von Tag zu Tag. 
 
 In so einer Atmosphäre ist es für jemanden wie mich ein Leichtes, zu versacken. Und so bleibe ich einige Tage länger als geplant. Als ich **in das kleine Community-Haus Casa Barriga zum Unterrichten eingeladen** werde, ist das für mich eine gute Gelegenheit, Barranco hinter mir zu lassen. Einen Tag später fahre ich **nach Barão de São João zum alternativen Markt**, der hier jeden Monat stattfindet. Zwar ist der eigentliche Markt nur am Sonntag, doch reisen viele schon Tage vorher an. Die bekannten Gesichter aus Barranco sind auch da. Man kennt sich - und trifft sich wieder. Zwei Tage **Festival-Stimmung** kommt auf. Am Sonntag veranstalte ich auch einen kleinen Verkaufsstand mit den Waren, die ich aus Marokko mitgebracht habe. Das Geschäft läuft okay, steht für mich aber im Hintergrund. Es sind zu viele schöne Menschen da, die ich noch kennenlernen will.    
 
@@ -58,7 +58,7 @@ Wir parken unsere Fahrzeuge in der Parking-Area, die etwa 15 Gehminuten vom eige
 
 {{< figure src="/img/blog/Rainbow_Portugal2.JPG" title="Rainbow Gathering in Portugal 2017" alt="Rainbow Gathering in Portugal 2017" >}} 
 
-Nach meiner Zeit am Barranco bekomme ich hier genau das, was ich brauche: **wunderschöne Menschen, heilende Natur und Geborgenheit**. Zwar bin ich mit einer schweren Erkältung angereist, doch als ich nach vier Tagen weiterziehe, bin ich wieder kerngesund und super happy.    
+Nach meiner Zeit am Barranco bekomme ich hier genau das, was ich brauche: **wunderschöne Menschen, heilende Natur, inspirierende Gespräche und Geborgenheit**. Zwar bin ich mit einer schweren Erkältung angereist, doch als ich nach vier Tagen weiterziehe, bin ich wieder kerngesund und super happy.    
 
 Gerne wäre ich noch länger geblieben, am liebsten über den Höhepunkt des Vollmonds. Aber **die Zeit drängt langsam.** Und bald sehe ich Cindy wieder, mit der ich gemeinsam in den Norden Spaniens fahren werde. Ab 11. Mai werde ich dort in einem Ashtanga-Yoga-Center am Fuße der Picos de Europa für drei Wochen **die Yoga-Retreats als Volunteer unterstützen**. Für diesen Zeitraum habe ich mir auch beruflich freigenommen, und werde wohl weiterhin nur sehr wenig Zeit am Computer verbringen. Wahrscheinlich hörst du also wieder eine Weile nichts von mir. Das tut mir leid, hoffe aber auf dein Verständnis: 
 **Im Moment gibt es in der analogen Welt mehr für mich zu tun. Es fühlt sich richtig und wichtig an.**
