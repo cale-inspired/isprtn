@@ -12,12 +12,12 @@ title = "Wwoofing in Portugal – Volunteer-Work an einem wunderschönen Fleckch
 
 +++
 
-Mitte April habe ich mich – dieses mal allein - auf den Weg Richtung **Tabuá**, eine kleine portugiesische Stadt nordwestlich von Coimbra gemacht, um auf der **Bio-Farm** von Bernd und Martina mitzuarbeiten. Heute also ein etwas anderer Beitrag über meine **Volunteer-Arbeit**.<!--more-->
+Mitte April habe ich mich – dieses mal allein - auf den Weg Richtung **Tabuá**, eine kleine portugiesische Stadt nordwestlich von Coimbra gemacht, um auf der **Bio-Yoga-Farm** von Bernd und Martina mitzuarbeiten. Heute also ein etwas anderer Beitrag über meine **Volunteer-Arbeit**.<!--more-->
 
 ## Freiwilligenarbeit in Portugal – und wo genau?
 Hier im kleinen Dörfchen **Póvoa de Midões** kommt es mir vor, als gehöre dieser Fleck Erde noch zu den Örtchen auf der Welt, in denen es etwas **entschleunigt** zugeht, in denen die Zeit noch nicht einfach so an einem vorbeifliegt.       
 
-Bernd und Martina haben schon vor über 25 Jahren ihr **3ha großes Grundstück** im Herzen Portugals gekauft – ihre „[Quinta Bamboo](http://quintabamboo.com/)“ liegt umringt von anderen Farmhäusern, Eukalyptuswäldchen und Ackerflächen etwa sieben Kilometer von der nächstgrößeren Ortschaft Tabuá entfernt.       
+Bernd und Martina haben schon vor über 25 Jahren ihr **3ha großes Grundstück** im Herzen Portugals gekauft – ihre „[Quinta Bamboo](http://quintabamboo.com/)“ liegt umringt von anderen Farmhäusern, Mimosenwäldchen und Ackerflächen etwa sieben Kilometer von der nächstgrößeren Ortschaft Tabuá entfernt.       
 
 {{< figure src="/img/blog/Quinta_Ausblick.JPG" title="Ausblick auf das Tal Vale de Mondego"
 alt="Blick auf das Tal Vale de Mondego" >}}
@@ -30,8 +30,7 @@ Inzwischen hatten die beiden schon Volunteer-Worker aus Australien, Amerika, Fra
 
 {{< figure src="/img/blog/Quinta_Verfugen.JPG" title="Die Terrasse wird erweitert"
 alt="Kacheln legen, kleben und verfugen auf einer Terrasse" >}}
-{{< figure src="/img/blog/Quinta_Mist.JPG" title="Mist schaufeln für frischen Dünger auf der Nachbars-Quinta"
-alt="Frau beim Mist schaufeln" >}}
+
 In Martinas **Kräuter- und Gemüsegarten** fühle ich mich gleich ganz heimisch und kann die beiden täglich mit einem frischen Salat oder leckeren Smoothies „überraschen“. 
 
 {{< figure src="/img/blog/Quinta_Garten.JPG" title="Kräuter- und Gemüsegarten in der Quinta"
@@ -41,10 +40,11 @@ alt="Frischer Wildkräutersalat" >}}
 
 ## Yoga als Lebensphilosophie auf der Quinta Bamboo
 
-Bernd und Martina betreiben neben ihrer Quinta samt **Ferien- und Zen-Haus** eine Yoga- und Taekwon-Do-Akademie.       
+Bernd und Martina betreiben neben ihrer Quinta samt **Ferien- und Zen-Haus** eine Yoga- und Taekwon-Do-Akademie und veranstalten außerdem erlebnisreiche, erholsame Yoga-Retreats.       
 {{< figure src="/img/blog/Quinta.JPG" title="Ferienhaus und gemütliches Zen-Holzhaus für Urlauber"
 alt="Zwei Ferienhäuser auf einer Quinta in Portugal" >}}
-Schon seit über 30 Jahren praktizieren sie **Ashtanga Vinyasa Yoga** und Kampfkunststile wie **Taekwon-Do**, Kung Fu oder Wing Chun. Auf ihrer Quinta haben sie deshalb für die tägliche Praxis eine **Yoga-Plattform**, die nicht nur von ihnen selbst sondern auch von den Gästen und Volunteer-Workern genutzt werden kann. Ich liebe es, hier früh am Morgen, bevor die Bewässerung der Beete ansteht, während einer Runde Yoga die ersten Sonnenstrahlen durch den Himmel blitzen zu sehen – und dies wird stets von **Katze Surya** überwacht, die darauf achtet, dass ich alles richtig mache:
+Schon seit über 30 Jahren praktizieren sie **Ashtanga Vinyasa Yoga** und Kampfkunststile wie **Taekwon-Do**, Kung Fu oder Wing Chun. Auf ihrer Quinta haben sie deshalb für die tägliche Praxis eine **Yoga-Plattform**, die nicht nur von ihnen selbst sondern auch von den Gästen und Volunteer-Workern genutzt werden kann. Dabei steht Martina als langjährige, erfahrene Yoga-Lehrerin jedem zur Seite und unterrichtet entweder im Mysore- oder im geführten Stil. Sowohl fortgeschrittenen als auch erfahrenen Ashtangis kann ich den Unterricht nur empfehlen.      
+Ich liebe es, früh am Morgen, bevor die Bewässerung der Beete ansteht, während einer Runde Yoga auf der Quinta, die ersten Sonnenstrahlen durch den Himmel blitzen zu sehen – dies wird stets von **Katze Surya** überwacht, die darauf achtet, dass ich alles richtig mache:
 
 {{< figure src="/img/blog/Quinta_Yoga.JPG" title="Yoga-Plattform (Shala) der Quinta"
 alt="Yoga-Plattform mit Blick auf ein grünes Tal" >}}
