@@ -27,7 +27,7 @@ Um **Yoga** zu praktizieren, kann es ganz **unterschiedliche Gründe und Motivat
 
 {{< figure src="/img/blog/Dune-du-Pilat-Yoga-Kopfstand.jpg" title="Physische und mentale Kraft - das braucht es für Yoga-Asanas wie den Kopfstand" alt="Kraft durch Yoga - hier im Kopfstand" >}}  
 
-- Dass die körperliche Yoga-Praxis, die **Asanas**, - bei korrekter Ausführung - wunderbar zur **physischen Gesundheit** bei, ist in der westlichen Welt mittlerweile fast jedem bekannt. Nicht ohne Grund haben die körperlichen Übungen der indischen Lehre mittlerweile einen festen Platz in vielen Fitness-Studios und Sportvereinen eingenommen.
+- Dass die körperliche Yoga-Praxis, die **Asanas**, - bei korrekter Ausführung - wunderbar zur **physischen Gesundheit** beiträgt, ist in der westlichen Welt mittlerweile fast jedem bekannt. Nicht ohne Grund haben die körperlichen Übungen der indischen Lehre mittlerweile einen festen Platz in vielen Fitness-Studios und Sportvereinen eingenommen.
 - Diesen gesundheitlichen Vorteil auf körperlicher Ebene zu bemerken, ist wohl das Leichteste für einen Yoga-Anfänger: Die **Körperhaltung** verbessert sich, die **Gelenke** arbeiten "geschmierter" und der gesamte Bewegungsapparat wird **sowohl gestärkt als auch flexibler**.
 - Aber auch auf **mentaler Ebene** hat die Yoga-Praxis einen überaus positiven Einfluss: Ich habe gelernt, meine **Sinne** besser zu kontrollieren und meine wirren **Gedanken** im Zaum zu halten. Die dauerhaft quasselnde Stimme im Kopf lässt sich mittlerweile (meistens) nach Wunsch ausschalten - und der Geist dafür umso **konzentrierter** benutzen, wenn ich ihn wirklich brauche.
 

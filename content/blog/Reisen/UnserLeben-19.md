@@ -16,6 +16,9 @@ title = "UnserLeben #19 - Drei Wochen im Yoga-Center in Nordspanien"
 
 ## Ein Yoga-Center am Rande des Naturparks - AsturiasYoga.com
 
+{{< figure src="/img/blog/AsturiasYoga_Wanderung.jpg" title="Exkursion am Rande der Picos de Europa"
+alt="Wanderung durch die Natur, Picos de Europa" >}}
+
 Das weitläufige Areal des Yoga-Centers liegt **am Fuße des Naturparks "Picos de Europa"** inzwischen von kommunalen Weideland, eingebettet in eine wundervolle grüne Natur, die als die Gegend mit der **höchsten Biodiversität ganz Europas** gilt.    
 
 {{< figure src="/img/blog/AsturiasYoga_AlySimon.JPG" title="Yoga-Lehrer, Chefs und Freunde - Simon & Aly"
@@ -65,6 +68,9 @@ Zum anderen sind die Asanas über sogenannte **Vinyasas** verbunden - flüssige 
 
 Darüber hinaus sind **praktisch sämtliche Elemente der Praxis festgelegt**: von den Mantras über den Blickpunkt (Drishti) bis hin zur Anzahl an Atemzügen in einem bestimmten Asana. Bei den meisten anderen Yoga-Stilen ist der Inhalt einer Stunde größtenteils vom Lehrer abhängig. Im Ashtanga-Yoga ist der Lehrer praktisch "nur" für die Hilfestellung und Korrektur der Haltung verantwortlich (Stichwort "**Mysore-Stil**").
 
+{{< figure src="/img/blog/AsturiasYoga_Asana.JPG" title="Workshop-Experimente mit Garbha Pindasana, eine merkwürdige Pose"
+alt="Yoga-Asana Garbha Pindasana aus der Primary Series im Ashtanga Vinyasa Yoga" >}}
+
 Generell ist Ashtanga Vinyasa ein **sehr anspruchsvoller Yoga-Stil**, der dem Schüler sowohl körperlich als auch mental enorm viel abverlangt. Dass sich die Asanas in jeder Stunde wiederholen, macht es zum einen leichter, eigene Fort-/Rückschritte zu reflektieren, und erlaubt zum anderen einen größeren Fokus auf die Praxis selbst als auf die Gestaltung der Stunde.    
 
 **Mein persönliches Fazit:** Von der ersten Stunde an empfand ich die Praxis gleichermaßen **herausfordernd wie befriedigend**. Körperlich bin ich an meine Grenzen gegangen, während ich geistig und spirituell enorm gewachsen bin. Dass drei Wochen der intensiven Praxis "meinen" Yoga-Stil beeinflussen würden, war mir bereits im Vornherein klar. Überraschend ist für mich aber, wie sehr Ashtanga Vinyasa Yoga mich eingenommen hat. So kann ich mir jetzt - im Nachhinein - durchaus vorstellen, mich **in Zukunft auf diesen Stil zu fokussieren** - aber das wird erst die Zeit zeigen.
@@ -74,5 +80,5 @@ Generell ist Ashtanga Vinyasa ein **sehr anspruchsvoller Yoga-Stil**, der dem Sc
 {{< figure src="/img/blog/AsturiasYoga_Sonne.JPG" title="Sonnenuntergang über den Picos de Europa"
 alt="Sonnenuntergang über den Picos de Europa" >}}
 
-Meine liebe Cindy ist übrigens in der Zwischenzeit auf Teneriffa mit dem Backpack unterwegs, und sammelt dort auch als Volunteer zahlreiche einzigartige Erfahrungen. Sporadische Updates dazu bekommst du u.a. [auf unserer Instagram-Seite](https://instagram.com/inspiritana).
+Meine liebe Cindy ist übrigens in der Zwischenzeit auf Teneriffa mit dem Backpack unterwegs, und sammelt dort auch als Volunteer zahlreiche einzigartige Erfahrungen. Sporadische Updates dazu bekommst du u.a. [auf unserer Instagram-Seite](https://instagram.com/inspiritana). Wie es dazu gekommen ist und was sie dort so erlebt, werden wir dir natürlich zeitnah auf unserem Blog verraten! :) Stay tuned.
 
