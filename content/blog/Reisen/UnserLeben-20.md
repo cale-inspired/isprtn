@@ -1,7 +1,7 @@
 +++
 author = "Cale"
 banner = "Thumb_UnserLeben20.jpg"
-categories = ["UnserLeben", "Reisen", "Inspiration"]
+categories = ["UnserLeben", "Reisen", "Ideen"]
 date = "2017-06-15T21:57:39+02:00"
 draft = false
 featured = ""
