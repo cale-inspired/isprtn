@@ -12,7 +12,7 @@ title = "Alleine auf Reisen - so hat mich die Zeit geprägt"
 
 +++
 
-Diesen Blog-Eintrag möchte ich dazu nutzen, um dich ein bisschen darüber aufzuklären, was bei mir **die letzten Wochen** abging, wie es dazu kam, dass ich von Nord-Spanien aus **allein weiter gereist** bin und was diese **wichtige Erfahrung** mit mir angestellt hat. <!--more-->Dabei möchte ich betonen, dass das allein meine Ansichten sind, die von niemand anderem geteilt werden müssen, trotzdem empfinde ich es als ein wichtiges Thema, das ich gerne mit dir teile :-)      
+Diesen Blog-Eintrag möchte ich dazu nutzen, um dich ein bisschen darüber aufzuklären, was bei mir **die letzten Wochen** abging, wie es dazu kam, dass ich von Nord-Spanien aus **allein weiter gereist** bin und was diese **wichtige Erfahrung** mit mir angestellt hat. <!--more--> Dabei möchte ich betonen, dass das allein meine Ansichten sind, die von niemand anderem geteilt werden müssen, trotzdem empfinde ich es als ein wichtiges Thema, das ich gerne mit dir teile :-)      
 
 ## Weg vom Bus: Los geht’s mit Rucksack und Zelt nach Teneriffa – so kam's dazu
 
