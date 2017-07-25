@@ -57,16 +57,11 @@ Darüber hinaus besteht auch stets Bedarf nach unterschiedlichsten Sachspenden. 
  - Instrumente (insbesondere Klangschalen, Handpans, Djambes, Harmonium)
  - Schrauben, Unterlegscheiben etc.
 
-Zusätzlich suchen wir derzeit händeringend nach:
-
- - Dachgepäckträger für unseren Mercedes 407 Düdo
- - Autolack in Grün- und Brauntönen
-
 Du willst deine Fähigkeiten mit uns teilen? **Wir brauchen Hilfe bei:**
 
  - Arbeiten am Auto (Schweißen, Wartungsarbeiten etc.)
  - Programmierung und Optimierung der Homepage
- - Fremdsprachen lernen (Arabisch, Französisch, Russisch, Spanisch)
+ - Fremdsprachen lernen (Arabisch, Russisch, Spanisch)
  - gewiss noch vielen anderen Dingen - bitte lass uns wissen, wie du uns helfen willst!
 
 Natürlich kann die Koordination der Hilfe etwas knifflig werden, da wir die meiste Zeit über auf Reise im Ausland sind. In regelmäßigen (größeren Abständen) sind wir aber auch in Deutschland unterwegs, und wer weiß: Vielleicht kreuzen sich unsere Wege ja auch auf Reisen?
