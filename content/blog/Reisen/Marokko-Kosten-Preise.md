@@ -109,5 +109,10 @@ Nach drei Monaten im Land haben wir mittlerweile einen kleinen **Überblick der 
 - **Dienstleistungen**, insbesondere Handwerksarbeit, sind für europäische Verhältnisse **sehr günstig**.
 - **Diesel und Campingplatzgebühren** sind im Vergleich zu Obst und Gemüse **relativ teuer**, aber immer noch günstiger als in europäischen Ländern.
 
+## Tipp: Noch mehr Einblicke und Infos für Marokko
+
+Wenn dich die Kosten und Preise in Marokko interessieren, bist du wahrscheinlich gerade in der Reiseplanung oder überlegst, **ob Marokko das richtige Land für dich ist**. Dann lass dir auf keinen Fall meinen Artikel **["5 Gründe, wieso ich wieder nach Marokko reisen würde"]({{< relref "5-Gründe-für-Marokko.md" >}})** entgehen: Hier erfährst du, was für mich die Highlights des nordafrikanischen Lands waren.  
+
+Für noch mehr **Einblicke ins Land** empfehle ich dir zudem unsere **[Berichte zur dreimonatigen Marokko-Reise](https://inspiritana.org/tags/marokko)**.
 
 **Hast du noch Ergänzungen oder Korrekturen für die Liste? Gerne her damit! Hinterlasse einfach ein Kommentar oder [schreibe uns auf Facebook](https://facebook.com/inspiritana.org).**
