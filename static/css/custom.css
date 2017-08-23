@@ -11,6 +11,11 @@ body {
 .navbar-header {
 	height: 70px;
 }
+
+#nav-blog a {
+  
+}
+
 /*
 .navbar-affixed-top.affix-top {
   -webkit-transition: all 0.5s ease-out;
@@ -256,7 +261,7 @@ div#content {
 }
 
 #blog-listing-medium .post p {
-  font-size: 15px;
+  font-size: 16px;
 }
 
 
@@ -468,6 +473,7 @@ div.share-content {
   border: 1px solid #785828;
   padding-left: 10px;
   padding-right: 10px;
+  text-align: center;
 }
 
 #kurzbio h3 {
@@ -486,6 +492,14 @@ div.share-content {
   line-height: 17px;
   color: #785828;
   margin-top: 5px;
+}
+
+#kurzbio .author-location {
+  font-size: 14px;
+  font-style: italic;
+  text-align: center; 
+  color: #888888;
+  margin-top: 0px;  
 }
 
 #kurzbio img {
@@ -814,3 +828,5 @@ p.lead {
 #kontaktformular button {
   float: right;
 }
+
+
