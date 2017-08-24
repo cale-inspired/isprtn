@@ -18,6 +18,13 @@
                     {{ else }} 
                         {{ index .Site.Data.dassindwir.acale "description" | markdownify }} 
                     {{ end }}
-                </p>                  
+                </p>          
+                <p class="author-location">
+                    {{ if eq .Params.author "Cindy" }} 
+                        Derzeit in: <i class="fa fa-location-arrow"></i> {{ index .Site.Data.dassindwir.bcindy "location" | markdownify }} 
+                    {{ else }} 
+                        <i class="fa fa-location-arrow"></i> Derzeit in:  {{ index .Site.Data.dassindwir.acale "location" | markdownify }} <i class="fa fa-location-arrow"></i> 
+                    {{ end }}  
+                </p>      
             </div>
 </div>
