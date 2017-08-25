@@ -7,7 +7,7 @@
 {{ if eq .URL "/" }}
   <title>{{ .Title }}</title>
 {{ else if eq .URL "/blog/" }}
-  <title>inspiritana - der inspirierende Blog über Yoga, Reisen, Meditation, Gesundheit & mehr.</title>
+  <title>inspiritana - der inspirierende Blog über alternatives Reisen & Leben, Yoga & Meditation, Philosophie & mehr.</title>
 {{ else }}
   <title>{{ .Title }} - inspiritana.org</title>
 {{ end }}
@@ -18,7 +18,7 @@
   {{ if .IsPage }}
   <meta name="keywords" content="{{ .Keywords }}">
   {{ else }}
-  <meta name="keywords" content="yoga, blog, reisen, meditation, gesundheit, inspiration">
+  <meta name="keywords" content="yoga, blog, reisen, meditation, camper, backpacker">
   {{ end }}
 
   <!-- Meta-Description für 1. Seiten mit manueller Beschreibung 2. Seiten 3. Blog-Sektion 4. Startseite -->
