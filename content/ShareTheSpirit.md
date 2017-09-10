@@ -15,7 +15,7 @@ Auch wenn wir einen sehr sparsamen Lebensstil pflegen, unsere Ausgaben aufs Alle
 
 Gerne würden wir noch viel mehr Artikel schreiben, Bilder knipsen und Videos zusammenstellen - das erfordert aber jede Menge Zeit. Je mehr Zeit wir aber in andere Arbeit stecken, um das nötige Kleingeld zusammenzukratzen, desto öfter muss inspiritana.org leider hinten anstehen.    
 
-**Ein Bezahlmodell für unsere Inhalte kommt für mich nicht in Frage** - das würde der gesamten Philosophie des Projekts widersprechen. **Stattdessen sind wir ausschließlich auf Spenden und andere Unterstützung angewiesen.**
+**Ein Bezahlmodell für unsere Inhalte oder Werbeplatzierung kommen für mich nicht in Frage** - das würde der gesamten Philosophie des Projekts widersprechen. **Stattdessen sind wir ausschließlich auf Spenden und andere Unterstützung angewiesen.**
 
 #### Dank deiner Spende kann inspiritana.org noch mehr Leute inspirieren!
 
@@ -39,7 +39,7 @@ Du kannst uns natürlich auch (noch lieber) auf anderen Wegen unterstützen. Hie
 
 ##### Share the spirit - Teile inspiritana.org mit deinen Freunden
 
-Wenn du unsere Seite und/oder unsere Artikel, Facebook-Posts, YouTube-Videos etc. **in sozialen Netzwerken teilst**, ist das für uns eine große Hilfe: Je mehr Leute wir erreichen und inspirieren können, desto mehr kommen wir unserem Ziel einer besseren Welt näher!    
+Wenn du unsere Seite und/oder unsere Artikel, Facebook-Posts, YouTube-Videos etc. **in sozialen Netzwerken teilst**, ist das für uns eine große Hilfe: **Je mehr Leute wir erreichen und inspirieren können, desto mehr kommen wir unserem Ziel einer besseren Welt näher!**    
 
 Natürlich kannst du auch ganz offline mit Freunden und Bekannten Gespräche über unsere Themen oder das #YogaInSpirit-Projekt anfangen, und so dabei helfen, **inspiritana.org bekannter zu machen**.
 
