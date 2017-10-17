@@ -72,7 +72,9 @@ Wenn du daran interessiert bist, mit Shanti zusammenzuleben, treffen im Idealfal
 - **Lebensweise**: Da Shanti das Reiseleben gewohnt ist, bist auch du viel unterwegs - entweder mit dem Rucksack oder im besten Falle in einem Van. Du verbringst nicht allzu viel Zeit in Städten, sondern bist eher ein Freund der Natur. Falls du gerne wanderst oder sogar joggst bzw. rennst, wird dich Shanti lieben!
 - **Motivation**: Du bist motiviert, einem verspielten Junghund ein aufregendes Leben zu bieten und seine konsequente Erziehung weiterzuführen. Du nimmst dir gerne Zeit, um ausgiebig mit ihm zu tollen und zu spielen, aber auch um ihn Denkaufgaben und Suchspiele zu bieten.
 
-{{< figure src="/img/blog/Shanti3.JPG" title=" " alt="Shanti" >}}
 
 #### Falls du Interesse hast, dann melde dich per E-Mail oder Nachricht auf Facebook bei mir. Alles Weitere besprechen wir dann telefonisch und persönlich.
 **WICHTIG: Voraussichtlich bin ich nur noch bis Anfang-Mitte November in Deutschland. Danach reise ich über Frankreich nach Spanien, und im Dezember weiter nach Portugal.**
+
+
+{{< figure src="/img/blog/Shanti3.JPG" title=" " alt="Shanti" >}}
