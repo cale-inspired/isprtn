@@ -1,6 +1,6 @@
 +++
 author = "Cale"
-banner = "Shanti_Neues-Zuhause.jpg"
+banner = "Thumb_Shanti-Zuhause.jpg"
 categories = ["ÜberUns"]
 date = "2017-10-18T14:48:18+02:00"
 draft = false
