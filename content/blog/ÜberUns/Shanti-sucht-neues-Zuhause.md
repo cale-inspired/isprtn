@@ -69,10 +69,10 @@ Wenn du daran interessiert bist, mit Shanti zusammenzuleben, treffen im Idealfal
 
 - **Erfahrung**: Du solltest bereits solide Erfahrungen im Umgang mit Hunden haben, um die bisher so erfolgreiche Erziehung ebenso weiterführen zu können.
 - **Charakter**: Du musst eine gefestigte Persönlichkeit besitzen, mit ausreichend Disziplin und Durchhaltevermögen und frei von Selbstzweifeln, um dem kleinen Schlawiner eine gute Führungsperson zu bieten. Natürlich solltest du auch liebevoll mit Tieren umgehen und am körperlichen und geistigen Wohle deines neuen vierbeinigen Freunds interessiert sein. Du bist aufgeweckt und einem verspielten Junghund gewachsen.
-- **Lebensweise**: Da Shanti das Reiseleben gewohnt ist, bist auch du viel unterwegs - entweder mit dem Rucksack oder im besten Falle in einem Van. Du verbringst nicht allzu viel Zeit in Städten, sondern bist eher ein Freund der Natur. Falls du gerne wanderst oder sogar joggst bzw. rennst, wird die Shanti lieben!
+- **Lebensweise**: Da Shanti das Reiseleben gewohnt ist, bist auch du viel unterwegs - entweder mit dem Rucksack oder im besten Falle in einem Van. Du verbringst nicht allzu viel Zeit in Städten, sondern bist eher ein Freund der Natur. Falls du gerne wanderst oder sogar joggst bzw. rennst, wird dich Shanti lieben!
 - **Motivation**: Du bist motiviert, einem verspielten Junghund ein aufregendes Leben zu bieten und seine konsequente Erziehung weiterzuführen. Du nimmst dir gerne Zeit, um ausgiebig mit ihm zu tollen und zu spielen, aber auch um ihn Denkaufgaben und Suchspiele zu bieten.
 
 {{< figure src="/img/blog/Shanti3.JPG" title=" " alt="Shanti" >}}
 
 #### Falls du Interesse hast, dann melde dich per E-Mail oder Nachricht auf Facebook bei mir. Alles Weitere besprechen wir dann telefonisch und persönlich.
-#### WICHTIG: Voraussichtlich bin ich nur noch bis Anfang-Mitte November in Deutschland. Danach reise ich über Frankreich nach Spanien, und im Dezember weiter nach Portugal. 
+**WICHTIG: Voraussichtlich bin ich nur noch bis Anfang-Mitte November in Deutschland. Danach reise ich über Frankreich nach Spanien, und im Dezember weiter nach Portugal.**
