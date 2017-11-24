@@ -1,10 +1,9 @@
 +++
 author = "Cale"
-banner = "Thumb_UnserCamper1.jpg"
+banner = "Thumb_Bus-Ausbau.jpg"
 categories = ["ÜberUns"]
 date = "2016-12-14"
-Lastmod = "2017-11-24T20:24:55+01:00"
-draft = false 
+draft = true 
 featured = "1"
 keywords = "mercedes benz l 407 d 407d düdo campervan bus wohnmobil"
 subtitle = "Unser Campervan Eddie vorgestellt in Text und Bild - Teil 1"
