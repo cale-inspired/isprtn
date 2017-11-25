@@ -22,7 +22,7 @@ Die Fotos stammen von dem Fotografen und Freund **[Joth Shakerley](https://joths
 
 {{< figure src="/img/blog/RainbowGathering_Musik.jpg" title="Musik - ein wichtiger Bestandteil eines jeden Rainbow Gatherings" alt="Musik auf dem Rainbow Gathering" >}}
 
-{{< figure src="/img/blog/RainbowGathering_Tipi.jpg" title="Viele Brüdern und Schwestern nächtigen in Tipis" alt="Tipis auf dem Rainbow Gathering" >}}
+{{< figure src="/img/blog/RainbowGathering_Tipi.jpg" title="Viele Brüder und Schwestern nächtigen in Tipis" alt="Tipis auf dem Rainbow Gathering" >}}
 
 {{< figure src="/img/blog/RainbowGathering_Feuer.jpg" title="Das Hauptfeuer auf dem europäischen Rainbow Gathering 2017" alt="Main Circle und Feuer in Italien 2017" >}}
 
