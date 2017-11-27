@@ -77,7 +77,7 @@ Und dann geht auch alles recht schnell: Bevor ich mich versehen kann, habe ich m
 
 Ja ja, ich weiß. "In Belgien ist's doch auch nicht warm?", wirst du dich jetzt fragen. Stimmt. Aber ich möchte ein paar sehr gute Freunde aus Belgien wiedersehen, und werde die Zeit in deren Community auch nutzen, um ein paar der angesprochenen Rest-Arbeiten am Bus zu erledigen.    
 
-{{< figure src="/img/blog/Weg-Wintertour.png" title="Meine grobe Route bis Mitte Dezember (Bildquelle: Google Maps)" alt="Die geplante Vanlife-Tour 2017/18" >}}
+*Gerne würde ich an dieser Stelle einen Screenshot der geplanten Route einblenden. Allerdings ist das Veröffentlichen von Google-Maps-Screenshots verboten. Hast du vielleicht einen alternativen Tipp für mich?*
 
 Nach einigen Tagen in der Nähe von Brüssel soll's dann aber wirklich gen Süden gehen. Und dieses Mal gibt es **sogar einen zeitlichen Plan**, was für mich eine ungewohnte Sache ist: Ende November bis Anfang Dezember werde ich einen Meditationskurs westlich von Madrid belegen. **Übrigens: Für diesen Zeitraum suche ich unbedingt jemanden, der auf den kleinen Shanti aufpassen könnte!** (natürlich sollte derjenige in Spanien sein^^) - Im Moment sind wir aber noch zu zweit unterwegs.
 
