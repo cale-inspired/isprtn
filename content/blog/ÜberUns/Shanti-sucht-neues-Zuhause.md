@@ -3,6 +3,7 @@ author = "Cale"
 banner = "Thumb_Shanti-Zuhause.jpg"
 categories = ["ÜberUns"]
 date = "2017-10-18T14:48:18+02:00"
+Lastmod = "2018-01-14T10:24:55+01:00"
 draft = false
 featured = ""
 keywords = "hund shanti sucht neues zuhause"
@@ -13,6 +14,10 @@ title = "Shanti sucht ein neues Zuhause"
 +++
 
 So weh es mir im Herzen tut, bin ich **auf der dringenden Suche nach einem neuen Zuhause für den wunderwundervollen Shanti aus Marokko**. In diesem Steckbrief erfährst du alles, was du über den Kleinen wissen musst.<!--more-->
+
+## UPDATE: NEUES ZUHAUSE GEFUNDEN!
+
+**Januar, 2018: Mittlerweile habe ich [ein ganz wundervolles Zuhause für Shanti]({{< relref "Shanti-im-neuen-Zuhause.md" >}}) gefunden. Ich danke euch allen für eure Hilfe und Nachrichten!**
 
 ## Vorwort - Shantis Geschichte
 
