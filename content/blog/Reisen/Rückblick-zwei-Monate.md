@@ -6,7 +6,7 @@ date = "2018-02-09T14:58:01+02:00"
 draft = false
 featured = " "
 keywords = "blog vanlife portugal kanaren hippie"
-subtitle = "Die Flucht vor dem Winter 2017/18 - Spanien, Portugal, Kanaren"
+subtitle = "Die Flucht vor dem Winter 2017/18 - Teil 1: Spanien & Portugal"
 tags = ["Deutschland", "Bus", "Pläne"]
 title = "November bis Januar - wundervolle Zeiten in Portugal"
 +++
