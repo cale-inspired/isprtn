@@ -2,7 +2,7 @@
 author = "Cale"
 banner = "Thumb_Rückblick-zwei-Monate.jpg"
 categories = ["Reisen", "UnserLeben"]
-date = "2018-02-09T14:58:01+02:00"
+date = "2018-02-15T14:58:01+02:00"
 draft = false
 featured = " "
 keywords = "blog vanlife portugal kanaren hippie"
