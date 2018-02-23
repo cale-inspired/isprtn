@@ -13,3 +13,7 @@
 {{ partial "widgets/tags.html" . }}
 
 <a href="{{ .Site.BaseURL}}ShareTheSpirit"><img class="img-responsive" src="/img/support.png" alt="inspiritana.org untersützen"></a>
+
+{{ if .IsPage }}
+{{ partial "widgets/instagram.html" . }}
+{{ end }}
