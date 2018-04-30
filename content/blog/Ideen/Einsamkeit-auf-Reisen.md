@@ -11,7 +11,7 @@ tags = ["YouTube", "Gedanken", "Philosophie"]
 title = "Einsamkeit auf Reisen - die besten Tipps"
 +++
 
-"Fühlst du dich manchmal einsam?" - diese Frage wird mir immer wieder gestellt. Und tatsächlich: Als Vanreisender ist man oftmals alleine. Deshalb habe ich mir das Thema angenommen und gebe dir Tipps, wie du mit Einsamkeit auf Reisen umgehen kannst.<!--more-->
+"Fühlst du dich manchmal einsam?" - diese Frage wird mir immer wieder gestellt. Und tatsächlich: Als Vanreisender ist man oftmals alleine. Deshalb habe ich mir das Thema angenommen und gebe dir **Tipps, wie du mit Einsamkeit auf Reisen umgehen kannst**.<!--more-->
 
 ## Einsamkeit und Alleinesein auf Reisen - so gehst du damit um
 
