@@ -17,6 +17,6 @@ title = "Einsamkeit auf Reisen - die besten Tipps"
 
 Wichtig ist zunächst, dass du verstehst, dass Einsamkeit und Alleinesein nicht das Gleiche sind. Denn Einsamkeit hängt letztlich nicht vom äußeren Umstand, sondern deiner inneren Haltung ab. Wie du an dieser arbeitest und wie du am besten mit Einsamkeit umgehst, erkläre ich dir im Video.
 
-{{% youtube CPCSnY_gXbU4 %}}
+{{% youtube CPCSnY_gXbU %}}
 
 **Wie gehst du mit Einsamkeit auf Reisen um? Ist das für dich ein großes Thema oder tangiert dich das gar nicht? Wie lernst du am besten andere Leute kennen?**
