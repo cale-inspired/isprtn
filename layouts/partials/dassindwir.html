@@ -13,7 +13,7 @@
                
             <div class="row">
                
-            {{ range .Site.Data.dassindwir }}
+            
                 <div class="col-md-3 col-sm-3">
                     <div class="box-image-text">
                         <div class="top">
@@ -23,14 +23,26 @@
                         </div>
 
                         <div class="content">
-                            <h4>{{ .name }}</h4>
-                            <p class="intro">{{ .description }}</p>
+                            <h4>Cale, der Unkonventionelle</h4>
+                            <p class="intro">{{ index .Site.Data.dassindwir.acale "description" | markdownify }} </p>
                         </div>
                     </div>
                 </div>
-            {{ end }}
 
-            </div>
+                <div class="col-md-3 col-sm-3">
+                    <div class="box-image-text">
+                        <div class="top">
+                            <div class="image">
+                                <img src="{{ .Site.BaseURL}}img/{{ .avatar }}.png" class="img-responsive" alt="" >
+                            </div>
+                        </div>
+
+                        <div class="content">
+                            <h4>Eddie, der Gemächliche</h4>
+                            <p class="intro">{{ index .Site.Data.dassindwir.deddie "description" | markdownify }}</p>
+                        </div>
+                    </div>
+                </div>
             <!-- /.row -->
 
             <!-- *** BLOG HOMEPAGE END *** -->
