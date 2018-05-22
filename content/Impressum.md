@@ -3,6 +3,8 @@ title = "Impressum"
 +++
 
 
+<META NAME=”robots” CONTENT=”noindex, nofollow”>
+
 ### Angaben gemäß § 5 TMG:    
 	
 Pascal Thiele	
