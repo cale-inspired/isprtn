@@ -13,11 +13,11 @@ body {
 /* NAVBAR */
 
 .navbar {
-	border-bottom: solid 2px #785828;
+  border-bottom: solid 2px #785828;
 }
 
 .navbar-header {
-	height: 70px;
+  height: 70px;
 }
 
 #nav-blog a {
@@ -61,7 +61,7 @@ body {
 }
 
 .navbar-brand img {
-	height: 63px;
+  height: 63px;
 }
 
 @media (max-width: 768px) {
@@ -84,52 +84,52 @@ body {
 
 /* HOMEPAGE-HEADER */
 #homepage-header {
-	background: url('../img/desk2.jpg') center;
+  background: url('../img/desk2.jpg') center;
   background-size: cover;
   background-repeat: no-repeat;
-	text-align: center;
-	 border-bottom: solid 2px #785828;
+  text-align: center;
+   border-bottom: solid 2px #785828;
 }
 
 #homepage-header .btn {
-	margin-top: 10px;
-	margin-bottom: 10px;
-	font-size: 20px;
-	border-color: #785828;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 20px;
+  border-color: #785828;
 }
 
 #homepage-header .btn:hover {
-	background-color: #ef8222;
-	color: #fff;
+  background-color: #ef8222;
+  color: #fff;
 }
 
 #homepage-header .btn i {
-	font-weight: bold;
+  font-weight: bold;
 }
 
 #homepage-header img {
-	width: 100%;
-	max-width: 960px;
+  width: 100%;
+  max-width: 960px;
 }
 
 /* Header-Bildchen f. Abschnitte auf Homepage */
 .yoga-header {
-	background: url('../img/yoga.png') center;
-	background-repeat: no-repeat;
-	background-size: contain;
-	position: relative;
-	height: 230px;
-  	opacity: .7;
+  background: url('../img/yoga.png') center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  position: relative;
+  height: 230px;
+    opacity: .7;
 }
 
 .blog-header {
-	background: url('../img/blog.png') center;
-	background-repeat: no-repeat;
-	background-size: contain;
-	position: relative;
-	opacity: .7;
-	height: 230px;
-	margin-bottom: 0px;
+  background: url('../img/blog.png') center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  position: relative;
+  opacity: .7;
+  height: 230px;
+  margin-bottom: 0px;
 }
 
 /* ICONS */
@@ -155,9 +155,9 @@ body {
 /* FEATURES */
 
 #features p {
-	font-weight: bold;
-	font-size: 15px;
-	display: inline-block;
+  font-weight: bold;
+  font-size: 15px;
+  display: inline-block;
 }
 
 
@@ -284,8 +284,8 @@ div#content {
 }
 
 #blog-post {
-	text-align: justify;
-	max-width: 870px;
+  text-align: justify;
+  max-width: 870px;
   font-size: 16px;
   line-height: 26px;
 }
@@ -552,6 +552,9 @@ div.share-content {
   -moz-transition: all 0.2s ease-out;
   transition: all 0.2s ease-out;
 }
+.home-carousel .row {
+  height: 800px;
+}
 .home-carousel .dark-mask {
   position: absolute;
   top: 0;
@@ -630,21 +633,23 @@ div.share-content {
 
 .home-carousel
 {
-	color: #fff;
-	font-size: 20px;
+  color: #fff;
+  font-size: 20px;
 }
 
 .home-carousel img
 {
-  max-height: 400px;
+  max-height: 341px;
+  width: 512px;
+  border: solid 3px #785828;
 }
 
 p.lead {
-	text-align: center;
+  text-align: center;
 }
 
 .slogan {
-	font-size: 25px;
+  font-size: 25px;
 }
 
 /* BREADCRUMBS */
@@ -801,17 +806,17 @@ p.lead {
 /* FEATURED-POSTS BOX */
 
 .featured .read-more {
-	margin-top: 10px;
+  margin-top: 10px;
 }
 
 .featured .read-more .btn {
-	font-size: 15px;
+  font-size: 15px;
 }
 
 .featured img {
-	max-height: 341px;
-	width: 512px;
-	border: solid 3px #785828;
+  max-height: 341px;
+  width: 512px;
+  border: solid 3px #785828;
 }
 .featured h1 {
   font-size: 38px;
