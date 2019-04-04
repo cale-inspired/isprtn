@@ -551,7 +551,6 @@ div.share-content {
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
   transition: all 0.2s ease-out;
-  height: 80%;
 }
 .home-carousel .dark-mask {
   position: absolute;
@@ -595,9 +594,8 @@ div.share-content {
 }
 .home-carousel h1 {
   font-weight: 700;
-  font-family: anke;
   text-transform: lowercase;
-  font-size: 46px;
+  font-size: 55px;
   letter-spacing: 0.08em;
 }
 @media (max-width: 991px) {
@@ -629,16 +627,8 @@ div.share-content {
   margin-bottom: 10px;
 }
 
-.home-carousel
-{
-  color: #fff;
-  font-size: 20px;
-}
-
 .home-carousel img
 {
-  max-height: 341px;
-  width: 512px;
   border: solid 3px #785828;
 }
 

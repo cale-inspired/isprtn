@@ -8,15 +8,29 @@
             <div class="homepage owl-carousel">
                 {{ range sort .Site.Data.carousel "weight" }}
                 <div class="item">
+                    <div class="col-md-12">
+                        <div class="box-image-text">
+                            <img src="{{ .Site.BaseURL }}img/logo-full.png" alt="inspiritana.org Logo - Get inspired & share the spirit">
+                        </div><br/>
+                      
+                        <p class="text-center">
+                                <a href="#dassindwir" class="btn btn-template-transparent-black"><i class="fa fa-angle-double-down"></i>Erfahre mehr<i class="fa fa-angle-double-down"></i></a>
+                        </p>
+
+                     </div>
+                </div>
+
+
+                <div class="item">
                     <div class="row">
-                        <div class="col-sm-5 right">
+                        <div class="col-sm-3 right">
                             <h1>{{ .title }}</h1>
                             <p class="subtitle">{{ .description | safeHTML }}</p>
                             <!--<p class="read-more">
                               <a href="{{ .Permalink }}" class="btn btn-template-main">Weiterlesen</a>
                             </p>-->
                         </div>
-                        <div class="col-sm-7">
+                        <div class="col-sm-9">
                             <img class="img-responsive" src="{{ .image }}" alt="">
                         </div>
                     </div>
