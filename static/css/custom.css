@@ -551,9 +551,7 @@ div.share-content {
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
   transition: all 0.2s ease-out;
-}
-.home-carousel .row {
-  height: 800px;
+  height: 80%;
 }
 .home-carousel .dark-mask {
   position: absolute;
