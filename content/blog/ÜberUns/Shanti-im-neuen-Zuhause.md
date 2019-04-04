@@ -31,8 +31,6 @@ Seit Mitte Dezember haben wir **rund zwei Wochen gemeinsam verbracht**, bevor wi
  
 
 {{< figure src="/img/blog/Shanti_neues-Zuhause4.jpg" title="'Darf ich reinkommen?!'" alt="Shanti im neuen Zuhause" >}}
-
-
 {{< figure src="/img/blog/Shanti_neues-Zuhause2.jpg" title="" alt="Shanti & Kahlo im neuen Zuhause" >}}
 
 Insgesamt bin ich **absolut zufrieden mit der Entscheidung** und dem Ergebnis, habe ich doch in den vergangenen Monaten mehrfach Anfragen abgesagt, weil ich für Shanti die bestmögliche Lösung finden wollte.    

@@ -273,7 +273,7 @@ fieldset[disabled] .btn-template-primary.active {
 }
 .owl-carousel .owl-controls .owl-buttons div,
 .owl-theme .owl-controls .owl-buttons div {
-  color: #ef8222;
+  color: #000;
 }
 .home-carousel .dark-mask {
   background: #ef8222;

@@ -37,7 +37,7 @@ Es ging die Düne hoch und etwa **500m zur Küste**, an der wir weiter entlang w
 Die besten Momente haben wir hier für dich - mit Video und Bildern - festgehalten:     
 
 {{< figure src="/img/blog/Thumb_Dune-du-Pilat.JPG" title=" " alt="Dune du Pilat Frankreich" >}}
-{{% youtube aQceFkaJd6U %}}
+https://www.youtube.com/watch?v=aQceFkaJd6U 
 
 {{< figure src="/img/blog/Dune-du-Pilat-Wanderung.jpg" title="Wanderung in Richtung Atlantikküste" alt="Atlantik Dune du Pilat Strandwanderung" >}}
 {{< figure src="/img/blog/Dune-du-Pilat-imWasser.jpg" title="An der Grenze zwischen Düne und Atlantik" alt="Dune du Pilat Atlantik Meer" >}}

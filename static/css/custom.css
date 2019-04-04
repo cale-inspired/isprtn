@@ -1,3 +1,11 @@
+@font-face {
+    font-family: 'anke';
+    src: url('../fonts/ankecallig-fg.ttf') format('ttf'),
+         url('../fonts/ankecallig-fg.woff2') format('woff2'),
+         url('../fonts/ankecallig-fg.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
 body { 
     padding-top: 70px; 
 }
@@ -521,11 +529,11 @@ div.share-content {
   top: 5px;
   right: 0;
 }
-.owl-carousel .owl-controls .owl-buttons div,
+/*.owl-carousel .owl-controls .owl-buttons div,
 .owl-theme .owl-controls .owl-buttons div {
   width: 26px;
   height: 26px;
-  line-height: 25px;
+  line-height: 250px;
   margin: 0 5px 0 0;
   font-size: 18px;
   color: #f28826;
@@ -536,11 +544,10 @@ div.share-content {
   text-align: center;
   opacity: 1;
   filter: alpha(opacity=100);
-}
+}*/
 .home-carousel {
   position: relative;
-  background: url('../img/photogrid.jpg') center center repeat;
-  background-size: 100%;
+  background: url('../img/texture.png') center center repeat;
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
   transition: all 0.2s ease-out;
@@ -556,7 +563,7 @@ div.share-content {
   filter: alpha(opacity=50);
 }
 .home-carousel .owl-carousel {
-  padding-top: 60px;
+  padding-top: 40px;
   padding-bottom: 20px;
 }
 .home-carousel .owl-theme .owl-controls .owl-page span {
@@ -583,11 +590,12 @@ div.share-content {
 .home-carousel h3,
 .home-carousel p,
 .home-carousel ul {
-  color: #fff;
+  color: #785828;
 }
 .home-carousel h1 {
   font-weight: 700;
-  text-transform: uppercase;
+  font-family: anke;
+  text-transform: lowercase;
   font-size: 46px;
   letter-spacing: 0.08em;
 }
@@ -626,6 +634,10 @@ div.share-content {
 	font-size: 20px;
 }
 
+.home-carousel img
+{
+  max-height: 400px;
+}
 
 p.lead {
 	text-align: center;
