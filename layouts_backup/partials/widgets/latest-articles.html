@@ -1,0 +1,24 @@
+<div class="panel sidebar-menu">
+
+    <div class="panel-heading">
+        <h3 class="panel-title">Neueste Artikel</h3>
+    </div>
+            <div class="panel-body">
+                {{ range first 5 .Site.Pages }}
+                    
+                 
+                    
+                        <a href="{{ .Permalink }}">
+                        <div class="thumbnail">
+                          {{ if isset .Params "banner" }}
+                            <img src="{{ .Site.BaseURL}}img/blog/{{ .Params.banner }}" class="img-responsive" alt="">
+                          {{ else }}
+                            <img src="{{ .Site.BaseURL}}img/placeholder.png" class="img-responsive" alt="">
+                          {{ end }}
+                        </div>
+                        </a>
+                        <h5><a href="{{ .Permalink }}">{{ .Title }}</a></h5>
+                   
+                {{ end }}
+            </div>
+</div>

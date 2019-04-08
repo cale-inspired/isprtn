@@ -2,7 +2,6 @@ body {
     padding-top: 70px; 
 }
 
-
 /* NAVBAR */
 
 .navbar {
@@ -509,18 +508,43 @@ div.share-content {
   margin-top: 0px;
 }
 
-/* INTRO */
-
-.intro {
+/* CAROUSEL */
+.owl-carousel .owl-controls .owl-page.active span,
+.owl-theme .owl-controls .owl-page.active span,
+.owl-carousel .owl-controls.clickable .owl-page:hover span,
+.owl-theme .owl-controls.clickable .owl-page:hover span {
+  background: #f28826;
+}
+.owl-carousel .owl-controls .owl-buttons,
+.owl-theme .owl-controls .owl-buttons {
+  position: absolute;
+  top: 5px;
+  right: 0;
+}
+/*.owl-carousel .owl-controls .owl-buttons div,
+.owl-theme .owl-controls .owl-buttons div {
+  width: 26px;
+  height: 26px;
+  line-height: 250px;
+  margin: 0 5px 0 0;
+  font-size: 18px;
+  color: #f28826;
+  padding: 0;
+  background: #fff;
+  border-radius: 13px;
+  vertical-align: middle;
+  text-align: center;
+  opacity: 1;
+  filter: alpha(opacity=100);
+}*/
+.home-carousel {
   position: relative;
   background: url('../img/texture.png') center center repeat;
-  border-top: solid 3px #785828;
-  border-bottom: solid 2px #785828;
-  padding-top: 50px;
-  padding-bottom: 10px;
+  -webkit-transition: all 0.2s ease-out;
+  -moz-transition: all 0.2s ease-out;
+  transition: all 0.2s ease-out;
 }
-
-.intro .dark-mask {
+.home-carousel .dark-mask {
   position: absolute;
   top: 0;
   left: 0;
@@ -530,50 +554,62 @@ div.share-content {
   opacity: 0.5;
   filter: alpha(opacity=50);
 }
+.home-carousel .owl-carousel {
+  padding-top: 40px;
+  padding-bottom: 20px;
+}
+.home-carousel div {
+  height: 80%;
+}
+.owl-carousel .row div {
+  height: 80%;
+}
 
-
+.home-carousel .owl-theme .owl-controls .owl-page span {
+  background: #666;
+}
+.home-carousel .owl-theme .owl-controls .owl-page.active span {
+  background: #fff;
+}
+.home-carousel .owl-theme .owl-controls .owl-page:hover span {
+  background: #fff;
+}
 @media (max-width: 767px) {
-  .intro {
+  .home-carousel {
     text-align: center !important;
   }
 }
 @media (min-width: 992px) {
-  .intro .right {
+  .home-carousel .right {
     text-align: right;
   }
 }
-
-.intro h1 {
-  font-weight: 700;
-  text-transform: lowercase;
-  font-size: 55px;
-  letter-spacing: 0.08em;
+.home-carousel h1,
+.home-carousel h2,
+.home-carousel h3,
+.home-carousel p,
+.home-carousel ul {
   color: #785828;
 }
-@media (max-width: 991px) {
-  .intro h1 {
-    font-size: 36px;
-  }
-}
-intro h1 {
+.home-carousel h1 {
   font-weight: 700;
   text-transform: lowercase;
   font-size: 55px;
   letter-spacing: 0.08em;
 }
 @media (max-width: 991px) {
-  .intro h1 {
+  .home-carousel h1 {
     font-size: 36px;
   }
 }
-.intro h2 {
+.home-carousel h2 {
   font-weight: 700;
   text-transform: uppercase;
   font-size: 40px;
   letter-spacing: 0.08em;
 }
-.intro ul,
-.intro p {
+.home-carousel ul,
+.home-carousel p {
   font-size: 18px;
   font-weight: 700;
   padding: 0;
@@ -581,37 +617,16 @@ intro h1 {
   letter-spacing: 0.10em;
 }
 @media (max-width: 991px) {
-  .intro ul,
-  .intro p {
+  .home-carousel ul,
+  .home-carousel p {
     font-size: 14px;
   }
 }
-.intro ul li {
+.home-carousel ul li {
   margin-bottom: 10px;
 }
 
-.intro .btn {
-  border: none
-  background-color: none;
-  color: #785828;
-  margin-top: 10px;
-}
-
-.intro .btn:hover {
-  color: #ef8222;
-  background-color: none;
-}
-
-.intro i.fa {
-
-}
-
-.intro .icon-background {
-  color: #785828;
-  opacity: 0.3;
-}
-
-.intro img
+.home-carousel img
 {
   border: solid 3px #785828;
 }
@@ -622,6 +637,111 @@ p.lead {
 
 .slogan {
   font-size: 25px;
+}
+
+/* 
+ *  Core Owl Carousel CSS File
+ *  v1.3.2
+ */
+
+/* clearfix */
+.owl-carousel .owl-wrapper:after {
+  content: ".";
+  display: block;
+  clear: both;
+  visibility: hidden;
+  line-height: 0;
+  height: 0;
+}
+/* display none until init */
+.owl-carousel{
+  display: none;
+  position: relative;
+  width: 100%;
+  -ms-touch-action: pan-y;
+}
+.owl-carousel .owl-wrapper{
+  display: none;
+  position: relative;
+  -webkit-transform: translate3d(0px, 0px, 0px);
+}
+.owl-carousel .owl-wrapper-outer{
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+.owl-carousel .owl-item{
+  float: left;
+}
+
+/*
+*   Owl Carousel Owl Demo Theme 
+* v1.3.2
+*/
+
+.owl-theme .owl-controls{
+  margin-top: 10px;
+  text-align: center;
+}
+
+/* Styling Next and Prev buttons */
+
+.owl-theme .owl-controls .owl-buttons div{
+  display: inline-block;
+  zoom: 1;
+  *display: inline;/*IE7 life-saver */
+}
+/* Clickable class fix problem with hover on touch devices */
+/* Use it for non-touch hover action */
+.owl-theme .owl-controls.clickable .owl-buttons div:hover{
+  filter: Alpha(Opacity=100);/*IE7 fix*/
+  opacity: 1;
+  text-decoration: none;
+}
+
+/* Styling Pagination*/
+
+.owl-theme .owl-controls .owl-page{
+  display: inline-block;
+  zoom: 1;
+  *display: inline;/*IE7 life-saver */
+}
+.owl-theme .owl-controls .owl-page span{
+  display: block;
+  width: 12px;
+  height: 12px;
+  margin: 5px 7px;
+  filter: Alpha(Opacity=50);/*IE7 fix*/
+  opacity: 0.5;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  background: #869791;
+}
+
+.owl-theme .owl-controls .owl-page.active span,
+.owl-theme .owl-controls.clickable .owl-page:hover span{
+  filter: Alpha(Opacity=100);/*IE7 fix*/
+  opacity: 1;
+}
+
+/* If PaginationNumbers is true */
+
+.owl-theme .owl-controls .owl-page span.owl-numbers{
+  height: auto;
+  width: auto;
+  color: #FFF;
+  padding: 2px 10px;
+  font-size: 12px;
+  -webkit-border-radius: 30px;
+  -moz-border-radius: 30px;
+  border-radius: 30px;
+}
+
+/* preloading images */
+.owl-item.loading{
+  min-height: 150px;
+  background: url(AjaxLoader.gif) no-repeat center center
 }
 
 /* BREADCRUMBS */

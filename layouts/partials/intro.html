@@ -1,0 +1,43 @@
+{{ if gt (len .Site.Data.intro) 0 }}
+<section class="background-pentagon">
+    {{ range sort .Site.Data.intro "weight" }}
+    {{ $nummer := .weight }}
+    <div class="intro" id="intro{{ $nummer }}">
+        <!--<div class="dark-mask"></div>-->
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    {{ if .right }}
+                    <div class="col-md-9">
+                        <img class="img-responsive" src="{{ .image }}" alt="">
+                    </div>
+                    <div class="col-md-3 right">
+                        <h1>{{ .title }}</h1>
+                        <p class="subtitle">{{ .description | safeHTML }}</p>
+                    </div>
+                    {{ else }}
+                    <div class="col-md-3 right">
+                        <h1>{{ .title }}</h1>
+                        <p class="subtitle">{{ .description | safeHTML }}</p>
+                    </div>
+                    <div class="col-md-9">
+                        <img class="img-responsive" src="{{ .image }}" alt="">
+                    </div>
+                    {{ end }}
+                </div>
+                {{ if lt $nummer 4 }}
+                <p class="text-center">
+                    <a href="#intro{{add $nummer 1}}" class="btn">
+                        <span class="fa-stack fa-4x">
+                          <i class="fa fa-circle fa-stack-2x icon-background"></i>
+                          <i class="fa fa-angle-double-down fa-stack-1x"></i>
+                        </span>
+                </a>
+                </p>
+                {{ end }}
+            </div>
+        </div>
+    </div>
+    {{ end }}
+</section>
+{{ end }}
