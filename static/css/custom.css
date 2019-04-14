@@ -6,65 +6,6 @@ body {
   width: 100%;
 }
 
- /* The Overlay (background) -> PRÜFEN OB WIRKLICH GEBRAUCHT "!"!!!*/
-.overlay {
-  /* Height & width depends on how you want to reveal the overlay (see JS below) */   
-  height: 50%;
-  width: 0;
-  position: fixed; /* Stay in place */
-  z-index: 1; /* Sit on top */
-  left: 0;
-  top: 25%;
-  background-color: rgb(0,0,0); /* Black fallback color */
-  background-color: rgba(0,0,0, 0.6); /* Black w/opacity */
-  overflow-x: hidden;/* Disable horizontal scroll */
-  overflow-y: hidden; 
-  transition: 0.5s; /* 0.5 second transition effect to slide in or slide down the overlay (height or width, depending on reveal) */
-}
-
-/* Position the content inside the overlay */
-.overlay-content {
-  position: relative;
-  top: 25%; /* 25% from the top */
-  left:0;
-  width: 100%; /* 100% width */
-  text-align: center; /* Centered text/links */
-  margin-top: 30px; /* 30px top margin to avoid conflict with the close button on smaller screens */
-}
-
-/* The navigation links inside the overlay */
-.overlay p {
-  padding: 8px;
-  text-decoration: none;
-  font-size: 36px;
-  color: #818181;
-  display: block; /* Display block instead of inline */
-  transition: 0.3s; /* Transition effects on hover (color) */
-}
-
-/* When you mouse over the navigation links, change their color */
-.overlay a:hover, .overlay a:focus {
-  color: #f1f1f1;
-}
-
-/* Position the close button (top right corner) */
-.overlay .closebtn {
-  position: absolute;
-  top: 10%;
-  right: 20%;
-  font-size: 60px;
-}
-
-/* When the height of the screen is less than 450 pixels, change the font-size of the links and position the close button again, so they don't overlap */
-@media screen and (max-height: 450px) {
-  .overlay a {font-size: 20px}
-  .overlay .closebtn {
-    font-size: 40px;
-    top: 15px;
-    right: 35px;
-  }
-} 
-
 /* NAVBAR */
 
 .navbar {
@@ -592,7 +533,7 @@ div.share-content {
 }
 
 .start div.container {
-  width: 70%;
+  width: 90%;
 }
 
 #start2, #start4 {
@@ -605,9 +546,9 @@ div.share-content {
   left: 0;
   width: 100%;
   height: 100%;
-  background: #785823;
-  opacity: 0.5;
-  filter: alpha(opacity=50);
+  background: #ef8222;
+  opacity: 0.1;
+  filter: alpha(opacity=20);
 }
 
 
@@ -623,23 +564,19 @@ div.share-content {
 }
 
 .start h1 {
-  font-weight: 500;
-  text-transform: lowercase;
-  font-size: 50px;
-  letter-spacing: 0.08em;
+  font-weight: 700;
+  font-size: 55px;
+  letter-spacing: 0.05em;
   color: #785828;
+  margin-top: 0;
+  text-transform: lowercase;
 }
 @media (max-width: 991px) {
   .start h1 {
     font-size: 36px;
   }
 }
-start h1 {
-  font-weight: 700;
-  text-transform: lowercase;
-  font-size: 55px;
-  letter-spacing: 0.08em;
-}
+
 @media (max-width: 991px) {
   .start h1 {
     font-size: 36px;
@@ -665,8 +602,16 @@ start h1 {
     font-size: 14px;
   }
 }
-.start ul li {
-  margin-bottom: 10px;
+
+.start ul {
+   list-style: none;
+}
+.start ul li::before {
+  content: "\25AA"; 
+  color: #785828; 
+  font-weight: bold; 
+  display: inline-block; 
+  width: 0.7em; 
 }
 
 .start .btn {

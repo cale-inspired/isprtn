@@ -5,53 +5,40 @@
         <div class="container">
             <div class="row">
                     {{ if .right }}
-                    <div class="col-md-9">
+                    <div class="dark-mask"></div>
+                    <div class="col-lg-9">
                         <img class="img-responsive" src="{{ .image }}" alt="">
                     </div>
-                    <div class="col-md-3 right">
+                    <div class="col-lg-3 right">
                         </div>
-                        <h1>{{ .title }} test</h1>
-                        <p class="subtitle">{{ .description | safeHTML }}</p>
-                        <!--<span onclick="openMore()">open</span>-->
-                    </div>
-                    {{ else }}
-                    <div class="col-md-3 right">
                         <h1>{{ .title }}</h1>
                         <p class="subtitle">{{ .description | safeHTML }}</p>
-                        <!--<span onclick="openMore()">open</span>-->
                     </div>
-                    <div class="col-md-9">
+                    {{ else }}
+                    <div class="col-lg-3 right">
+                        <h1>{{ .title }}</h1>
+                        <p class="subtitle">{{ .description | safeHTML }}</p>
+                    </div>
+                    <div class="col-lg-9">
                         <img class="img-responsive" src="{{ .image }}" alt="">
                     </div>
                     {{ end }}
 
 
                 {{ if lt $nummer 4 }}
-                <p class="text-center">
-                    <a href="#start{{add $nummer 1}}" class="btn">
-                        <span class="fa-stack fa-4x">
-                          <i class="fa fa-circle fa-stack-2x icon-background"></i>
-                          <i class="fa fa-angle-double-down fa-stack-1x"></i>
-                        </span>
-                </a>
-                </p>
+                <div class="col">
+                    <p class="text-center">
+                        <a href="#start{{add $nummer 1}}" class="btn">
+                            <span class="fa-stack fa-4x">
+                              <i class="fa fa-circle fa-stack-2x icon-background"></i>
+                              <i class="fa fa-angle-double-down fa-stack-1x"></i>
+                            </span>
+                        </a>
+                    </p>
+                </div>
                 {{ end }}
             </div>
         </div>
 </section>
 {{ end }}
 {{ end }}
-
-<!--
- <script>
-/* Open when someone clicks on the span element */
-function openMore() {
-  document.getElementById("intro-more").style.width = "100%";
-}
-
-/* Close when someone clicks on the "x" symbol inside the overlay */
-function closeMore() {
-  document.getElementById("intro-more").style.width = "0%";
-} 
-</script>
--->
