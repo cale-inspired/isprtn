@@ -1,18 +1,16 @@
 {{ if gt (len .Site.Data.intro) 0 }}
-<section class="background-pentagon">
     {{ range sort .Site.Data.intro "weight" }}
     {{ $nummer := .weight }}
-    <div class="intro" id="intro{{ $nummer }}">
-        
+<section class="start" id="start{{ $nummer }}">   
         <div class="container">
             <div class="row">
-                <div class="col-md-12">
                     {{ if .right }}
                     <div class="col-md-9">
                         <img class="img-responsive" src="{{ .image }}" alt="">
                     </div>
                     <div class="col-md-3 right">
-                        <h1>{{ .title }}</h1>
+                        </div>
+                        <h1>{{ .title }} test</h1>
                         <p class="subtitle">{{ .description | safeHTML }}</p>
                         <!--<span onclick="openMore()">open</span>-->
                     </div>
@@ -26,32 +24,11 @@
                         <img class="img-responsive" src="{{ .image }}" alt="">
                     </div>
                     {{ end }}
-                    <!--
-                    <div id="intro-more" class="overlay">
 
-                       
-                        <a href="javascript:void(0)" class="closebtn" onclick="closeMore()">&times;</a>
-
-                        
-                        <div class="overlay-content">
-                            <div class="container">
-                                <div class="row">
-                                    <div class="col-md-12">
-                                              <h1>{{ .title }}</h1>
-                                              <p>Spannende Reiseberichte, inspirierende Ideen und interessante Artikel und Videos über Yoga, Gesundheit, Meditation und mehr. Kostenloser Yoga-Unterricht (auf Spendenbasis) für Einzelpersonen und Gruppen. Individuell, kreativ, einzigartig, aufregend!</p>
-                                              <div class="col-md-4">
-                                                <img class="img-responsive" src="{{ .image }}" alt="">
-                                            </div>
-                                    </div>
-                               </div>
-                            </div>
-                        </div>
-                    </div>-->
-                </div>
 
                 {{ if lt $nummer 4 }}
                 <p class="text-center">
-                    <a href="#intro{{add $nummer 1}}" class="btn">
+                    <a href="#start{{add $nummer 1}}" class="btn">
                         <span class="fa-stack fa-4x">
                           <i class="fa fa-circle fa-stack-2x icon-background"></i>
                           <i class="fa fa-angle-double-down fa-stack-1x"></i>
@@ -61,9 +38,8 @@
                 {{ end }}
             </div>
         </div>
-    </div>
-    {{ end }}
 </section>
+{{ end }}
 {{ end }}
 
 <!--

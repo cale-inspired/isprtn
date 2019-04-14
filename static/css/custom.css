@@ -1,5 +1,9 @@
 body { 
-    padding-top: 70px; 
+    padding-top: 70px;
+}
+
+#all {
+  width: 100%;
 }
 
  /* The Overlay (background) -> PRÜFEN OB WIRKLICH GEBRAUCHT "!"!!!*/
@@ -147,12 +151,12 @@ body {
   background-color: none;
   color: #785828;
   transition: 0.5s;
+  font-size: 20px;
 }
 
 #homepage-header .btn:hover {
   color: #ef8222;
   background-color: none;
-  font-size: 20px;
 }
 
 #homepage-header .icon-background {
@@ -169,6 +173,7 @@ body {
 #homepage-header img {
   width: 100%;
   max-width: 960px;
+  margin-top: 100px;
 }
 
 /* Header-Bildchen f. Abschnitte auf Homepage */
@@ -575,17 +580,26 @@ div.share-content {
   margin-top: 0px;
 }
 
-/* INTRO */
+/* START */
 
-.intro {
+.start {
   position: relative;
   background: url('../img/texture.png') center center repeat;
   border-bottom: solid 2px #888880;
   padding-top: 50px;
   padding-bottom: 10px;
+  margin-bottom: 0;
 }
 
-.intro .dark-mask {
+.start div.container {
+  width: 70%;
+}
+
+#start2, #start4 {
+  background: url('../img/texture3.png') center center repeat;
+}
+
+.start .dark-mask {
   position: absolute;
   top: 0;
   left: 0;
@@ -598,17 +612,17 @@ div.share-content {
 
 
 @media (max-width: 767px) {
-  .intro {
+  .start {
     text-align: center !important;
   }
 }
 @media (min-width: 992px) {
-  .intro .right {
+  .start .right {
     text-align: right;
   }
 }
 
-.intro h1 {
+.start h1 {
   font-weight: 500;
   text-transform: lowercase;
   font-size: 50px;
@@ -616,29 +630,29 @@ div.share-content {
   color: #785828;
 }
 @media (max-width: 991px) {
-  .intro h1 {
+  .start h1 {
     font-size: 36px;
   }
 }
-intro h1 {
+start h1 {
   font-weight: 700;
   text-transform: lowercase;
   font-size: 55px;
   letter-spacing: 0.08em;
 }
 @media (max-width: 991px) {
-  .intro h1 {
+  .start h1 {
     font-size: 36px;
   }
 }
-.intro h2 {
+.start h2 {
   font-weight: 700;
   text-transform: uppercase;
   font-size: 40px;
   letter-spacing: 0.08em;
 }
-.intro ul,
-.intro p {
+.start ul,
+.start p {
   font-size: 18px;
   font-weight: 700;
   padding: 0;
@@ -646,16 +660,16 @@ intro h1 {
   letter-spacing: 0.10em;
 }
 @media (max-width: 991px) {
-  .intro ul,
-  .intro p {
+  .start ul,
+  .start p {
     font-size: 14px;
   }
 }
-.intro ul li {
+.start ul li {
   margin-bottom: 10px;
 }
 
-.intro .btn {
+.start .btn {
   border: none
   background-color: none;
   color: #785828;
@@ -663,29 +677,29 @@ intro h1 {
   transition: 0.5s;
 }
 
-.intro .btn:hover {
+.start .btn:hover {
   color: #fff;
   background-color: none;
 }
 
 
-.intro .icon-background {
+.start .icon-background {
   color: #785828;
   opacity: 0.3;
   transition: 0.5s;
 }
 
-.intro .btn:hover .icon-background {
+.start .btn:hover .icon-background {
   opacity: 0.6;
 }
 
 
-.intro img
+.start img
 {
   border: solid 1px #785828;  
 }
 
-.intro details {
+.start details {
   margin-top: 20px;
   text-align: right;
 }
@@ -831,12 +845,12 @@ p.lead {
 
 
 /*zum Zentrieren*/
-@media (min-width: 992px) {
-.col-md-2 {
+/*@media (min-width: 992px) {
+.box-simple .col-md-2 {
     width: 20%;
   }
 }
-
+*/
 /* FOOTER */
 
 #footer {
