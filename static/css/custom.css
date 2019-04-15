@@ -540,6 +540,10 @@ div.share-content {
   background: url('../img/texture3.png') center center repeat;
 }
 
+#start4 {
+  padding-bottom: 5em;
+}
+
 .start .dark-mask {
   position: absolute;
   top: 0;
@@ -565,7 +569,7 @@ div.share-content {
 
 .start h1 {
   font-weight: 700;
-  font-size: 55px;
+  font-size: 5em;
   letter-spacing: 0.05em;
   color: #785828;
   margin-top: 0;
@@ -573,33 +577,22 @@ div.share-content {
 }
 @media (max-width: 991px) {
   .start h1 {
-    font-size: 36px;
+    font-size: 3em;
   }
 }
 
-@media (max-width: 991px) {
-  .start h1 {
-    font-size: 36px;
-  }
-}
-.start h2 {
-  font-weight: 700;
-  text-transform: uppercase;
-  font-size: 40px;
-  letter-spacing: 0.08em;
-}
 .start ul,
 .start p {
-  font-size: 18px;
-  font-weight: 700;
+  font-size: 1.7em;
+  font-weight: 500;
   padding: 0;
-  text-transform: uppercase;
-  letter-spacing: 0.10em;
+  text-transform: lowercase;
+  letter-spacing: 0.08em;
 }
 @media (max-width: 991px) {
   .start ul,
   .start p {
-    font-size: 14px;
+    font-size: 0.9em;
   }
 }
 
@@ -611,14 +604,14 @@ div.share-content {
   color: #785828; 
   font-weight: bold; 
   display: inline-block; 
-  width: 0.7em; 
+  width: 0.8em; 
 }
 
 .start .btn {
   border: none
   background-color: none;
   color: #785828;
-  margin-top: 10px;
+  margin-top: 0.7em;
   transition: 0.5s;
 }
 
@@ -652,10 +645,6 @@ div.share-content {
 
 p.lead {
   text-align: center;
-}
-
-.slogan {
-  font-size: 25px;
 }
 
 /* BREADCRUMBS */

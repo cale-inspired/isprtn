@@ -1,5 +1,5 @@
-{{ if gt (len .Site.Data.intro) 0 }}
-    {{ range sort .Site.Data.intro "weight" }}
+{{ if gt (len .Site.Data.start) 0 }}
+    {{ range sort .Site.Data.start "weight" }}
     {{ $nummer := .weight }}
 <section class="start" id="start{{ $nummer }}">   
         <div class="container">
