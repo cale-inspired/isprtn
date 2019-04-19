@@ -26,6 +26,10 @@ body {
   box-shadow: 0 0 5px #785828;
 }
 
+.navbar-default .navbar.nav > li > a {
+  font-color: #ef8222;
+}
+
 /* LOGO */
 
 .navbar-brand {
@@ -51,20 +55,42 @@ body {
   }
 }
 
+/* SOCIAL MEDIA BUTTONS */
 
-.navbar ul.dropdown-menu li div {
-  height: 10px;
-}
 
-.nav-icon {
-  height: 62px;
-  color: #fff;
-  line-height: 20px;
-  font-size: 30px;
-  border: 0;
+.navbar-header i {
+  font-size: 3em;
   color: #785828;
-  margin-top: 0;
+  -webkit-transition: all 0.2s ease-out;
+  -moz-transition: all 0.2s ease-out;
+  transition: all 0.2s ease-out;
 }
+
+
+.navbar-header i:hover {
+  -webkit-transform: scale(1.1, 1.1);
+  -ms-transform: scale(1.1, 1.1);
+  -o-transform: scale(1.1, 1.1);
+  transform: scale(1.1, 1.1);
+}
+
+
+
+#nav-social li > a {
+  position: relative;
+  padding: 10px 15px;
+}
+
+#nav-social li > a:hover {
+  color: #000;
+}
+
+#nav-social li > a:hover i {
+  color: #fff;
+}
+
+
+
 /* HOMEPAGE-HEADER */
 #homepage-header {
   background: url('../img/desk2.jpg') center;
