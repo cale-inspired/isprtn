@@ -149,6 +149,12 @@ body {
   font-size: 1.5em;
 }
 
+@media (max-width: 767px) {
+  #homepage-header .btn {
+    font-size: 0.7em;
+  }
+}
+
 #homepage-header .btn:hover {
   color: #ef8222;
   background-color: none;
@@ -561,6 +567,12 @@ div.share-content {
   padding-bottom: 5em;
 }
 
+@media (max-width: 767px) {
+  #start4 {
+    padding-bottom: 1em;
+  }
+}
+
 .start .dark-mask {
   position: absolute;
   top: 0;
@@ -622,7 +634,6 @@ div.share-content {
 .start ul {
   list-style: none;
 }
-
 
 .start ul li::before {
   content: " \25AA"; 
@@ -861,12 +872,13 @@ p.lead {
 
 #copyright a {
   font-weight: 600;
+  line-height: 2em;
 }
 
 #copyright {
   padding: 5px 0;
   font-size: 12px;
-  line-height: 28px;
+  line-height: 1em;
 }
 
 

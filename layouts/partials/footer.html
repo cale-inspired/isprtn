@@ -15,17 +15,6 @@
         <!-- /.col-md-4 -->
         {{ end }}
 
-                {{ if isset .Site.Params "address" }}
-        <div class="col-md-4 col-sm-6">
-
-            <h4></h4>
-
-            <hr class="hidden-md hidden-lg hidden-sm">
-
-        </div>
-        <!-- /.col-md-4 -->
-        {{ end }}
-
         <div class="col-md-4 col-sm-6">
 
             <h4>Blog (German only)</h4>
@@ -71,10 +60,7 @@ _________________________________________________________ -->
 <div id="copyright">
     <div class="container">
         <div class="col-md-12">
-        	<a href="https://inspiritana.org/datenschutz">DATENSCHUTZERKLÄRUNG</a>
-            {{ if isset .Site.Params "copyright" }}
-            <p class="pull-right"><icon class="fa fa-copyright"> {{ .Site.Params.copyright | safeHTML }} | <a href="{{ .Site.BaseURL}}Impressum">Impressum</a></p>
-            {{ end }}
+            <p class="pull-right"><icon class="fa fa-copyright"> {{ .Site.Params.copyright | safeHTML }} | <a href="{{ .Site.BaseURL}}Impressum">Impressum</a> | <a href="https://inspiritana.org/datenschutz">Datenschutzerklärung</a></p>
         </div>
     </div>
 </div>
