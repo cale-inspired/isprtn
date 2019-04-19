@@ -24,7 +24,7 @@ So habe ich in der Vergangenheit etwa schon auf gemeinsamen Camper-Parkplätzen 
 **Individuell**: Du würdest mich gerne an einem bestimmten Ort treffen? Solange sich das halbwegs mit meinem Reiseplan vereinbaren lässt, komme ich gerne vorbei. Vielleicht kann ich dich auch abholen und wir reisen gemeinsam ein Stück, während wir jeden Tag Yoga praktizieren. :)
 
 
-Du hast (An-)Fragen? Dann nutze [das Kontaktformular]]({{< relref "kontakt.md" >}}), um mir eine Nachricht zu hinterlassen. Bis dann! 
+Du hast (An-)Fragen? Dann nutze [das Kontaktformular]]({{< relref "contact.md" >}}), um mir eine Nachricht zu hinterlassen. Bis dann! 
 
 Namaste,
 Cale

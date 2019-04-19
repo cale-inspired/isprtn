@@ -5,27 +5,22 @@
 
         <div class="container">
             <div class="navbar-header">
-                                    {{ range .Site.Params.connect.list }}
-                           <ul class="nav navbar-nav navbar-left"> 
-                                <li class="dropdown">
-                                    {{ if in .name "Mail"}}
-                                    <a href="mailto:czazlzez@inszpiritzana.org" onmouseover="this.href=this.href.replace(/z/g,'');">
-                                    {{ else }}
-                                    <a href="{{ .link }}">
-                                    {{ end }}
-                                        <div class="nav-icon">
-                                            {{ if in .name "Instagram" }}
-                                                <span id="instagram-box">
-                                                    <i class="fa fa-instagram" aria-hidden="true"></i>
-                                                </span>
-                                            {{ else }}
-                                                <i class="fa fa-{{ .icon }}"></i>
-                                            {{ end }}
-                                        </div>
-                                    </a>
-                                </li>
-                            </ul>
+                <a class="navbar-brand home" href="{{ .Site.BaseURL }}">  
+                    {{ if eq .URL "/" }}  
+                    <img src="{{ .Site.BaseURL }}img/logo-small.png" alt="inspiritana.org logo eye" class="visible-xs visible-sm">   
+                    {{ else }}             
+                    <img src="{{ .Site.BaseURL }}img/logo.png" alt="inspiritana.org logo eye" class="hidden-xs hidden-sm">
+                    <img src="{{ .Site.BaseURL }}img/logo-small.png" alt="inspiritana.org logo small" class="visible-xs visible-sm">
                     {{ end }}
+                    
+                    <span class="sr-only">{{ .Title }} - go to homepage</span>
+                </a>
+                <div class="navbar-buttons">
+                    <button type="button" class="navbar-toggle btn-template-main" data-toggle="collapse" data-target="#navigation">
+                        <span class="sr-only">Toggle navigation</span>
+                        <i class="fa fa-align-justify"></i>
+                    </button>
+                </div>
             </div>
             <!--/.navbar-header -->
 

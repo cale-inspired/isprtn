@@ -43,9 +43,10 @@ preserveTaxonomyNames = true
     # - you're done. Happy mailing!
     #
     # Enable the contact form by entering your Formspree.io email
+    footer = false
     email = "kontakt@inspiritana.org"
     about_us = "Spannende Reiseberichte, inspirierende Ideen und interessante Artikel und Videos über Yoga, Gesundheit, Meditation und mehr. Kostenloser Yoga-Unterricht (auf Spendenbasis) für Einzelpersonen und Gruppen. Individuell, kreativ, einzigartig, aufregend!"
-    copyright = "2017 - inspiritana.org"
+    copyright = "2019 - inspiritana.org"
     date_format = "02. 01. 2006"
     logo = "img/logo.png"
     address = ""
@@ -56,25 +57,30 @@ preserveTaxonomyNames = true
     weight = 1
 
 [[params.menu]]
-    name = "Blog"
-    url  = "/blog"
+    name = "About"
+    url = "/about"
     weight = 2
 
 [[params.menu]]
-    name = "#YogaInSpirit"
-    url  = "/YogaInSpirit"
+    name = "Yoga"
+    url  = "/yoga"
     weight = 3
 
 [[params.menu]]
-    name = "Kontakt"
-    url  = "/kontakt"
+    name = "Music"
+    url  = "/music"
     weight = 4
+
+[[params.menu]]
+    name = "Contact"
+    url  = "/contact"
+    weight = 5
 
 [social]
     github = ""
 
 [params.contact]
-    map = true
+    map = false
     mapLat = 41.1333037
     mapLng = 1.2467193
     mapTitle = "DevCows"
@@ -98,7 +104,7 @@ preserveTaxonomyNames = true
     # For more informtion take a look at the README.
 
 [params.testimonials]
-    enable = true
+    enable = false
     # All testimonials are defined in their own files. You can find example items
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README.
@@ -115,7 +121,7 @@ preserveTaxonomyNames = true
     link_text = "Erfahre mehr"
 
 [params.clients]
-    enable = true
+    enable = false
     # All clients are defined in their own files. You can find example items
     # at 'exampleSite/data/clients'.
     # For more informtion take a look at the README.
@@ -133,32 +139,28 @@ preserveTaxonomyNames = true
     subtitle = ""
 
 [params.connect]
+
     
+    [[params.connect.list]]
+        name= "Instagram"
+        icon= "instagram"
+        link= "https://instagram.com/inspiritana/"
 
     [[params.connect.list]]
         name = "Facebook"
         icon = "facebook-square"
         link= "http://facebook.com/inspiritana.org"
-        description= ""
 
     [[params.connect.list]]
         name = "YouTube"
         icon = "youtube-square"
-        link = "https://www.youtube.com/channel/UC_mzz0Tx8Pdw660eipqfIrA"
-        description = ""
-
-    [[params.connect.list]]
-        name= "Instagram"
-        icon= "instagram"
-        link= "https://instagram.com/inspiritana/"
-        description= ""
-
+        link = "https://www.youtube.com/youtube"
+        
     [[params.connect.list]]
         name= "E-Mail"
         icon= "envelope-square"
         #link wird manuell in partials/connect.html festgelegt (Spam-Schutz)
         link= ""
-        description= ""
 
 
 

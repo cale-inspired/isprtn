@@ -82,4 +82,4 @@ Insbesondere auf Reisen ist es unbezahlbar, die richtigen Leute zu kennen. Von d
 
 #### Du hast andere Ideen, wie du uns helfen könntest?
 
-**Dann immer her damit! Warte nicht länger, und [kontaktiere uns]({{< relref "kontakt.md" >}}).**
+**Dann immer her damit! Warte nicht länger, und [kontaktiere uns]({{< relref "contact.md" >}}).**

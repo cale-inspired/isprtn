@@ -1,11 +1,12 @@
-<section class="bar background-pentagon no-mb">
+<section class="bar background-pentagon no-mb" id="connect">
     <div class="container">
+    	<div class="dark-mask"></div>
         <div class="row">
             <div class="col-md-12">
                         <div class="heading text-center">
-                    		<h2>{{ .Site.Params.connect.title }}</h2>
+                    		<h1>Get in touch</h1>
                			 </div>                       
-            {{ range .Site.Params.connect.list }}
+            				{{ range .Site.Params.connect.list }}
 			                <div class="col-md-3">
 			                    <div class="box-simple">
 			                    	{{ if in .name "Mail"}}
@@ -14,15 +15,19 @@
 			                      	<a href="{{ .link }}">
 			                      	{{ end }}
 			                      		<div class="icon">
-				                            <i class="fa fa-{{ .icon }}"></i>
+			                      			{{ if in .name "Instagram" }}
+			                      				<span id="instagram-box">
+                									<i class="fa fa-instagram" aria-hidden="true"></i>
+            									</span>
+			                      			{{ else }}
+				                            	<i class="fa fa-{{ .icon }}"></i>
+			                      			{{ end }}
 				                        </div>
 				                        <h3>{{ .name }}</h3>
-				                        <p>{{ .description }}</p>
 			                        </a>
 			                    </div>
 			                </div>
-		                {{ end }}
-
+		                	{{ end }}
                     </div>
                 </div>
                 </div>

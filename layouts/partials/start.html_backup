@@ -6,17 +6,8 @@
             <div class="row">
                     {{ if .right }}
                     <div class="dark-mask"></div>
-                    <div class="col-lg-9">   
-                        <div class="homepage owl-carousel">
-                            <div class="item">
-                                <img class="img-responsive" src="{{ .image }}" alt="">
-                            </div>
-                            {{ if .image2 }}
-                            <div class="item">
-                                <img class="img-responsive" src="{{ .image2 }}" alt="">
-                            </div> 
-                            {{ end }}                  
-                        </div>
+                    <div class="col-lg-9">
+                        <img class="img-responsive" src="{{ .image }}" alt="">
                     </div>
                     <div class="col-lg-3 right">
                         </div>
@@ -30,19 +21,10 @@
                         {{ if .subtitle }} <h2>{{ .subtitle }}</h2>{{ end }}
                         <p class="subtitle">{{ .description | safeHTML }}</p>
                     </div>
-
-                    <div class="col-lg-9">   
-                        <div class="homepage owl-carousel">
-                            <div class="item">
-                                <img class="img-responsive" src="{{ .image }}" alt="">
-                            </div>
-                            {{ if .image2 }}
-                            <div class="item">
-                                <img class="img-responsive" src="{{ .image2 }}" alt="">
-                            </div> 
-                            {{ end }}                  
-                        </div>
-                    </div>    
+                    
+                    <div class="col-lg-9">
+                        <img class="img-responsive" src="{{ .image }}" alt="">
+                    </div>
                     {{ end }}
 
 
