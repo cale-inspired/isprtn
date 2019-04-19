@@ -314,8 +314,19 @@ div#content {
 #blog-post {
   text-align: justify;
   max-width: 870px;
-  font-size: 16px;
-  line-height: 26px;
+  font-size: 1.5em;
+  line-height: 1.5em;
+}
+
+#blog-post h2 {
+  color: #785828;
+  font-size: 2.5em;
+  margin-top: 0.5em;
+  text-transform: lowercase;
+}
+
+#blog-post h3 {
+  color: #785828;
 }
 
 blockquote {
@@ -357,6 +368,9 @@ figcaption {
 /*Sidebar in Artikel-Ansicht*/
 .sidebar {
   position: fixed;
+  display: inline;
+  height: 100%;
+  padding-bottom: 10px;
 }
 
 /* SHARE-Buttons am Ende eines Artikels */
@@ -781,7 +795,7 @@ p.lead {
   margin-bottom: 0px;
   border-bottom: solid 1px #785828;
   text-align: center;
-  text-transform: uppercase;
+  text-transform: lowercase;
   letter-spacing: 0.08em;
 }
 
@@ -789,9 +803,10 @@ p.lead {
   margin-bottom: 0;
 }
 #heading-breadcrumbs h1 {
-  color: #333333;
-  text-transform: uppercase;
-  font-size: 33px;
+  color: #785828;
+  text-transform: lowercase;
+  font-size: 4.5em;
+  letter-spacing: 0.05em;
 }
 @media (max-width: 991px) {
     #heading-breadcrumbs h1 {
@@ -800,8 +815,8 @@ p.lead {
   }
 
 #heading-breadcrumbs p {
-  color: #785823;
-  font-size: 22px;
+  color: #333333;
+  font-size: 2em;
   font-weight: bold;
 }
 @media (max-width: 991px) {

@@ -1,30 +1,48 @@
 +++
-title = "#YogaInSpirit - Yoga-Unterricht auf Spendenbasis"
-subtitle = "'Because Yoga is not a business, it's a passion!'"
+title = "Yoga & Meditation"
+subtitle = ""
+draft = false
+keywords = "ashtanga vinyasa yoga meditation teacher workshops"
+tags = ["Yoga", "Meditation", "Ashtanga Yoga", "Hatha Yoga", "Vinyasa Yoga", "Workshops"]
 +++
 
-Kostenloser Yoga-Unterricht für jedermann - das ist das #YogaInSpirit-Projekt! Auf dieser Seite verrate ich dir, wie es funktioniert, wie du teilnehmen kannst und was es sonst noch zu wissen gibt.
+When I started doing Yoga, I was looking for nothing more than physical exercise. It didn't take me long to realise the **infinite potential of the practise that goes beyond the physical**. The seed was planted.
 
-## So funktioniert das #YogaInSpirit-Projekt
+As the sprout was growing, I observed vast changes happening in my life. Not only my body became stronger and flexible, so did I - as a person, as a living being. I found the practise bringing peace, harmony and consciousness into my life. **Yoga inspired me.**
 
-Ganz einfach gesagt: Ich unterrichte Yoga, während ich um die Welt reise.   
+Seeing the effect the practise had on myself, I felt the deep urge to spread the **indescribable joy and the infinite bliss Yoga brings**. I realised that by teaching Yoga I will be able to help people find back to their true selves and become the highest versions of themselves. My motivation was set. The plant was grown.
 
-Einen festen Standort für den Unterricht gibt es also nicht. Stattdessen machen wir dort Yoga, wo sich unsere Wege kreuzen: am Strand, im Wald, in der Stadt oder bei dir zu Hause.
+## Ashtanga, Vinyasa & Hatha Yoga
 
-**Meine Motivation**: Yoga ist Leben, Yoga ist Liebe, Yoga ist Einheit. Ich unterrichte, um den Menschen wieder den Kontakt zur Natur und sich selbst zu zeigen, um sie wieder spüren zu lassen und ihnen Bewusstsein zurückzugeben. Durch den Yoga-Unterricht kann ich meinen Teil zu einer besseren Welt beitragen, indem die Menschheit so ein Stückchen bewusster und achtsamer wird. Nichts macht mich glücklicher, als die zufriedenen Schüler in ewiger Stille und Harmonie zu sehen, in der sie aus einer ausgiebigen Yoga-Einheit herausgehen. Om Shanti om!
+As a **certified Ashtanga Vinyasa Yoga teacher**, I focus on teaching this powerful dynamic Yoga style. I offer both led classes guiding through the full primary series or variations of it and classes in Mysore style. 
 
-**Normlos**: Ich habe mich für keinen bestimmten Yoga-Stil festgelegt. Tendenziell unterrichte ich eher Hatha-Yoga mit vielen statischen Posen, die ich sehr gerne fließend ineinander übergehen lasse - wie im Ashtanga-Yoga. Für kraftvolle Asana-Abfolgen habe ich genauso eine Vorliebe wie für entspannte restorative Yoga-Sessions. Gerne gehe ich, sofern möglich, auf deine Wünsche ein.
+Moreover, I also teach **Hatha and Vinyasa Yoga sessions** which are suitable for all levels of experience.
 
-Da ich selbst überwiegend Ashtanga Vinyasa Yoga praktiziere, unterrichte natürlich auch sehr gerne die Primary Series dieser Stilrichtung - gerne auch im Mysore Style. Tendenziell sind die meisten meiner Schüler aber recht unerfahren, weshalb diese extrem anspruchsvolle Yoga-Art häufig nicht für die Stunden geeignet ist.
+I am able to adopt my classes to the student's individual level, providing **safe guidance and profound knowledge** about the practise. With hands-on adjustments I help the student to find a deeper access to the asanas, the body postures of Yogic practise.
 
-**Spontan**: Anders als bei einem Yoga-Studio gibt's beim #YogaInSpirit-Projekt weder feste Zeiten noch einen bestimmten Ort, an dem wir üben. Ich bin ständig unterwegs, und die Welt ist mein Zuhause. Wo auch immer wir uns zufällig oder abgesprochen treffen - lass uns doch zusammen eine Runde Yoga machen!    
+### All classes are available in English and German.
 
-So habe ich in der Vergangenheit etwa schon auf gemeinsamen Camper-Parkplätzen am Strand, in "freien" Community-Häusern oder auf kleineren Festivals unterrichtet. 
+## Yoga workshops
 
-**Individuell**: Du würdest mich gerne an einem bestimmten Ort treffen? Solange sich das halbwegs mit meinem Reiseplan vereinbaren lässt, komme ich gerne vorbei. Vielleicht kann ich dich auch abholen und wir reisen gemeinsam ein Stück, während wir jeden Tag Yoga praktizieren. :)
+In addition to Yoga classes I also offer workshops on specific purposes and themes. Following is a **selection of available workshops**:
 
++ arm balance poses for beginners and intermediate
++ backbends for men
++ fluent transitions in Ashtanga Vinyasa Yoga
++ proper breathing for asana practise
++ Ashtanga Vinyasa: introduction to the primary series
++ and more...
 
-Du hast (An-)Fragen? Dann nutze [das Kontaktformular]]({{< relref "contact.md" >}}), um mir eine Nachricht zu hinterlassen. Bis dann! 
+## Led Meditation & Yoga Nidra
 
-Namaste,
-Cale
+Every Yoga class ends with Savasana, the end relaxation where the whole body comes to rest after the physical practise. With my deep pleasant voice **I guide you into deep relaxation** helping you to find a quiet mind and a restorative set-up for your body.
+
+Further I offer **extended meditation sessions** of up to one hour, both for general healing and specific purposes like anxiety or physical pain. 
+
+I also guide **Yoga Nidra**, the term meaning 'yogic sleep' and describing a meditative state of consciousness between being awake and falling asleep. In this practise you will be able to find deep relaxation and restore both physical and emotional energy resources.
+
+## Philosophy discourses
+
+## Healing sound experience
+
+I love to combine my two passions of Yoga and music with one another, providing unique sound bath meditation, collective bhajan singing and more. **For more information, have a look at my [music page]({{< relref "music.md" >}}).**

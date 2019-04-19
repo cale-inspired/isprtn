@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  {{ partial "head.html" . }}
+
+  <body>
+
+    <div id="all">
+
+        <header>
+
+          {{ partial "nav.html" . }}
+
+        </header>
+
+        {{ partial "breadcrumbs.html" . }}
+
+        <div id="content">
+            <div class="container">
+
+                <div class="row">
+                    
+                    <!-- *** LEFT COLUMN *** -->
+
+                    <div class="col-md-8" id="blog-post">
+
+                        <div id="post-content">
+                          {{ .Content }}
+                        </div>
+                        <!-- /#post-content -->
+                      
+
+                    </div>
+                    <!-- /#blog-post -->
+
+                    <!-- *** LEFT COLUMN END *** -->
+
+                    <!-- *** RIGHT COLUMN *** -->
+
+                    <div class="col-md-4">
+
+                        <!-- *** MENUS AND WIDGETS *** -->
+
+                        <img class="img-responsive sidebar" src="{{ .Site.BaseURL }}img/sidebar.jpg"></img>
+
+                        <!-- *** MENUS AND FILTERS END *** -->
+
+                    </div>
+                    <!-- /.col-md-3 -->
+
+                    <!-- *** RIGHT COLUMN END *** -->
+
+                </div>
+                <!-- /.row -->
+
+            </div>
+            <!-- /.container -->
+        </div>
+        <!-- /#content -->
+
+
+
+        {{ partial "connect.html" . }}
+        
+        {{ partial "footer.html" . }}
+
+    </div>
+    <!-- /#all -->
+
+    {{ partial "scripts.html" . }}
+
+  </body>
+</html>
