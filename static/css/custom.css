@@ -17,6 +17,7 @@ body {
 }
 
 
+
 .navbar-affixed-top {
   position: fixed;
   top: 0;
@@ -29,6 +30,43 @@ body {
 .navbar-default .navbar.nav > li > a {
   font-color: #ef8222;
 }
+
+.navbar ul.nav > li > a {
+  text-transform: lowercase;
+  font-size: 1.5em;
+  text-decoration: none;
+}
+
+.navbar ul.nav > li > a:hover {
+  border-top: 5px solid transparent;
+}
+
+.navbar-default .navbar-nav > li > a {
+  color: #785828;
+}
+
+.navbar-default .navbar-nav > li:hover {
+  border-top: none;
+}
+
+.navbar-default .navbar-nav > li > a:hover {
+  background-color: transparent;
+  color: #785828;
+  -webkit-transform: translateY(-6px);
+  transform: translateY(-6px);
+}
+
+.navbar .navbar-buttons button {
+  margin-right: 10px;
+  color: #785828;
+  line-height: 30px;
+}
+
+.navbar .navbar-buttons button:hover {
+  background-color: rgba(0,0,0,0.2);
+  border-color: #785828;
+}
+
 
 /* LOGO */
 
@@ -57,38 +95,39 @@ body {
 
 /* SOCIAL MEDIA BUTTONS */
 
+#nav-social {
+  height: 62px;
+  display: inline;
+}
 
-.navbar-header i {
+#nav-social i {
   font-size: 3em;
   color: #785828;
+  border-top: solid 5px transparent;
+  position: relative;
+  padding: 10px 15px;
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
   transition: all 0.2s ease-out;
 }
 
+/*
+@media (max-width: 767px) {
+  #nav-social {
+    font-size: 0.5em;
+  }
+}*/
 
-.navbar-header i:hover {
-  -webkit-transform: scale(1.1, 1.1);
-  -ms-transform: scale(1.1, 1.1);
-  -o-transform: scale(1.1, 1.1);
-  transform: scale(1.1, 1.1);
+#nav-social a:hover i {
+  -webkit-transform: scale(1.2, 1.2);
+  -ms-transform: scale(1.2, 1.2);
+  -o-transform: scale(1.2, 1.2);
+  transform: scale(1.2, 1.2);
 }
 
-
-
-#nav-social li > a {
-  position: relative;
-  padding: 10px 15px;
+#nav-social a:hover {
+  text-decoration: none;
 }
-
-#nav-social li > a:hover {
-  color: #000;
-}
-
-#nav-social li > a:hover i {
-  color: #fff;
-}
-
 
 
 /* HOMEPAGE-HEADER */
@@ -690,7 +729,7 @@ p.lead {
 .box-simple h3 {
   font-weight: normal;
   font-size: 18px;
-  text-transform: uppercase;
+  text-transform: lowercase;
   line-height: 1.5;
   color: #555555;
   font-weight: 800;

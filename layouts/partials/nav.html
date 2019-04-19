@@ -4,21 +4,43 @@
     <div class="navbar navbar-default yamm" role="navigation" id="navbar">
 
         <div class="container">
-            <div class="navbar-header" id="nav-social">
-                                    
-                           <ul class="nav navbar-nav navbar-left"> 
-                                {{ range .Site.Params.connect.list }}
-                                    <li class="dropdown">
-                                        {{ if in .name "Mail"}}
-                                        <a href="mailto:czazlzez@inszpiritzana.org" onmouseover="this.href=this.href.replace(/z/g,'');">
-                                        {{ else }}
-                                        <a href="{{ .link }}">
-                                        {{ end }}      
-                                                    <i class="fa fa-{{ .icon }}"></i>     
-                                        </a>
-                                    </li>
+            <div class="navbar-header">
+
+                        {{ if eq .URL "/" }}
+                        
+                            <div id="nav-social">
+                                    {{ range .Site.Params.connect.list }}
+                                        
+                                            {{ if in .name "Mail"}}
+                                            <a href="mailto:czazlzez@inszpiritzana.org" target="_blank" style="opacity: 1;" onmouseover="this.href=this.href.replace(/z/g,'');">
+                                            {{ else }}
+                                            <a href="{{ .link }}">
+                                            {{ end }}      
+                                                        <i class="fa fa-{{ .icon }}"></i>     
+                                            </a>
+                                        
+                                    {{ end }}
+                            </div>
+
+                        {{ else }}
+                             <a class="navbar-brand home" href="{{ .Site.BaseURL }}">  
+                                {{ if eq .URL "/" }}  
+                                <img src="{{ .Site.BaseURL }}img/logo-small.png" alt="inspiritana.org logo eye" class="visible-xs visible-sm">   
+                                {{ else }}             
+                                <img src="{{ .Site.BaseURL }}img/logo.png" alt="inspiritana.org logo eye" class="hidden-xs hidden-sm">
+                                <img src="{{ .Site.BaseURL }}img/logo-small.png" alt="inspiritana.org logo small" class="visible-xs visible-sm">
                                 {{ end }}
-                            </ul>
+                                
+                                <span class="sr-only">{{ .Title }} - go to homepage</span>
+                            </a>
+                        {{ end }}
+
+                        <div class="navbar-buttons">
+                            <button type="button" class="navbar-toggle btn-template-main" data-toggle="collapse" data-target="#navigation">
+                              <span class="sr-only">{{ i18n "navToggle" }}</span>
+                                <i class="fa fa-align-justify"></i>
+                            </button>
+                        </div>
             </div>
             <!--/.navbar-header -->
 
@@ -35,6 +57,21 @@
                         </li>
                     {{ end }}
                 </ul>
+            </div>
+
+            <div class="collapse clearfix" id="search">
+
+                <form class="navbar-form" role="search">
+                    <div class="input-group">
+                        <input type="text" class="form-control" placeholder="Search">
+                        <span class="input-group-btn">
+
+                    <button type="submit" class="btn btn-template-main"><i class="fa fa-search"></i></button>
+
+                </span>
+                    </div>
+                </form>
+
             </div>
             <!--/.nav-collapse -->
 
