@@ -35,6 +35,7 @@ body {
   text-transform: lowercase;
   font-size: 1.5em;
   text-decoration: none;
+  font-weight: 400;
 }
 
 .navbar ul.nav > li > a:hover {
@@ -54,6 +55,7 @@ body {
   color: #785828;
   -webkit-transform: translateY(-6px);
   transform: translateY(-6px);
+  font-weight: 600;
 }
 
 .navbar .navbar-buttons button {
@@ -119,10 +121,8 @@ body {
 }*/
 
 #nav-social a:hover i {
-  -webkit-transform: scale(1.2, 1.2);
-  -ms-transform: scale(1.2, 1.2);
-  -o-transform: scale(1.2, 1.2);
-  transform: scale(1.2, 1.2);
+      -webkit-transform: translateY(-6px);
+  transform: translateY(-6px);
 }
 
 #nav-social a:hover {
@@ -317,18 +317,33 @@ div#content {
   float: none;
   margin: auto;
   font-size: 1.5em;
-  letter-spacing: 0.05em;
+  letter-spacing: 0.03em;
+  padding: 1em;
 }
+
+@media (max-width: 767px) {
+  #blog-post {
+     font-size: 1.2em;
+     letter-spacing: 0.02em;
+     line-height: 1.4em;
+   }
+ }
+
 
 #blog-post h2 {
   color: #785828;
   font-size: 2.5em;
   margin-top: 0.5em;
+  font-weight: 200;
+  letter-spacing: 0.08em;
+  text-shadow: 2px 2px 5px #888888;
   text-transform: lowercase;
 }
 
 #blog-post h3 {
   color: #785828;
+  font-weight: 400;
+  letter-spacing: 0.08em;
 }
 
 blockquote {
@@ -606,29 +621,30 @@ div.share-content {
 }
 
 
-@media (max-width: 991px) {
+@media (max-width: 1280px) {
   .start {
     text-align: center !important;
   }
 }
-@media (min-width: 991px) {
+
+@media (min-width: 1280px) {
   .start .right {
     text-align: right;
   }
 }
 
 .start h1 {
-  font-size: 5em;
+  font-size: 4vw;
   font-weight: 200;
   letter-spacing: 0.08em;
   padding-bottom: 0.5em;
-  font-style: italic;
   text-shadow: 2px 2px 5px #888888;
   color: #785828;
   margin-top: 0;
   margin-bottom: 0;
   text-transform: lowercase;
 }
+
 @media (max-width: 991px) {
   .start h1 {
     font-size: 3em;
@@ -638,6 +654,7 @@ div.share-content {
 .start h2 {
   margin: 0;
 }
+
 
 .start ul,
 .start p {
@@ -651,7 +668,8 @@ div.share-content {
 @media (max-width: 991px) {
   .start ul,
   .start p {
-    font-size: 1.2em;
+    font-size: 1.3em;
+    line-height: 1.3em;
   }
 }
 
@@ -695,11 +713,13 @@ div.share-content {
 .start img
 {
   border: solid 1px #785828;  
+  margin-bottom: 0.5em;
 }
 
 p.lead {
   text-align: center;
 }
+
 
 
 #namaste {
@@ -714,19 +734,26 @@ p.lead {
   border-bottom: solid 2px #785828;
 }
 
+@media (max-width: 991px) {
+  #namaste {
+    font-size: 4em;
+  }
+}
+
 /* CONNECT */
 
 #connect h1 {
-  font-weight: 700;
-  font-size: 5em;
-  letter-spacing: 0.05em;
+  font-size: 7em;
+  font-weight: 200;
+  letter-spacing: 0.08em;
+  text-shadow: 2px 2px 5px #888888;
+  font-weight: 200;
   color: #785828;
   margin-top: 0;
   text-transform: lowercase;
   display: inline-block;
   line-height: 1.1;
-  border-bottom: none;
-  box-shadow: inset 0 -5px 0 0 #888888;
+  border-bottom: solid 2px #785828;
 }
 
 #connect .dark-mask {
@@ -767,40 +794,43 @@ p.lead {
   text-align: center;
   margin-bottom: 40px;
   margin: 2px;
-}
-.box-simple .icon {
-   color: #785828;
-  -webkit-transition: all 0.2s ease-out;
+    -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
   transition: all 0.2s ease-out;
 }
+.box-simple .icon {
+   color: #785828;
+
+}
 .box-simple h3 {
   font-weight: normal;
-  font-size: 18px;
-  text-transform: lowercase;
-  line-height: 1.5;
-  color: #555555;
-  font-weight: 800;
+  font-size: 1.5em;
+  font-weight: 400;
   letter-spacing: 0.08em;
+  color: #555555;
   text-align: center;
+  text-transform: lowercase;
 }
+
+.box-simple a:hover {
+  text-decoration: none;
+}
+
+.box-simple:hover h3 {
+  font-weight: 600;
+}
+
 .box-simple h3 a {
   color: #555555;
 }
 .box-simple p {
   color: #999999;
 }
-.box-simple:hover .icon {
-  -webkit-transform: scale(1.2, 1.2);
-  -ms-transform: scale(1.2, 1.2);
-  -o-transform: scale(1.2, 1.2);
-  transform: scale(1.2, 1.2);
-}
-.box-simple:hover .icon i {
-  -webkit-transform: scale(1, 1);
-  -ms-transform: scale(1, 1);
-  -o-transform: scale(1, 1);
-  transform: scale(1, 1);
+
+
+.box-simple:hover {
+    -webkit-transform: translateY(-12px);
+  transform: translateY(-12px);
 }
 
 /*zum Zentrieren*/
@@ -826,10 +856,12 @@ p.lead {
   margin-bottom: 0;
 }
 #heading-breadcrumbs h1 {
+  font-size: 5em;
+  font-weight: 200;
+  letter-spacing: 0.08em;
+  text-shadow: 2px 2px 5px #888888;
   color: #785828;
   text-transform: lowercase;
-  font-size: 4.5em;
-  letter-spacing: 0.05em;
 }
 @media (max-width: 991px) {
     #heading-breadcrumbs h1 {
