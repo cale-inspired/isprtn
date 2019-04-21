@@ -8,15 +8,15 @@ tags = ["Cale", "About me", "Yoga", "Meditation", "Ashtanga Yoga"]
 
 ## Namasté, my dear friend.
 
-I am happy to welcome you to my website. Before I get more into detail about me and my personal life, I want to emphasise: This journey is about YOU. At best, I will be able to inspire you, guide you along your process or deepen your personal practise. However, in the end YOU are writing YOUR OWN LIFESTORY - at this very moment. Never underestimate your potential. You are infinite!
+I am happy to welcome you to my website. Before I get more into detail about me and my personal life, I want to emphasise: **This journey is about YOU.** At best, I will be able to inspire you, guide you along your process or deepen your personal practise. However, in the end YOU are writing YOUR OWN LIFESTORY - at this very moment. **Never underestimate your potential. You are infinite!**
 
 ## Who am I
 
-There is hardly any question that is so hard to answer than "Who am I?". I wonder: In which way would you, who has found his way to my website, want me to introduce myself? If you are interested in my person, the ephemeral form I have taken for this life, I might want to tell you things like: My name is Cale Alit and I grew up in Germany, started travelling right after school and never stopped doing so, moved into a van three years ago, love the nature, the freedom, playing music and cooking. 
+There is hardly any question that is so hard to answer than "Who am I?". I wonder: In which way would you, who has found his way to my website, want me to introduce myself? If you are interested in my person, **the ephemeral form I have taken for this life**, I might want to tell you things like: My name is Cale Alit and I grew up in Germany, started travelling right after school and never stopped doing so, moved into a van three years ago, love the nature, the freedom, playing music and cooking. 
 
 ### If I could.
 
-Maybe, however, you would like to get straight to the source and get to know the Self beyong the body and the mind. If I could, I would skip the words and let our souls touch immediately - but this will have to wait until we meet in real-life. 
+Maybe, however, you would like to get straight to the source and get to know the Self beyond the body and the mind. If I could, I would skip the words and **let our souls touch immediately** - but this will have to wait until we meet in real-life. 
 
 ## My Yogic journey
 
