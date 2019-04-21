@@ -24,8 +24,12 @@
                         <p class="subtitle">{{ .description | safeHTML }}</p>
                     </div>
                     {{ else }}
+                    {{ if eq $nummer 1 }}
+                    <div class="col">
+                         <h1 id="namaste">Namasté, my dear friend.</h1>
+                    </div>
+                    {{ end }}
                     <div class="col-lg-3 right">
-
                         <h1>{{ .title }}</h1>
                         <p class="subtitle">{{ .description | safeHTML }}</p>
                     </div>
