@@ -1,22 +1,32 @@
-<form method="POST" id="contactform">          
-    <div class="form-group">
-        <input type="text" class="form-control" name="name" id="name" placeholder="Dein Name" required>
-    </div>
+                <form method="post" action="//formspree.io/{{ .Site.Params.email }}">
+                    <div class="row">
+                        <div class="col-sm-6">
+                            <div class="form-group">
+                                <label for="name">Dein Name</label>
+                                <input type="text" class="form-control" name="name" id="name" required>
+                            </div>
+                        </div>
+                        <div class="col-sm-6">
+                            <div class="form-group">
+                                <label for="email">Deine E-Mail-Adresse</label>
+                                <input type="text" class="form-control" name="email" id="email" required>
+                            </div>
+                        </div>
+                        <div class="col-sm-12">
+                            <div class="form-group">
+                                <label for="message">Deine Nachricht</label>
+                                <textarea id="message" class="form-control" name="message" required></textarea>
+                            </div>
+                        </div>
 
-    <div class="form-group">
-        <input type="email" class="form-control" name="_replyto" id="email" placeholder="Deine E-Mail-Adresse" required>
-    </div>
-                       
-    <div class="form-group">
-        <textarea id="message" class="form-control" name="message" placeholder="Deine Nachricht an inspiritana.org" required></textarea>
-    </div>
-                
-    <button type="submit" class="btn btn-template-main" value="Send"><i class="fa fa-envelope-o"></i>Nachricht senden</button>
-    
-    <input type="hidden" name="_next" value="https://inspiritana.org/contact/" />
-    <input type="text" name="_gotcha" style="display:none" />
+                        <div class="col-sm-12 text-center">
+                            <button type="submit" class="btn btn-template-main"><i class="fa fa-envelope-o"></i> Nachricht senden</button>
 
-</form>
+                        </div>
+                    </div>
+                    <!-- /.row -->
+                </form>
+
 
 <p>Mit dem Absenden Ihrer Anfrage erklären Sie sich mit der Verarbeitung Ihrer angegebenen Daten zum Zweck der Bearbeitung Ihrer Anfrage einverstanden (<a href="https://inspiritana.org/datenschutz">Datenschutzerklärung und Widerrufshinweise</a>)“.</p>
 
