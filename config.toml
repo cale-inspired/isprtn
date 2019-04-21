@@ -51,7 +51,7 @@ preserveTaxonomyNames = true
     weight = 1
 
 [[params.menu]]
-    name = "About"
+    name = "About me"
     url = "/about"
     weight = 2
 
