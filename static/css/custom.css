@@ -606,21 +606,24 @@ div.share-content {
 }
 
 
-@media (max-width: 767px) {
+@media (max-width: 991px) {
   .start {
     text-align: center !important;
   }
 }
-@media (min-width: 992px) {
+@media (min-width: 991px) {
   .start .right {
     text-align: right;
   }
 }
 
 .start h1 {
-  font-weight: 700;
   font-size: 5em;
-  letter-spacing: 0.05em;
+  font-weight: 200;
+  letter-spacing: 0.08em;
+  padding-bottom: 0.5em;
+  font-style: italic;
+  text-shadow: 2px 2px 5px #888888;
   color: #785828;
   margin-top: 0;
   margin-bottom: 0;
@@ -643,7 +646,7 @@ div.share-content {
   padding: 0;
   text-transform: lowercase;
   letter-spacing: 0.08em;
-  margin-top: 1em;
+  margin-top: 0em;
 }
 @media (max-width: 991px) {
   .start ul,
@@ -696,6 +699,19 @@ div.share-content {
 
 p.lead {
   text-align: center;
+}
+
+
+#namaste {
+  text-align: center;
+  margin-bottom: 0.6em;
+  font-size: 6em;
+  font-weight: 200;
+  letter-spacing: 0.08em;
+  padding-bottom: 0.5em;
+  font-style: italic;
+  text-shadow: 2px 2px 5px #888888;
+  border-bottom: solid 2px #785828;
 }
 
 /* CONNECT */
@@ -928,21 +944,13 @@ p.lead {
 
 /* KONTAKT-SEITE */
 /*Formspree-Formular*/
-#contactform {
-  max-width: 400px;
-  margin-top: 20px;
-  margin-bottom: 40px;
-}
 
-#contactform .form-group {
-  margin: 10px;
-  margin-right: 0px;
-}
 
 #contactform textarea {
-  min-height: 100px;
+  width: 800px;
+  float: right;
 }
 
 #contactform button {
-  float: right;
+  width: 100%;
 }
