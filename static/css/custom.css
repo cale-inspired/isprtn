@@ -338,11 +338,13 @@ div#content {
   letter-spacing: 0.08em;
   text-shadow: 2px 2px 5px #888888;
   text-transform: lowercase;
+  margin-bottom: 0.5em;
 }
 
 #blog-post h3 {
   color: #785828;
   font-weight: 400;
+  text-transform: lowercase;
   letter-spacing: 0.08em;
 }
 
