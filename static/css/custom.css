@@ -13,7 +13,7 @@ body {
 }
 
 .navbar-header {
-  height: 70px;
+  height: 7vh;
 }
 
 
@@ -37,6 +37,13 @@ body {
   text-decoration: none;
   font-weight: 400;
 }
+
+@media (max-width: 991px) {
+  .navbar ul.nav > li > a {
+    padding-right: 5px;
+  }
+}
+
 
 .navbar ul.nav > li > a:hover {
   border-top: 5px solid transparent;
@@ -111,14 +118,17 @@ body {
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
   transition: all 0.2s ease-out;
+  margin:0;
 }
 
-/*
-@media (max-width: 767px) {
-  #nav-social {
-    font-size: 0.5em;
-  }
-}*/
+
+
+@media (max-width: 991px) {
+  #nav-social i {
+    padding: 10px 10px;
+   }
+}
+
 
 #nav-social a:hover i {
       -webkit-transform: translateY(-6px);
@@ -137,16 +147,18 @@ body {
   background-repeat: no-repeat;
   text-align: center;
   border-bottom: solid 2px #785828;
-  height: 100%;
-  }
+  height: 93vh;
+}
 
 #homepage-header .btn {
   border: none
   background-color: none;
   color: #785828;
-  transition: 0.5s;
   margin-top: 1em;
-  font-size: 1.5em;
+  font-size: 1.2em;
+    -webkit-transition: all 0.5s ease-out;
+  -moz-transition: all 0.5s ease-out;
+  transition: all 0.5s ease-out;
 }
 
 @media (max-width: 767px) {
@@ -163,7 +175,9 @@ body {
 #homepage-header .icon-background {
   color: #fff;
   opacity: 0.5;
-  transition: 0.5s;
+    -webkit-transition: all 0.2s ease-out;
+  -moz-transition: all 0.2s ease-out;
+  transition: all 0.2s ease-out;
 }
 
 #homepage-header .btn:hover .icon-background {
@@ -172,7 +186,7 @@ body {
 
 
 #homepage-header img {
-  width: 100%;
+  width: 80vw;
   max-width: 960px;
 }
 
@@ -374,6 +388,7 @@ blockquote {
 #post-content img {
   max-width: 100%;
   max-height: 800px;  
+  border: solid 1px #785828;
 }
 
 
