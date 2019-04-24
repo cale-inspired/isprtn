@@ -1,42 +1,24 @@
 
     <div class="row" id="contactform">
       
-
-            <form name="contact" method="POST" data-netlify="true">
+        <div class="col-md-12"> 
+            <form name="contact" method="POST" data-netlify="true" netlify-honeypot="hpfield">
+                        <div class="hpot hidden">
+                            <label>Leave this field empty: <input name="hpfield"></label>
+                        </div>
                 
-                    <div class="col-md-2">
-                        <label>Your name: 
-                    </label></div>
-                    <div class="col-md-4"><input type="text" name="name" />  
-                     </div>
-                    
+                        <input type="text" name="name" required="" placeholder="Your name" />  
 
-                    <div class="col-md-2">
-                     
-                        <label>Your email:</label>
-                    </div>
-
-                    <div class="col-md-4"> 
-                        <input type="email" name="email" />
-
-                    </div>
-                   
-
-                    <div class="col-md-2">
-                             <label>Message: </label>
-                    </div>
-
-                             <div class="col-md-10">
-                                <textarea name="message"></textarea>
-                            </div>
-                    
-                    <div class="col-md-12">
-                             <p>
-                                <button type="submit">Send</button>
-                             </p>
-                    </div>
+                        <input type="email" name="email" required=""  placeholder="Your email address" />
+              
+                        <textarea name="message" required=""  placeholder="Message"></textarea>
+                        
+                        <button type="submit"><i class="fa fa-envelope-o"></i></button>
+                        
+                        <p class="small">Your data entered here will be used exclusively for processing your inquiry and stored and processed for this purpose. By filling out and sending our online form you accept our <a href="{{ .Site.BaseURL}}privacy">privacy policy</a>. All information is voluntary. You can revoke your consent to data storage at any time by sending an e-mail to us with your objection.</p>
 
             </form>
+        </div>
 
-                            <p>Mit dem Absenden Ihrer Anfrage erklären Sie sich mit der Verarbeitung Ihrer angegebenen Daten zum Zweck der Bearbeitung Ihrer Anfrage einverstanden (<a href="https://inspiritana.org/datenschutz">Datenschutzerklärung und Widerrufshinweise</a>)“.</p>
+                         
     </div>
