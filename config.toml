@@ -166,7 +166,7 @@ preserveTaxonomyNames = true
     [[params.connect.list]]
         name = "YouTube"
         icon = "youtube-square"
-        link = "https://www.youtube.com/youtube"
+        link = "https://www.youtube.com/inspiritana"
         
     [[params.connect.list]]
         name= "E-Mail"
