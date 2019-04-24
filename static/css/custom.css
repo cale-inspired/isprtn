@@ -994,12 +994,36 @@ p.lead {
 /* KONTAKT-SEITE */
 /*Formspree-Formular*/
 
+#contactform form {
+  margin-top: 15px;
+  padding-left: 20px;
+}
+
+#contactform textarea, button, input {
+  border: 1px solid #785828;
+  border-radius: 5px;
+  outline: 0;
+  width: 80%;
+  padding: 15px 20px;
+  margin-bottom: 10px;
+  font-size: 0.8em;
+}
 
 #contactform textarea {
-  width: 800px;
-  float: right;
+  height: 150px;
 }
 
 #contactform button {
-  width: 100%;
+    font-weight: 400;
+  letter-spacing: 0.08em;
+  color: #785828;
+  font-size: 2em;
+  background-color: rgba(0,0,0,0.1);
+  padding: 0;
+}
+
+#contactform p.small {
+  font-size: 0.8em;
+  width: 80%;
+  line-height: 110%;
 }
