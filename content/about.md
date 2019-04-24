@@ -11,8 +11,7 @@ tags = ["Cale", "About me", "Yoga", "Meditation", "Ashtanga Yoga"]
 I am happy to welcome you to my website. Before I get more into detail about me and my personal life, I want to emphasise: **This journey is about YOU.** At best, I will be able to inspire you, guide you along your process or deepen your personal practise. However, in the end YOU are writing YOUR OWN LIFESTORY - at this very moment. **Never underestimate your potential. You are infinite!**
 
 
-{{< figure src="/img/about/me3.jpg" title=" "
-alt="Veganes Tapas-Restaurant in Granada: El Piano" >}}
+{{< figure src="/img/about/me3.jpg" title=" " alt="" >}}
 
 
 ## Who am I
@@ -34,8 +33,8 @@ Like many people, I started doing Yoga as I felt attracted to the physical exerc
 
 ### An eternal soul.
 
-As I commited more and more to Yoga, I observed vast changes happening in my life. Not only my body became stronger and flexible, so did I - as a person, as a living being, as a loving being. The practise brought **peace, harmony and consciousness** into my life. The practise made me realise that I am not an individual being separate from the external world, but an eternal soul deeply rooted in everything that is. The practise gave me bliss.
+As I commited more and more to Yoga, I observed vast changes happening in my life. Not only my body became stronger and more flexible, so did I - as a person, as a living being, as a loving being. The practise brought **peace, harmony and consciousness** into my life. The practise made me realise that I am not an individual being separate from the external world, but an eternal soul deeply rooted in everything that is. The practise gave me bliss.
 
 ### Sharing the bliss.
 
-Benefiting from the Yoga practise in such a profound way, I felt the deep urge to share this wonderful experience with others. I sensed the potential not only for the individual but for mankind, by helping people to find back to their true selves and become their highest versions. To this day my motivation has not changed: **Inspiring minds, opening hearts, expanding consciousness - this is why I teach.**
+Benefiting from the Yoga practise in such a profound way, I felt the deep urge to share this wonderful experience with others. I sensed the potential not only for the individual but for mankind, by helping people to find back to their true selves and become their highest versions. To this day my motivation has not changed: **inspiring minds, opening hearts, expanding consciousness - this is why I teach.**
