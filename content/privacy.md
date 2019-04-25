@@ -2,6 +2,7 @@
 title = "Privacy policy"
 +++
 
+
 <h4>Privacy Policy</h4>
 
 <p>We are very delighted that you have shown interest in our enterprise. Data protection is of a particularly high priority for the management of the Pascal Thiele. The use of the Internet pages of the Pascal Thiele is possible without any indication of personal data; however, if a data subject wants to use special enterprise services via our website, processing of personal data could become necessary. If the processing of personal data is necessary and there is no statutory basis for such processing, we generally obtain consent from the data subject.</p>
@@ -60,24 +61,35 @@ title = "Privacy policy"
 <p>Alte Schulstr. 3b</p>
 <p>08427 Fraureuth</p>
 <p>Germany</p>
-<p>Phone: 00493761884843</p>
-<p>Email: kontakt [ at ] inspiritana [ dot ] org</p>
+<p>Phone: +493761884843</p>
+<p>Email: kontakt [ at ] inspiritana [ . ] org</p>
 <p>Website: www.inspiritana.org</p>
 
-<h4>3. Collection of general data and information</h4>
+<h4>3. Cookies</h4>
+<p>The Internet pages of the Pascal Thiele use cookies. Cookies are text files that are stored in a computer system via an Internet browser.</p>
+
+<p>Many Internet sites and servers use cookies. Many cookies contain a so-called cookie ID. A cookie ID is a unique identifier of the cookie. It consists of a character string through which Internet pages and servers can be assigned to the specific Internet browser in which the cookie was stored. This allows visited Internet sites and servers to differentiate the individual browser of the dats subject from other Internet browsers that contain other cookies. A specific Internet browser can be recognized and identified using the unique cookie ID.</p>
+
+<p>Through the use of cookies, the Pascal Thiele can provide the users of this website with more user-friendly services that would not be possible without the cookie setting.</p>
+
+<p>By means of a cookie, the information and offers on our website can be optimized with the user in mind. Cookies allow us, as previously mentioned, to recognize our website users. The purpose of this recognition is to make it easier for users to utilize our website. The website user that uses cookies, e.g. does not have to enter access data each time the website is accessed, because this is taken over by the website, and the cookie is thus stored on the user's computer system. Another example is the cookie of a shopping cart in an online shop. The online store remembers the articles that a customer has placed in the virtual shopping cart via a cookie.</p>
+
+<p>The data subject may, at any time, prevent the setting of cookies through our website by means of a corresponding setting of the Internet browser used, and may thus permanently deny the setting of cookies. Furthermore, already set cookies may be deleted at any time via an Internet browser or other software programs. This is possible in all popular Internet browsers. If the data subject deactivates the setting of cookies in the Internet browser used, not all functions of our website may be entirely usable.</p>
+
+<h4>4. Collection of general data and information</h4>
 <p>The website of the Pascal Thiele collects a series of general data and information when a data subject or automated system calls up the website. This general data and information are stored in the server log files. Collected may be (1) the browser types and versions used, (2) the operating system used by the accessing system, (3) the website from which an accessing system reaches our website (so-called referrers), (4) the sub-websites, (5) the date and time of access to the Internet site, (6) an Internet protocol address (IP address), (7) the Internet service provider of the accessing system, and (8) any other similar data and information that may be used in the event of attacks on our information technology systems.</p>
 
 <p>When using these general data and information, the Pascal Thiele does not draw any conclusions about the data subject. Rather, this information is needed to (1) deliver the content of our website correctly, (2) optimize the content of our website as well as its advertisement, (3) ensure the long-term viability of our information technology systems and website technology, and (4) provide law enforcement authorities with the information necessary for criminal prosecution in case of a cyber-attack. Therefore, the Pascal Thiele analyzes anonymously collected data and information statistically, with the aim of increasing the data protection and data security of our enterprise, and to ensure an optimal level of protection for the personal data we process. The anonymous data of the server log files are stored separately from all personal data provided by a data subject.</p>
 
-<h4>4. Contact possibility via the website </h4>
+<h4>5. Contact possibility via the website </h4>
 <p>The website of the Pascal Thiele contains information that enables a quick electronic contact to our enterprise, as well as direct communication with us, which also includes a general address of the so-called electronic mail (e-mail address). If a data subject contacts the controller by e-mail or via a contact form, the personal data transmitted by the data subject are automatically stored. Such personal data transmitted on a voluntary basis by a data subject to the data controller are stored for the purpose of processing or contacting the data subject. There is no transfer of this personal data to third parties.</p>
 
-<h4>5. Routine erasure and blocking of personal data</h4>
+<h4>6. Routine erasure and blocking of personal data</h4>
 <p>The data controller shall process and store the personal data of the data subject only for the period necessary to achieve the purpose of storage, or as far as this is granted by the European legislator or other legislators in laws or regulations to which the controller is subject to.</p>
 
 <p>If the storage purpose is not applicable, or if a storage period prescribed by the European legislator or another competent legislator expires, the personal data are routinely blocked or erased in accordance with legal requirements.</p>
 
-<h4>6. Rights of the data subject</h4>
+<h4>7. Rights of the data subject</h4>
 <ul style="list-style: none;">
 <li><h4>a) Right of confirmation</h4>
 <p>Each data subject shall have the right granted by the European legislator to obtain from the controller the confirmation as to whether or not personal data concerning him or her are being processed. If a data subject wishes to avail himself of this right of confirmation, he or she may, at any time, contact any employee of the controller.</p>
@@ -168,7 +180,7 @@ title = "Privacy policy"
 
 </li>
 </ul>
-<h4>7. Data protection provisions about the application and use of Facebook</h4>
+<h4>8. Data protection provisions about the application and use of Facebook</h4>
 <p>On this website, the controller has integrated components of the enterprise Facebook. Facebook is a social network.</p>
 
 <p>A social network is a place for social meetings on the Internet, an online community, which usually allows users to communicate with each other and interact in a virtual space. A social network may serve as a platform for the exchange of opinions and experiences, or enable the Internet community to provide personal or business-related information. Facebook allows social network users to include the creation of private profiles, upload photos, and network through friend requests.</p>
@@ -183,7 +195,7 @@ title = "Privacy policy"
 
 <p>The data protection guideline published by Facebook, which is available at https://facebook.com/about/privacy/, provides information about the collection, processing and use of personal data by Facebook. In addition, it is explained there what setting options Facebook offers to protect the privacy of the data subject. In addition, different configuration options are made available to allow the elimination of data transmission to Facebook. These applications may be used by the data subject to eliminate a data transmission to Facebook.</p>
 
-<h4>8. Data protection provisions about the application and use of Instagram</h4>
+<h4>9. Data protection provisions about the application and use of Instagram</h4>
 <p>On this website, the controller has integrated components of the service Instagram. Instagram is a service that may be qualified as an audiovisual platform, which allows users to share photos and videos, as well as disseminate such data in other social networks.</p>
 
 <p>The operating company of the services offered by Instagram is Facebook Ireland Ltd., 4 Grand Canal Square, Grand Canal Harbour, Dublin 2 Ireland.</p>
@@ -196,7 +208,7 @@ title = "Privacy policy"
 
 <p>Further information and the applicable data protection provisions of Instagram may be retrieved under https://help.instagram.com/155833707900388 and https://www.instagram.com/about/legal/privacy/.</p>
 
-<h4>9. Data protection provisions about the application and use of YouTube</h4>
+<h4>10. Data protection provisions about the application and use of YouTube</h4>
 <p>On this website, the controller has integrated components of YouTube. YouTube is an Internet video portal that enables video publishers to set video clips and other users free of charge, which also provides free viewing, review and commenting on them. YouTube allows you to publish all kinds of videos, so you can access both full movies and TV broadcasts, as well as music videos, trailers, and videos made by users via the Internet portal.
 </p>
 
@@ -210,19 +222,19 @@ title = "Privacy policy"
 
 <p>YouTube's data protection provisions, available at https://www.google.com/intl/en/policies/privacy/, provide information about the collection, processing and use of personal data by YouTube and Google.</p>
 
-<h4>10. Legal basis for the processing </h4>
+<h4>11. Legal basis for the processing </h4>
 <p>Art. 6(1) lit. a GDPR serves as the legal basis for processing operations for which we obtain consent for a specific processing purpose. If the processing of personal data is necessary for the performance of a contract to which the data subject is party, as is the case, for example, when processing operations are necessary for the supply of goods or to provide any other service, the processing is based on Article 6(1) lit. b GDPR. The same applies to such processing operations which are necessary for carrying out pre-contractual measures, for example in the case of inquiries concerning our products or services. Is our company subject to a legal obligation by which processing of personal data is required, such as for the fulfillment of tax obligations, the processing is based on Art. 6(1) lit. c GDPR.
 In rare cases, the processing of personal data may be necessary to protect the vital interests of the data subject or of another natural person. This would be the case, for example, if a visitor were injured in our company and his name, age, health insurance data or other vital information would have to be passed on to a doctor, hospital or other third party. Then the processing would be based on Art. 6(1) lit. d GDPR.
 Finally, processing operations could be based on Article 6(1) lit. f GDPR. This legal basis is used for processing operations which are not covered by any of the abovementioned legal grounds, if processing is necessary for the purposes of the legitimate interests pursued by our company or by a third party, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data. Such processing operations are particularly permissible because they have been specifically mentioned by the European legislator. He considered that a legitimate interest could be assumed if the data subject is a client of the controller (Recital 47 Sentence 2 GDPR).
 </p>
 
-<h4>11. The legitimate interests pursued by the controller or by a third party</h4>
+<h4>12. The legitimate interests pursued by the controller or by a third party</h4>
 <p>Where the processing of personal data is based on Article 6(1) lit. f GDPR our legitimate interest is to carry out our business in favor of the well-being of all our employees and the shareholders.</p>
 
-<h4>12. Period for which the personal data will be stored</h4>
+<h4>13. Period for which the personal data will be stored</h4>
 <p>The criteria used to determine the period of storage of personal data is the respective statutory retention period. After expiration of that period, the corresponding data is routinely deleted, as long as it is no longer necessary for the fulfillment of the contract or the initiation of a contract.</p>
 
-<h4>13. Provision of personal data as statutory or contractual requirement; Requirement necessary to enter into a contract; Obligation of the data subject to provide the personal data; possible consequences of failure to provide such data </h4>
+<h4>14. Provision of personal data as statutory or contractual requirement; Requirement necessary to enter into a contract; Obligation of the data subject to provide the personal data; possible consequences of failure to provide such data </h4>
 <p>We clarify that the provision of personal data is partly required by law (e.g. tax regulations) or can also result from contractual provisions (e.g. information on the contractual partner).
 
 Sometimes it may be necessary to conclude a contract that the data subject provides us with personal data, which must subsequently be processed by us. The data subject is, for example, obliged to provide us with personal data when our company signs a contract with him or her. The non-provision of the personal data would have the consequence that the contract with the data subject could not be concluded.
@@ -230,10 +242,9 @@ Sometimes it may be necessary to conclude a contract that the data subject provi
 Before personal data is provided by the data subject, the data subject must contact any employee. The employee clarifies to the data subject whether the provision of the personal data is required by law or contract or is necessary for the conclusion of the contract, whether there is an obligation to provide the personal data and the consequences of non-provision of the personal data.
 </p>
 
-<h4>14. Existence of automated decision-making</h4>
+<h4>15. Existence of automated decision-making</h4>
 <p>As a responsible company, we do not use automatic decision-making or profiling.</p>
 
 <p>This Privacy Policy has been generated by the Privacy Policy Generator of the <a href="https://dg-datenschutz.de/services/external-data-protection-officer/?lang=en">External Data Protection Officers</a> that was developed in cooperation with the <a href="https://www.wbs-law.de/eng/practice-areas/media-law/">Media Law Lawyers</a> from WBS-LAW.
 </p>
 
- 
