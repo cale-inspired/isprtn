@@ -175,6 +175,11 @@ preserveTaxonomyNames = true
         link= ""
 
 
+# privacy settings for GDPR (more in hugo docs)
+[privacy.youtube]
+    disable = false
+    privacyEnhanced = true
+
 
 
 ignoreFiles = [ ".foo", ".ign" ]
