@@ -618,6 +618,7 @@ div.share-content {
 
 #start4 {
   padding-bottom: 5em;
+  border-bottom: none;
 }
 
 @media (max-width: 767px) {
@@ -759,6 +760,12 @@ p.lead {
 
 /* CONNECT */
 
+#connect {
+  border-top: 3px solid #785828;
+  padding-top: 2em;
+  padding-bottom: 0;
+}
+
 #connect h1 {
   font-size: 7em;
   font-weight: 200;
@@ -768,10 +775,34 @@ p.lead {
   color: #785828;
   margin-top: 0;
   text-transform: lowercase;
-  display: inline-block;
-  line-height: 1.1;
   border-bottom: solid 2px #785828;
 }
+
+@media (max-width: 991px) {
+  #connect h1 {
+    font-size: 4em;
+    border-bottom: solid 1px #785828;
+  }
+}
+
+#connect h3 {
+   font-weight: normal;
+  font-size: 1.5em;
+  font-weight: 400;
+  letter-spacing: 0.08em;
+  color: #555555;
+  text-align: center;
+  text-transform: lowercase;
+}
+
+
+@media (max-width: 991px) {
+  #connect h3 {
+    font-size: 1em;
+  }
+}
+
+
 
 #connect .dark-mask {
   position: absolute;
@@ -784,79 +815,37 @@ p.lead {
   filter: alpha(opacity=50);
 }
 
-/* ICONS */
 
-.icon {
-  display: inline-block;
-  width: 80px;
-  height: 80px;
-  color: #fff;
-  line-height: 80px;
-  font-size: 70px;
-  border: 0;
+#connect i {
+  font-size: 5em;
+  border: none;
   color: #785828;
 }
-.icon.icon-lg {
-  font-size: 80px;
-  border-radius: 0;
-  border-width: 2px;
-}
 
 
-
-/* BOX-SIMPLE (Feature-Anzeige) - genutzt für connect.html */
-
-
-.box-simple {
-  text-align: center;
-  margin-bottom: 40px;
-  margin: 2px;
-    -webkit-transition: all 0.2s ease-out;
-  -moz-transition: all 0.2s ease-out;
-  transition: all 0.2s ease-out;
-}
-.box-simple .icon {
-   color: #785828;
-
-}
-.box-simple h3 {
-  font-weight: normal;
-  font-size: 1.5em;
-  font-weight: 400;
-  letter-spacing: 0.08em;
-  color: #555555;
-  text-align: center;
-  text-transform: lowercase;
-}
-
-.box-simple a:hover {
+#connect a:hover {
   text-decoration: none;
 }
 
-.box-simple:hover h3 {
-  font-weight: 600;
-}
-
-.box-simple h3 a {
-  color: #555555;
-}
-.box-simple p {
-  color: #999999;
-}
-
-
-.box-simple:hover {
-    -webkit-transform: translateY(-12px);
+.connect-box:hover {
+  -webkit-transform: translateY(-12px);
   transform: translateY(-12px);
 }
 
-/*zum Zentrieren*/
-/*@media (min-width: 992px) {
-.box-simple .col-md-2 {
-    width: 20%;
-  }
+#connect .connect-box:hover h3 {
+  font-weight: 600;
 }
-*/
+
+
+.connect-box {
+  text-align: center;
+  margin-bottom: 40px;
+  -webkit-transition: all 0.2s ease-out;
+  -moz-transition: all 0.2s ease-out;
+  transition: all 0.2s ease-out;
+}
+
+
 
 /* BREADCRUMBS */
 #heading-breadcrumbs {
