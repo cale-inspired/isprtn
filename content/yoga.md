@@ -6,11 +6,12 @@ keywords = "ashtanga vinyasa yoga meditation teacher workshops"
 tags = ["Yoga", "Meditation", "Ashtanga Yoga", "Hatha Yoga", "Vinyasa Yoga", "Workshops"]
 +++
 
-### holistic
-
 As my own dedicated journey has strongly influenced my approach to teaching, I emphasise the spiritual practise just as much as the physical practise. In my classes you will not only be working with your body, but also nurturing your soul as you go deep inside.
 
 Loving both the physically demanding aspects of an instense dynamic Asana practise and the blessed effects of consciousness-expanding meditations, my classes follow a holistic approach to Yoga with strong influences of traditional teachings brought to modern life.
+
+{{< figure src="/img/pages/yoga.jpg" title=" "
+alt="Veganes Tapas-Restaurant in Granada: El Piano" >}}
 
 ## Ashtanga Yoga 
 
@@ -18,13 +19,17 @@ After more than two years of intense Ashtanga Vinyasa practise, this powerful dy
 
 As a **certified Ashtanga Vinyasa Yoga teacher**, I focus on teaching this traditional yoga style in a comprehensive manner putting all eight limbs into practise. I offer both **led classes of the full primary series** or variations of it and classes in **Mysore style**, as well as pranayama and meditation sessions.
 
+
 ## Hatha & Vinyasa Yoga
 
-Furthermore I also offer **Hatha and Vinyasa Yoga sessions** which are suitable for all levels of experience and can be adopted individually.
+Furthermore I also offer **Hatha and Vinyasa Yoga classes** which are suitable for all levels of experience and can be adopted individually.
 
 Providing **safe guidance and profound knowledge** about the practise. With hands-on adjustments I help the student to find a deeper access to the asanas, the body postures of Yogic practise.
 
 ### All classes are available in English and German.
+
+{{< figure src="/img/pages/yoga2.jpg" title=" "
+alt="Veganes Tapas-Restaurant in Granada: El Piano" >}}
 
 ## Workshops & discourses
 

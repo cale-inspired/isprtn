@@ -6,12 +6,10 @@ keywords = "cale alit ashtanga yoga teacher musician traveller"
 tags = ["Cale", "About me", "Yoga", "Meditation", "Ashtanga Yoga"]
 +++
 
-## Namasté, my dear friend.
-
 I am happy to welcome you to my website. Before I get more into detail about me and my personal life, I want to emphasise: **This journey is about YOU.** At best, I will be able to inspire you, guide you along your process or deepen your personal practise. However, in the end YOU are writing YOUR OWN LIFESTORY - at this very moment. **Never underestimate your potential. You are infinite!**
 
 
-{{< figure src="/img/about/me3.jpg" title=" " alt="" >}}
+{{< figure src="/img/pages/about.jpg" title=" " alt="" >}}
 
 
 ## Who am I
@@ -24,12 +22,12 @@ Maybe, however, you would like to get straight to the source and get to know the
 
 ## My Yogic journey
 
-{{< figure src="/img/about/yoga.jpg" title=" "
+{{< figure src="/img/pages/about2.jpg" title=" "
 alt="Veganes Tapas-Restaurant in Granada: El Piano" >}}
 
 ### Beyond the physical.
 
-Like many people, I started doing Yoga as I felt attracted to the physical exercise. It didn't take long, however, to realise that Yoga was so much more than that. After the class **I felt every cell in body vibrating**, I was physically exhausted yet energetically charged as I never felt before. I sensed the infinite potential of the practise that goes beyond the physical.
+When I started doing Yoga more than five years ago, I felt attracted to the physical exercise at first. It didn't take long, however, to realise that Yoga was so much more than that. After the class **I felt every cell in body vibrating**, I was physically exhausted yet energetically charged as I never felt before. I sensed the infinite potential of the practise that goes beyond the physical.
 
 ### An eternal soul.
 
@@ -38,3 +36,7 @@ As I commited more and more to Yoga, I observed vast changes happening in my lif
 ### Sharing the bliss.
 
 Benefiting from the Yoga practise in such a profound way, I felt the deep urge to share this wonderful experience with others. I sensed the potential not only for the individual but for mankind, by helping people to find back to their true selves and become their highest versions. To this day my motivation has not changed: **inspiring minds, opening hearts, expanding consciousness - this is why I teach.**
+
+{{< figure src="/img/pages/about3.jpg" title=" " alt="" >}}
+
+### i am looking forward to hearing from you!

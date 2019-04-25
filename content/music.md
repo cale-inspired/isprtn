@@ -8,13 +8,16 @@ tags = ["Yoga", "Meditation", "Ashtanga Yoga", "Hatha Yoga", "Vinyasa Yoga", "Wo
 
 My musical journey started more than 10 years ago when I picked up the guitar for the first time. Starting mainly with classical music in finger-picking style, I was about to go through many different musical stages - from covering pop songs to German rap to ambient acoustic improvisations. All of these are still part of my current musical expression, however, real depth has only come since I have found spiritual access to music. 
 
+{{< figure src="/img/pages/music.jpg" title=" "
+alt="Veganes Tapas-Restaurant in Granada: El Piano" >}}
+
 ### devotion.
 
 Yoga and the increased consciousness that comes with it have changed my way of living in all aspects, including making music. Being present allows to dive deeper into the moment, open yourself towards the sound in all of its richness, perceiving the miracle in it, the wonder, the divine. This journey has led me to a spiritual approach towards music, singin devotional and holy songs - not as a form making music, but as a way of meditating, honoring life itself.
 
-## the santur
+## the persian santur
 
-{{< figure src="/img/about/santur.jpg" title=" "
+{{< figure src="/img/pages/santur.jpg" title=" "
 alt="Veganes Tapas-Restaurant in Granada: El Piano" >}}
 
 Despite having played quite a few instruments in my life, what really brought a vast change was the moment the santur came into my life. Its mystical, enchanting, sweet sound touched my soul as no other instrument ever had before. Straight away I knew this was the instrument I had always been looking for without even knowing it. 
