@@ -355,12 +355,27 @@ div#content {
   margin-bottom: 0.5em;
 }
 
+@media (max-width: 767px) {
+  #blog-post h2 {
+     font-size: 2em;
+   }
+ }
+
+
 #blog-post h3 {
   color: #785828;
   font-weight: 400;
   text-transform: lowercase;
   letter-spacing: 0.08em;
 }
+
+@media (max-width: 767px) {
+  #blog-post h3 {
+     margin: 0.4em;
+     font-size: 1.2em;
+   }
+ }
+
 
 blockquote {
   padding: 10px 80px;
@@ -869,9 +884,9 @@ p.lead {
   color: #785828;
   text-transform: lowercase;
 }
-@media (max-width: 991px) {
+@media (max-width: 767px) {
     #heading-breadcrumbs h1 {
-      font-size: 26px;
+      font-size: 3.5em;
     }
   }
 
