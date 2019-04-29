@@ -15,7 +15,7 @@ alt="Veganes Tapas-Restaurant in Granada: El Piano" >}}
 
 ## Ashtanga Yoga 
 
-After more than two years of intense Ashtanga Vinyasa practise, this powerful dynamic yoga style has become a fundamental part of my life. daily asana practise - does not stop on the mat: ashtanga
+After more than two years of intense Ashtanga Vinyasa practise, this powerful dynamic yoga style has become a fundamental part of my life. Putting all eight limbs (the meaning of "ashta anga") into practise, this does not stop once I leave the mat after the daily asana practise. Yoga truely has become my lifestyle.
 
 As a **certified Ashtanga Vinyasa Yoga teacher**, I focus on teaching this traditional yoga style in a comprehensive manner putting all eight limbs into practise. I offer both **led classes of the full primary series** or variations of it and classes in **Mysore style**, as well as pranayama and meditation sessions.
 
@@ -52,9 +52,7 @@ Moreover, I am more than happy to give discourses and shared discussions on diff
 
 Every Yoga class ends with Savasana, the end relaxation where the whole body comes to rest after the physical practise. With my deep pleasant voice **I guide you into deep relaxation** helping you to find a quiet mind and a restorative set-up for your body.
 
-Further I offer **extended meditation sessions** of up to one hour, both for general healing and specific purposes like anxiety or physical pain. 
-
-I also guide **Yoga Nidra**, the term meaning 'yogic sleep' and describing a meditative state of consciousness between being awake and falling asleep. In this practise you will be able to find deep relaxation and restore both physical and emotional energy resources.
+Further I offer **extended meditation sessions** of up to one hour, both for general healing and specific purposes like anxiety or physical pain.  I guide **Yoga Nidra**, the term meaning 'yogic sleep' and describing a meditative state of consciousness between being awake and falling asleep. In this practise you will be able to find deep relaxation and restore both physical and emotional energy resources.
 
 ## Healing sound
 
