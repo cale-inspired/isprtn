@@ -6,9 +6,9 @@ keywords = "ashtanga vinyasa yoga meditation teacher workshops"
 tags = ["Yoga", "Meditation", "Ashtanga Yoga", "Hatha Yoga", "Vinyasa Yoga", "Workshops"]
 +++
 
-As my own dedicated journey has strongly influenced my approach to teaching, I emphasise the spiritual practise just as much as the physical practise. In my classes you will not only be working with your body, but also nurturing your soul as you go deep inside.
+As my own dedicated journey has strongly influenced my approach to teaching, I emphasise the spiritual practise just as much as the physical practise. In my classes you will not only be **working with your body, but also nurturing your** as you go deep inside.
 
-Loving both the physically demanding aspects of an instense dynamic Asana practise and the blessed effects of consciousness-expanding meditations, my classes follow a holistic approach to Yoga with strong influences of traditional teachings brought to modern life.
+Loving both the physically demanding aspects of an instense dynamic Asana practise and the blessed effects of consciousness-expanding meditations, my classes follow a **holistic approach to Yoga** with strong influences of traditional teachings brought to modern life.
 
 {{< figure src="/img/pages/yoga.jpg" title=" "
 alt="Veganes Tapas-Restaurant in Granada: El Piano" >}}

@@ -20,7 +20,7 @@ Yoga and the increased consciousness that comes with it have changed my way of l
 {{< figure src="/img/pages/santur.jpg" title=" "
 alt="Veganes Tapas-Restaurant in Granada: El Piano" >}}
 
-I will never forget **the moment the santur came into my life**. Its mystical, enchanting, sweet sound touched my soul as no other instrument ever had before. Straight away I knew this was the instrument I had always been looking for without knowing it. 
+**The moment the santur came into my life** was a turning-point for me. Its mystical, enchanting, sweet sound touched my soul as no other instrument ever had before. Straight away I knew this was the instrument I had always been looking for without knowing it. 
 
 ### like no other.
 
@@ -30,7 +30,7 @@ With its Persian origin, the unique sound and the 72 strings the santur is **a s
 
 ### expressing the moment.
 
-The santur is the only instrument I never had to learn to play. I don't have to think about notes, theory or what I would like to create - instead I open myself fully towards the instrument and its sound and allow the spirit to flow freely. In this way **everytime I play is completely unique**. Every concert and every healing sound meditation is a musical expression of the exceptional present moment we share together.
+Instead of studying the musical theory behind the Santur, I open myself fully towards the instrument and its sound and allow the spirit to flow freely. In this way **everytime I play is unique**. Every concert and every healing sound meditation is a musical expression of the exceptional present moment we share together.
 
 ### into different worlds.
 

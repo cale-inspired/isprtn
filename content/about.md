@@ -14,7 +14,11 @@ I am happy to welcome you to my website. Before I get more into detail about me 
 {{< figure src="/img/pages/about.jpg" title=" " alt="" >}}
 
 
-There is hardly any question that is so hard to answer than "Who am I?". I wonder: In which way would you, who has found his way to my website, want me to introduce myself? If you are interested in my person, **the ephemeral form I have taken for this life**, I might want to tell you things like: My name is Cale Alit and I grew up in Germany, started travelling right after school and never stopped doing so, moved into a van three years ago, love the nature, the freedom, playing music and cooking. 
+There is barely any question that is so hard to answer as "Who am I?". I wonder: How would you, who has found his way to my website, want me to introduce myself?
+
+### my persona
+
+As the ephemeral form I have taken for this lifetime I carry the **name Cale Alit**. I grew up in a small village in Germany which I left right after school **thriving to explore the world**. Realising myself as a child of the earth, I never settled again. Instead I changed my backback for a van a few years later and **became a modern nomad**. <br/>The vanlife brought not only freedom and adventure, but also the possibility to spend my time on **my passions**: playing music, practising and teaching yoga, cooking, writing and being in nature. Working as a freelance author and lecturer, my **love for languages** is also an essential part of my professional life. I speak German, English and Spanish.
 
 ### If I could.
 
@@ -27,13 +31,13 @@ alt="Veganes Tapas-Restaurant in Granada: El Piano" >}}
 
 ### Beyond the physical.
 
-When I started doing Yoga more than five years ago, I felt attracted to the physical exercise at first. It didn't take long, however, to realise that Yoga was so much more than that. After the class **I felt every cell in body vibrating**, I was physically exhausted yet energetically charged as I never felt before. I sensed the infinite potential of the practise that goes beyond the physical.
+When I started doing Yoga more than five years ago, it was the physical exercise that attracted me first. It didn't take long, however, to realise that Yoga was so much more than that. After the class **I felt every cell in body vibrating**, I was physically exhausted yet energetically charged as I never felt before. I sensed the infinite potential of the practise that goes beyond the physical.
 
 ### An eternal soul.
 
-As I commited more and more to Yoga, I observed vast changes happening in my life. Not only my body became stronger and more flexible, so did I - as a person, as a living being, as a loving being. The practise brought **peace, harmony and consciousness** into my life. The practise made me realise that I am not an individual being separate from the external world, but an eternal soul deeply rooted in everything that is. The practise gave me bliss.
+As I commited more and more to Yoga, I observed vast changes happening in my life. Not only my body became stronger and more flexible, so did I - as a person, a living being, a loving being. The practise brought **peace, harmony and consciousness** into my life. It made me realise that I was not an individual being separate from the external world, but an eternal soul deeply connected to everyone and everything. 
 
-### Sharing the bliss.
+### Why I teach.
 
 Benefiting from the Yoga practise in such a profound way, I felt the deep urge to share this wonderful experience with others. I sensed the potential not only for the individual but for mankind, by helping people to find back to their true selves and become their highest versions. To this day my motivation has not changed: **inspiring minds, opening hearts, expanding consciousness - this is why I teach.**
 
