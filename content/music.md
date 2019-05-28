@@ -37,6 +37,13 @@ Instead of studying the musical theory behind the Santur, I open myself fully to
 Close your eyes, open your heart, and listen. When the santur and I flow together, it is time for a journey. **A journey through time and space, a journey within.** Allow yourself to be carried by the vibration of the sacred sound, stimulating every cell in your body. Allow yourself to be sent into different worlds.. **Allow yourself to be.**
 <br/><br/>
 
+### what i offer
+
+* concerts (up to 45 minutes)
+* guided sound meditations (30 - 60 minutes)
+* accompanying *your* yoga class
+* public performances and visiting you at home
+
 #### The music is a gift I receive, which I am sharing with you. All concerts and sound healing meditations are offered on a donation basis. Any kind of exchange is possible. 
 #### Let's [get in touch]({{< relref "contact.md" >}}) for details.
 

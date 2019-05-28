@@ -54,6 +54,10 @@ Every Yoga class ends with Savasana, the end relaxation where the whole body com
 
 Further I offer **extended meditation sessions** of up to one hour, both for general healing and specific purposes like anxiety or physical pain.  I guide **Yoga Nidra**, the term meaning 'yogic sleep' and describing a meditative state of consciousness between being awake and falling asleep. In this practise you will be able to find deep relaxation and restore both physical and emotional energy resources.
 
+## prices
+
+All classes, workshops, meditations and talks are **exclusively on a donation basis**. You give as much as you can and want. In this way nobody is excluded due to financial reasons. Healing and the art of consciousness shall be accessible to everyone.
+
 ## Healing sound
 
 I love to combine my two passions of Yoga and music with one another, providing unique sound bath meditation, collective bhajan singing and more. **For more information, have a look at my [music page]({{< relref "music.md" >}}).**
