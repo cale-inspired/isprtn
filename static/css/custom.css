@@ -726,6 +726,7 @@ div.share-content {
   transition: 0.5s;
 }
 
+
 .start .btn:hover {
   color: #fff;
   background-color: none;
@@ -771,6 +772,78 @@ p.lead {
   #namaste {
     font-size: 4em;
   }
+}
+
+/* DATES */
+
+#dates {
+  border-top: 3px solid #785828;
+  padding-top: 2em;
+  padding-bottom: 0;
+}
+
+#dates h2 {
+  font-size: 4em;
+  font-weight: 200;
+  letter-spacing: 0.08em;
+  text-shadow: 2px 2px 5px #888888;
+  font-weight: 200;
+  color: #785828;
+  margin-top: 0;
+  text-transform: lowercase;
+  border-bottom: solid 2px #785828;
+}
+
+@media (max-width: 991px) {
+  #dates h2 {
+    font-size: 3.5em;
+    border-bottom: solid 1px #785828;
+  }
+}
+
+#dates ul,
+#dates p {
+  font-size: 1.3em;
+  font-weight: 500;
+  padding: 0;
+  text-transform: lowercase;
+  letter-spacing: 0.08em;
+  margin-top: 0em;
+}
+@media (max-width: 991px) {
+  #dates ul,
+  #dates p {
+    font-size: 1.3em;
+    line-height: 1.3em;
+  }
+}
+
+#dates ul {
+  list-style: none;
+}
+
+#dates ul li::before {
+  content: " \25AA"; 
+  color: #785828; 
+  font-weight: bold; 
+  display: inline-block; 
+  width: 0.8em; 
+}
+
+#dates li {
+  margin-bottom: 0.8em;
+}
+
+
+#dates .dark-mask {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: #fff;
+  opacity: 0.5;
+  filter: alpha(opacity=50);
 }
 
 /* CONNECT */
