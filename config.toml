@@ -9,6 +9,7 @@ disqusShortname = "inspiritana"
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
 
+refLinksErrorLevel = "warning"
 enableRobotsTXT = true
 
 # Define the number of posts per page

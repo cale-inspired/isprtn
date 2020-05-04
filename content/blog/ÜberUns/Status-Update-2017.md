@@ -16,7 +16,7 @@ Wir sind **wieder gemeinsam in Deutschland** - nach mehr als sechs Wochen des ge
 
 ## Unsere Beziehung - von Romantik zu Freundschaft
 
-Wie [im letzten UnserLeben-Artikel]({{< relref "UnserLeben-20.md" >}}) bereits erzählt, haben wir die letzten sechs Wochen getrennt verbracht, um uns beiden **Raum zur Selbstfindung und -verwirklichung** zu geben. In mehr als **fünf Jahren Beziehung** haben wir uns gemeinsam unglaublich weiterentwickelt und verändert, und enorm viel vom jeweils anderen lernen dürfen. Das Gefühl sagte uns, dass es an der Zeit wäre, dem neu entstandenen Potential freien Lauf zu lassen - um zu schauen, wohin uns das Schicksal führen würde.    
+Wie [im letzten UnserLeben-Artikel]({{< relref "blog/Reisen/UnserLeben-20.md" >}}) bereits erzählt, haben wir die letzten sechs Wochen getrennt verbracht, um uns beiden **Raum zur Selbstfindung und -verwirklichung** zu geben. In mehr als **fünf Jahren Beziehung** haben wir uns gemeinsam unglaublich weiterentwickelt und verändert, und enorm viel vom jeweils anderen lernen dürfen. Das Gefühl sagte uns, dass es an der Zeit wäre, dem neu entstandenen Potential freien Lauf zu lassen - um zu schauen, wohin uns das Schicksal führen würde.    
 
 In der Zeit standen wir in regelmäßigem Kontakt, haben dem anderen aber gleichzeitig immer genügend Freiräume gegeben. Vor einigen Tagen haben wir uns - voller Vorfreude - wieder in die Arme schließen dürfen. **Seinem Seelenverwandten so vertraut zu begegnen, und doch eine neue Person kennenzulernen. Eine tiefgehende und interessante Erfahrung.**     
 

@@ -38,7 +38,7 @@ Für die **Kanaren** sprechen dabei für mich viele Faktoren: es ist warm, ich k
 
 Ich trampe also von Aljezur in den Südwesten Spaniens und nehme von Huelva aus die Fähre nach Teneriffa. 42 Stunden Schaukeln später setze ich dann bei angenehmen zwanzig Grad und Sonnenschein zum ersten Mal in meinem Leben Fuß auf die kanarischen Inseln. **Wie immer habe ich keinen Plan, aber viele Ideen.**
 
-Achja, neben Eddie lasse ich übrigens auch meinen wertgeschätzten vierbeinigen Freund Shanti zurück: Nach langer Suche habe ich mit bereits erwähnter Katja endlich das perfekte Frauchen für den kleinen Marrokaner gefunden. Die **[ganze Story zu Shantis neuem Zuhause]({{< relref "Shanti-im-neuen-Zuhause.md" >}})** kannst du in einem gesonderten Artikel nachlesen.
+Achja, neben Eddie lasse ich übrigens auch meinen wertgeschätzten vierbeinigen Freund Shanti zurück: Nach langer Suche habe ich mit bereits erwähnter Katja endlich das perfekte Frauchen für den kleinen Marrokaner gefunden. Die **[ganze Story zu Shantis neuem Zuhause]({{< relref "blog/ÜberUns/Shanti-im-neuen-Zuhause.md" >}})** kannst du in einem gesonderten Artikel nachlesen.
 
 {{< figure src="/img/blog/Shanti_neues-Zuhause2.jpg" title="Shanti mit seinem neuen besten Freund im neuen Zuhause" alt="Der Hund Shanti im neuen Zuhause" >}}
 

@@ -30,7 +30,7 @@ Das Wasserbecken an sich ist recht klein und vor allem ziemlich flach, das **spr
 
 {{< figure src="/img/blog/Cale-Shanti.JPG" title="Cale & Shanti beim Mittagsschläfchen in der Sonne" alt="Cale & Shanti beim Mittagsschläfchen in der Sonne" >}}  
 
-Da **die Tage warm und die Nächte angenehm mild** sind, die Luftfeuchtigkeit zudem nicht zu hoch ist, entscheiden wir uns spontan, hier endlich die geplanten **[Lackierarbeiten am Bus]({{< relref "Wir-lackieren-unseren-Bus.md" >}})** vorzunehmen. Über den dreitägigen Arbeitsmarathon und das Ergebnis haben wir bereits in einem gesonderten Artikel berichtet. Die Tage sind anstrengend, aber lohnenswert - und am Abend können wir uns zumindest gründlich in der Therme abwaschen und erholen.   
+Da **die Tage warm und die Nächte angenehm mild** sind, die Luftfeuchtigkeit zudem nicht zu hoch ist, entscheiden wir uns spontan, hier endlich die geplanten **[Lackierarbeiten am Bus]({{< relref "blog/ÜberUns/Wir-lackieren-unseren-Bus.md" >}})** vorzunehmen. Über den dreitägigen Arbeitsmarathon und das Ergebnis haben wir bereits in einem gesonderten Artikel berichtet. Die Tage sind anstrengend, aber lohnenswert - und am Abend können wir uns zumindest gründlich in der Therme abwaschen und erholen.   
 
 {{< figure src="/img/blog/Fask_Quelle.JPG" title=" " alt="Cindy in der Natur-Therme Guelmim" ttl="So lässt's sich entspannen - bei 40 Grad Wassertemperatur">}} 
 

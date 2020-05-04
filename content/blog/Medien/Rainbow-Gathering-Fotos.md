@@ -41,7 +41,7 @@ Die Fotos stammen von dem Fotografen und Freund **[Joth Shakerley](https://joths
 
 Du willst noch mehr Fotos sein? Dann folge **[Joth Shakerley auf Instagram](https://www.instagram.com/jothshakerley/)**!
 
-Du bist neugierig geworden? Dann lass dir meinen **[Bericht über das Rainbow Gathering in Portugal 2017]({{< relref "Digitale-Auszeit.md" >}})** nicht entgehen.
+Du bist neugierig geworden? Dann lass dir meinen **[Bericht über das Rainbow Gathering in Portugal 2017]({{< relref "blog/Reisen/Digitale-Auszeit.md" >}})** nicht entgehen.
 
 
 ### LOVE. LIGHT. HARMONY.

@@ -21,15 +21,15 @@ alt="Geld verdienen auf Reisen - eigentlich nicht so schwer" >}}
 
 Wer schon länger auf inspiritana.org mitliest, der weiß bereits: Ich bin ein echter Sparfuchs. **Lieber tausche ich, verwende wieder, repariere oder verzichte, als mir Neues zu kaufen.**    
 
-In der "Ohne Geld"-Serie habe ich bereits viele meiner Spartricks ausgeplaudert: Für Nahrung gebe ich i.d.R. sehr wenig bis gar nichts aus, da ich **[Essen und Trinken fast immer for free]({{< relref "Ohne-Geld-reisen-leben-Essen.md" >}})** bekomme. Hauptanlaufstelle: Müll-Container.    
+In der "Ohne Geld"-Serie habe ich bereits viele meiner Spartricks ausgeplaudert: Für Nahrung gebe ich i.d.R. sehr wenig bis gar nichts aus, da ich **[Essen und Trinken fast immer for free]({{< relref "blog/Ideen/Ohne-Geld-reisen-leben-Essen.md" >}})** bekomme. Hauptanlaufstelle: Müll-Container.    
 
-**Übernachtungen sind für mich gar keine Ausgabestelle.** Ich schlafe entweder im Zelt oder schlichtweg auf dem Boden in der Natur, oder natürlich im Bus, wenn ich mit Camper unterwegs bin. Campingplätze besuche ich nie, und Hostels nur extrem selten, wenn ich mich auskurieren muss. Auch zum Thema **[kostenlose Übernachtungsmöglichkeiten]({{< relref "Ohne-Geld-reisen-leben-Übernachtung.md" >}})** habe ich bereits einen Guide geschrieben.   
+**Übernachtungen sind für mich gar keine Ausgabestelle.** Ich schlafe entweder im Zelt oder schlichtweg auf dem Boden in der Natur, oder natürlich im Bus, wenn ich mit Camper unterwegs bin. Campingplätze besuche ich nie, und Hostels nur extrem selten, wenn ich mich auskurieren muss. Auch zum Thema **[kostenlose Übernachtungsmöglichkeiten]({{< relref "blog/Ideen/Ohne-Geld-reisen-leben-Übernachtung.md" >}})** habe ich bereits einen Guide geschrieben.   
 
 Wenn ich mit dem Backpack unterwegs bin, reise ich auch **kostenlos von A nach B** - mit Daume oder Pappschild bewaffnet, am Straßenrand wartend. Reise ich mit dem Bus, brauche ich natürlich **Sprit**. Hier spare ich (enorm), indem ich kostenloses benutztes Frittieröl recycle - zumindest in den südlichen Ländern, wo es davon allerhand gibt.    
 
 Und auch bei allen **weiteren Ausgaben** spare ich tatsächlich, wo es nur geht: Kleidung kaufe ich nie, davon hat sowieso jeder im Überfluss. Eine Krankenversicherung habe ich beispielsweise gar nicht, und Reparaturen am Auto mache ich entweder selbst oder mit der Hilfe von Freunden. Man muss sich eben zu wissen helfen.  
 
-Teilweise finde ich über **Work-Exchange-Netzwerke** auch Projekte, die ich als Volunteer unterstützen kann - und dafür Kost und Logie gestellt bekomme. Zuletzt habe ich [drei Wochen in einem Yoga-Center gearbeitet]({{< relref "UnserLeben-19.md" >}}).
+Teilweise finde ich über **Work-Exchange-Netzwerke** auch Projekte, die ich als Volunteer unterstützen kann - und dafür Kost und Logie gestellt bekomme. Zuletzt habe ich [drei Wochen in einem Yoga-Center gearbeitet]({{< relref "blog/Reisen/UnserLeben-19.md" >}}).
 
 Trotz aller Sparmaßnahmen brauche ich natürlich trotzdem etwas Geld: **Als Backpacker belaufen sich meine durchschnittlichen monatlichen Kosten auf etwa 100 Euro, mit dem Bus sind es etwa 250 - 350 Euro** (je nachdem, wie viel ich fahre). Wie ich dieses Geld zusammenbekomme, möchte ich im nachfolgenden Absatz verraten.
 

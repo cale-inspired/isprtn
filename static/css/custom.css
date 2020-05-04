@@ -666,7 +666,7 @@ div.share-content {
   }
 }
 
-.start h1 {
+.start h2 {
   font-size: 4vw;
   font-weight: 200;
   letter-spacing: 0.08em;
@@ -679,7 +679,7 @@ div.share-content {
 }
 
 @media (max-width: 991px) {
-  .start h1 {
+  .start h2 {
     font-size: 3em;
   }
 }

@@ -41,7 +41,7 @@ Unsere dreimonatige **Reise durch Marokko** neigt sich stark dem Ende - aber fü
 
 ## 4. Marokko ist günstig - bei einem simplen Lebensstil
 
-- Zugegeben: Da Cindy und ich in Europa für gewöhnlich sehr viel vom [Containern]({{< relref "Foodsaving.md" >}}) leben und daher kaum Geld für Lebensmittel ausgeben, waren unsere Lebenshaltungskosten in Marokko deutlich höher als etwa in Spanien oder Frankreich.
+- Zugegeben: Da Cindy und ich in Europa für gewöhnlich sehr viel vom [Containern]({{< relref "blog/Ideen/Foodsaving.md" >}}) leben und daher kaum Geld für Lebensmittel ausgeben, waren unsere Lebenshaltungskosten in Marokko deutlich höher als etwa in Spanien oder Frankreich.
 - Wer aber ohnehin seine Lebensmittel immer einkauft, wird sich über die **[Preise und Kosten in Marokko]({{< relref "Marokko-Kosten-Preise.md" >}})** freuen: Frisches Obst und Gemüse sowie Brot sind sehr günstig, vor allem auf den hiesigen Wochenmärkten. Für 5 bis 10 Euro hast du dich hier für eine Woche eingedeckt.
 - Aber selbst einige luxuriösere Güter sind für europäische Verhältnisse quasi geschenkt: Ein frisch zubereitetes Sandwich mit Gemüse und angebratener Wurst für 1 Euro, eine schokoladenüberzogene Blätterteigtasche für 10 Cent oder ein zeitlich unbegrenzter Besuch im Hammam für 1 Euro - in den allermeisten Fällen **kommst du in Marokko sehr günstig weg**.
 - Ein paar **Ausnahmen** gibt es aber natürlich: Vergleichsweise teuer sind zum Beispiel Alkohol und industrielle Waren aus der westlichen Welt.

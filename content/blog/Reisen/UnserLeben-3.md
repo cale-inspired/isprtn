@@ -39,7 +39,7 @@ Aber zwischendurch fanden wir auch immer wieder Zeit, **die spanischen Städte u
 
 ## Einkaufen müssen wir nicht - Containern sei Dank!
 
-Wie **erfolgreich das Containern** bei uns teilweise schon war, hat Cindy bereits [in ihrem Foodsaving-Artikel]({{< relref "Foodsaving.md" >}}) erzählt. **Auch die letzten zwei Wochen mussten wir nicht einkaufen.** Hier zum Beispiel der letzte Fund bei LIDL:    
+Wie **erfolgreich das Containern** bei uns teilweise schon war, hat Cindy bereits [in ihrem Foodsaving-Artikel]({{< relref "blog/Ideen/Foodsaving.md" >}}) erzählt. **Auch die letzten zwei Wochen mussten wir nicht einkaufen.** Hier zum Beispiel der letzte Fund bei LIDL:    
 
 {{< figure src="/img/blog/Container-Obst2.JPG" title="Gesundes Essen ganz umsonst: 3 Tage Fruchtsalat!" alt="Gerettete Lebensmittel, Obst wie Ananas und Birnen" >}}
 

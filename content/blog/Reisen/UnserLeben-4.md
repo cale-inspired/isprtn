@@ -17,7 +17,7 @@ Wir haben hin und her überlegt, doch schließlich haben uns die **verlockenden 
 ## Tapas und Kultur in Granada – ab jetzt zu sechst!
 Ende November hat es uns mit Christie und Philipp nach **Santa Fe** (8km westlich von Granada) getrieben, um die **heißen Quellen** zu erkunden und dazu gibt es auch einiges zu erzählen. Wenn dich das interessiert, dann lass dir [unseren Artikel über Santa Fe]({{< relref "Santa-Fe-Heiße-Quellen.md" >}}) nicht entgehen.     
 
-Danach ging es nach **Granada** – die Tapas hatten gaaanz laut nach uns gerufen! Ok, eher nach Christie und mir – die Jungs wurden wohl oder übel mitgeschleppt =)  Zu [unserer **veganen Tapas-Tour** durch Granada]({{< relref "Vegane-Tapas-Tour-durch-Granada.md" >}}) haben wir übrigens auch einen gesonderten Artikel für dich vorbereitet.
+Danach ging es nach **Granada** – die Tapas hatten gaaanz laut nach uns gerufen! Ok, eher nach Christie und mir – die Jungs wurden wohl oder übel mitgeschleppt =)  Zu [unserer **veganen Tapas-Tour** durch Granada]({{< relref "blog/Ernährung/Vegane-Tapas-Tour-durch-Granada.md" >}}) haben wir übrigens auch einen gesonderten Artikel für dich vorbereitet.
 
 {{< figure src="/img/blog/GranadaOben.JPG" title="Granada von oben"
 alt="Blick auf Granada" >}}

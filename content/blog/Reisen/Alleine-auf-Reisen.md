@@ -74,5 +74,5 @@ Mir ist außerdem bewusst geworden, wie wichtig Selbstliebe für unsere Gesundhe
 3. Die Kraft unserer Gedanken ist nicht zu unterschätzen
 Noch dazu habe ich erkannt, dass mein **Un(ter)bewusstsein** immer noch ziemlich stark ist. Also habe ich begonnen, mehr auf die **innere Stimme** zu hören, die sich ab und zu zu Wort meldet – auch bekannt als **Intuition**. Oftmals hat sich das, was mir dabei in den Sinn kam, später als richtig herausgestellt, ich hatte dem aber keine Beachtung geschenkt.      
 Außerdem versuche ich, meine Gedanken besser zu ordnen und zusammen mit meinen Zielen möglichst genau zu formulieren und schriftlich festzuhalten. So verfestigt sich ein Bild von dem, was ich erreichen möchte, in meinem Kopf und ich kann meine Handlungen danach abstimmen. 
-Was meine Ziele noch in diesem Jahr sind, das könnt ihr in [unserem gegenseitigen Kurz-Interview]({{< relref "Status-Update-2017.md" >}}) lesen. 
+Was meine Ziele noch in diesem Jahr sind, das könnt ihr in [unserem gegenseitigen Kurz-Interview]({{< relref "blog/ÜberUns/Status-Update-2017.md" >}}) lesen. 
 **Insgesamt bin ich unglaublich froh, über meinen Schatten gesprungen zu sein und somit die wohl bisher schönste Zeit meines Lebens erlebt zu haben :-)**

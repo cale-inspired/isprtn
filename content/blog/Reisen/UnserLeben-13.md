@@ -31,7 +31,7 @@ In Demnate **muss Sönke in die Werkstatt - Auspuff kaputt**. Wir nutzen die Zei
 
 {{< figure src="/img/blog/Demnate_Souk.JPG" title="Auch das gehört zum marokkanischen Souk: Plastikkram made in China" alt="Souk in Demnate: Stände mit Plastikartikeln" >}}
 
-Philipp und ich nutzen also die letzten uns gemeinsam verbleibenden Tage, um zusammen nach einem Schweißerteam für das **Dachträger-Projekt** zu suchen. Hier in Demnate bleiben wir vorerst erfolglos, aber letztlich sollen wir doch noch die Krone für unseren Düdo Eddie bekommen - in Khemisset. Die **[ganze Story zur neuen Dachterasse]({{< relref "Düdo-Dachgepäckträger.md" >}}) gibt's in einem Extra-Artikel** zu lesen.     
+Philipp und ich nutzen also die letzten uns gemeinsam verbleibenden Tage, um zusammen nach einem Schweißerteam für das **Dachträger-Projekt** zu suchen. Hier in Demnate bleiben wir vorerst erfolglos, aber letztlich sollen wir doch noch die Krone für unseren Düdo Eddie bekommen - in Khemisset. Die **[ganze Story zur neuen Dachterasse]({{< relref "blog/ÜberUns/Düdo-Dachgepäckträger.md" >}}) gibt's in einem Extra-Artikel** zu lesen.     
 
 Aber weiter im Text: Wer in Demnate ist, muss die **Naturbrücke** etwa zwei Kilometer abseits der Stadt gesehen haben. Olli spielt mal wieder Taxi und fährt uns mit seiner roten Ex-Feuerwehr zu Imi-n-Ifri, dem gigantischen Felsbogen, den wir zu Fuß erkunden können:
 

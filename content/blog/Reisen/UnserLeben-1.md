@@ -32,7 +32,7 @@ Naja, von wegen "gen Westen": Unsere erste Station lag in **Nordbayern** bei ein
 
 {{< figure src="/img/blog/ContainerHeaven.jpg" title="Ein Teil des großen Obst- und Gemüse-Containers am Lager" alt="Container: Gutes Obst und Gemüse aus dem Müll" >}}
 
-Auf dem Rückweg waren all unsere Beutel so prall gefüllt, dass wir sie kaum schleppen konnten. Wie unsere "Beute" letztlich aussah, erfahrt ihr übrigens in [Cindys Artikel zum Thema Foodsaving]({{< relref "Foodsaving.md" >}}). Mittlerweile ist das neun Tage her, und unsere täglichen Mahlzeiten bestehen immer noch zu 80% aus dem kostenlosen Lebensmitteln des "Container-Heavens". Und dabei ist unsere Vorratskammer immer noch gut gefüllt! **Bananen im Überfluss, jippie :-)**    
+Auf dem Rückweg waren all unsere Beutel so prall gefüllt, dass wir sie kaum schleppen konnten. Wie unsere "Beute" letztlich aussah, erfahrt ihr übrigens in [Cindys Artikel zum Thema Foodsaving]({{< relref "blog/Ideen/Foodsaving.md" >}}). Mittlerweile ist das neun Tage her, und unsere täglichen Mahlzeiten bestehen immer noch zu 80% aus dem kostenlosen Lebensmitteln des "Container-Heavens". Und dabei ist unsere Vorratskammer immer noch gut gefüllt! **Bananen im Überfluss, jippie :-)**    
 
 ## Mit dem Winter im Nacken Richtung Sonne
 

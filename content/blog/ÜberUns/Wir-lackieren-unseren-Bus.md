@@ -15,7 +15,7 @@ Unser Düdo erstrahlte bisher im freundlichen Orange - war uns so aber einfach z
 
 ## Drei Tage ranglotzen - Bus lackieren in Teamarbeit
 
-Dass wir Eddie in Marokko lackieren wollen, stand schon seit mehr als zwei Monaten auf dem Plan. Die **optimalen Wetterbedingungen** dafür zu finden, stellte sich letztlich aber als deutlich schwieriger heraus als gedacht: Bis [wir endlich die warme Küste erreicht haben]({{< relref "UnserLeben-9.md" >}}), waren die Nächte bei 5 Grad und weniger bisher viel zu kalt, am Meer hingegen natürlich zu feucht für den Lack. Ursprünglich hatten wir auf Tafraoute gesetzt, doch auch dort ist es im Moment noch zu kühl.   
+Dass wir Eddie in Marokko lackieren wollen, stand schon seit mehr als zwei Monaten auf dem Plan. Die **optimalen Wetterbedingungen** dafür zu finden, stellte sich letztlich aber als deutlich schwieriger heraus als gedacht: Bis [wir endlich die warme Küste erreicht haben]({{< relref "blog/Reisen/UnserLeben-9.md" >}}), waren die Nächte bei 5 Grad und weniger bisher viel zu kalt, am Meer hingegen natürlich zu feucht für den Lack. Ursprünglich hatten wir auf Tafraoute gesetzt, doch auch dort ist es im Moment noch zu kühl.   
 
 Als wir nun die heißen Quellen in der Wüste von Guelmim besuchen, bietet sich überraschend die beste Chance: **Am Tag über 20 Grad, in der Nacht immer noch 13 bis 15 Grad, und akzeptable Luftfeuchtigkeit**. Deshalb entschließen wir spontan, Eddie hier ein neues Gewand zu verpassen.   
 

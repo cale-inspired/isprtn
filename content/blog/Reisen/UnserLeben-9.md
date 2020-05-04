@@ -64,7 +64,7 @@ alt="Ausblick aus dem Camper am Strand" >}}
 
 ## Mit dem Baby zum Arzt 
 
-Das spontane Urlaubs-Feeling, das nun unseren Alltag beherrscht, wird nur an einem Tag mal unterbrochen: Wir müssen uns so schnell wie möglich **darum kümmern, [Shanti]({{< relref "Shanti.md" >}}) impfen und registrieren zu lassen**, damit wir bei Grenzüberquerung nach Spanien keine Probleme mit dem Kleinen bekommen.     
+Das spontane Urlaubs-Feeling, das nun unseren Alltag beherrscht, wird nur an einem Tag mal unterbrochen: Wir müssen uns so schnell wie möglich **darum kümmern, [Shanti]({{< relref "blog/ÜberUns/Shanti.md" >}}) impfen und registrieren zu lassen**, damit wir bei Grenzüberquerung nach Spanien keine Probleme mit dem Kleinen bekommen.     
 
 {{< figure src="/img/blog/Shanti.JPG" title=" "
 alt="Unser kleiner Hund Shanti im Sand" >}}
