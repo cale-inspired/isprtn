@@ -69,7 +69,7 @@ preserveTaxonomyNames = true
 [[params.menu]]
     name = "Contact"
     url  = "/contact"
-    weight = 5
+    weight = 6
 
 [params.topbar]
     enable = false
