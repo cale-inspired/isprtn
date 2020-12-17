@@ -986,7 +986,7 @@ p.lead {
 
 #heading-breadcrumbs p {
   color: #111111;
-  font-size: 20em; 
+  font-size: 2em; 
   font-weight: bold;
 }
 @media (max-width: 991px) {

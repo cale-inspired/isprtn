@@ -56,8 +56,6 @@ Natürlich muss ich aber auch von etwas leben und hoffe daher auf deine Unterst�
 + PayPal: 
 + Bitcoin:
 
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="inspiritana" data-color="#ef8222" data-emoji="🖤" data-font="Arial" data-text="Unterstütze inspiritana.org" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#FFDD00" ></script>
-
 
 ## Download 
 
