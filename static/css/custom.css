@@ -992,6 +992,7 @@ p.lead {
   #heading-breadcrumbs p {
     text-align: center;
     font-size: 19px;
+    font-style: italic;
   }
 }
 #heading-breadcrumbs ul.breadcrumb {

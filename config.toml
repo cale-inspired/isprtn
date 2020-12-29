@@ -52,7 +52,7 @@ preserveTaxonomyNames = true
     weight = 1
 
 [[params.menu]]
-    name = "About me"
+    name = "me"
     url = "/about"
     weight = 2
 
@@ -65,6 +65,11 @@ preserveTaxonomyNames = true
     name = "Music"
     url  = "/music"
     weight = 4
+
+[[params.menu]]
+    name = "E-Book"
+    url  = "/vanlife-ebook-wenig-geld-viel-freiheit"
+    weight = 5
 
 [[params.menu]]
     name = "Contact"

@@ -6,23 +6,28 @@ keywords = "vanlife ratgeber ebook wenig geld viel freiheit download"
 tags = ["Vanlife", "Ebook", "Download", "Ratgeber", "Tipps", "Wenig Geld viel Freiheit"]
 +++
 
-Mit dem E-Book "Wenig Geld, viel Freiheit" hast du alles zur Hand, was du fürs Vanlife wissen musst: Das Ratgeber-Buch enthält all das gebündelte Wissen und die Erfarungen, die ich in über vier Jahren Leben on the road gesammelt habe - von den Vorbereitungen und der Fahrzeugwahl über praktische Aspekte des Vanlife-Alltags bis hin zu besonderen Tipps und Tricks für ein gesünderes, minimalisterisches und freieres Leben. 
+**Mit dem E-Book "Wenig Geld, viel Freiheit" hast du alles zur Hand, was du fürs Vanlife wissen musst**: Das Ratgeber-Buch enthält all das gebündelte Wissen und die Erfarungen, die ich in über vier Jahren Leben on the road gesammelt habe - von den Vorbereitungen und der Fahrzeugwahl über praktische Aspekte des Vanlife-Alltags bis hin zu besonderen Tipps und Tricks für ein gesünderes, minimalisterisches und freieres Leben. 
 
 **All das und noch viel mehr im praktischen E-Book-Format - zum freien Download auf Spendenbasis.**
 
-{{< figure src="/img/pages/yoga.jpg" title=" "
-alt="Veganes Tapas-Restaurant in Granada: El Piano" >}}
+{{< figure src="/img/pages/ebook1.jpg" title=" "
+alt="Vanlife-Ratgeber-Ebook Wenig Geld viel Freiheit" >}}
 
 ## Der umfangreichste Vanlife-Ratgeber aller Zeiten
 
-Ursprünglich begann ich dieses Buch unter dem Titel "Low-Budget-Vanlife" mit besonderem Fokus darauf, wie du mit möglichst wenig Geld das Leben on the road meistern kannst. Während des Schreibens ist das ganze Projekt dann etwas ausgeartet - sodass nun letztlich der umfangreichste und tiefgehendste Vanlife-Ratgeber entstanden ist.
-Auch wenn an vielen Stellen immer noch die Low-Budget-Philosophie thematisiert wird, ist das Buch nicht nur für Sparfüchse interessant, sondern hat für jede/n Vanlifer/in allerhand zu bieten: Egal ob du den Traum vom ersten Bus im Kopf hast oder bereits seit längerer Zeit im Van lebst, wird dir das Buch an vielen Stellen weiterhelfen und dich inspirieren können.
+Das Ergebnis von einem Jahr Schreibarbeit ist der umfangreichste und tiefgehendste Vanlife-Ratgeber, den es bisher gibt - mit besonderem Fokus auf die Low-Budget-Philosphie. 
 
-Das Besondere dabei ist, dass 'Wenig Geld, viel Freiheit' viel mehr als ein praktischer Ratgeber ist und mit philosophischen Denkanstößen und Ideen zu neuen Sichtweisen aufs Lebens einlädt.
+Dabei ist das Buch aber nicht nur für Sparfüchse interessant, sondern hat für jeden und jede Vanlifer/in allerhand zu bieten: Egal ob du den Traum vom ersten Bus im Kopf hast oder bereits seit längerer Zeit im Van lebst, wird dir dieses E-Book an vielen Stellen weiterhelfen und dich inspirieren können.
 
-### Inhalt
+**Viel mehr als ein praktischer Ratgeber, lädt 'Wenig Geld, viel Freiheit' mit philosophischen Denkanstößen und Ideen zu neuen Sichtweisen aufs Lebens ein.**
 
-Aufgrund seines enormen Umfangs ist es nicht leicht, den Inhalt des Buches zusammenzufassen. Mit der Kapitelübersicht möchte ich dir aber zumindest einen kleinen Eindruck vermitteln:
+## Inhalt
+
+{{< figure src="/img/pages/ebook2.jpg" title=" "
+alt="E-Book Wenig Geld viel Freiheit - der ultimative Vanlife-Ratgeber" >}}
+
+Mit **über 450 E-Book-Seiten** ist der Umfang des Buches nur schwer zusammenzufassen. Für einen kleinen Eindruck wirf doch einen Blick auf die Kapitelübersicht:
+
 + **Einleitung:** Meine Vanlife-Anfänge. Motivation für dieses Buch. Wieso auf Spendenbasis? Wieso Vanlife?
 + **Innere Haltung:** Bedürfnisse erkennen. Minimalismus. Verzicht als Bereicherung. Abenteuer statt Komfort. Innere Reise - äußerer Reise. Balance finden.
 + **Laufende Kosten:** Fahrzeugtypen. Fahrzeugkauf. Kfz-Steuer und Versicherung. Autoclub. Wartung & Reparaturen. Kraftstoff. Krankenversicherung. Wohnung.
@@ -44,34 +49,38 @@ Aufgrund seines enormen Umfangs ist es nicht leicht, den Inhalt des Buches zusam
 
 
 
-### Ausschließlich auf Spendenbasis
+## Ausschließlich auf Spendenbasis
 
-Ich habe mich dazu entschlossen, das gesamte Werk jedem und jeder frei zu Verfügung zu stellen. Niemand soll aufgrund finanzieller Umstände ausgeschlossen werden. Deshalb gibt es das E-Book ausschließlich auf Spendenbasis hier zum Download.
+Ich habe mich dazu entschlossen, das gesamte Werk jedem und jeder frei zu Verfügung zu stellen. Niemand soll aufgrund finanzieller Umstände ausgeschlossen werden. 
 
-Auf diese kannst du dir auch erst einen Eindruck vom Buch machen und dann entscheiden, was dir dieses wert ist. So kann jede/r geben, was er oder sie kann und möchte.
+**Deshalb gibt es das E-Book ausschließlich auf Spendenbasis hier zum Download.**
 
-Natürlich muss ich aber auch von etwas leben und hoffe daher auf deine Unterstützung. So unterstützt du nicht nur dieses Buch, sondern auch zukünftige Projekte, die bereits in Planung sind. Ich sage schon jetzt von ganzem Herzen: **Vielen Dank für deine Spende.**
+Auf diese Weise kannst du dir auch erst einen Eindruck vom Buch machen und dann entscheiden, was dir dieses wert ist. So kann jede/r geben, was er oder sie kann und möchte.
 
-+ Kontoverbindung: Cale Alit 
-+ PayPal: 
-+ Bitcoin:
+Natürlich muss ich aber auch von etwas leben und bin daher auf deine Unterstützung angewiesen. So unterstützt du nicht nur dieses Buch, sondern auch zukünftige Projekte, die bereits in Planung sind. 
 
+Ich sage schon jetzt von ganzem Herzen: **Vielen Dank für deine Spende.**
 
-## Download 
++ **Kontoverbindung:** inspiritana | DE83 1101 0100 2289 2370 72
++ **PayPal:** [cale@inspiritana.org](https://www.paypal.com/donate/?hosted_button_id=CWJX8WDB7PM3U)
++ **Bitcoin:** [39x6TL9LXLijw7CWFfFkGMGvozmbxZPb7z](bitcoin:39x6TL9LXLijw7CWFfFkGMGvozmbxZPb7z)
++ **Buymeacoffee:** [buymeacoffee.com/inspiritana](https://www.buymeacoffee.com/inspiritana) 
 
-Das E-Book 'Wenig Geld, viel Freiheit' kannst du nachfolgend in drei Formaten **herunterladen**:
+## download
 
-+ PDF - optimiert für Smartphones: **Download**
-+ PDF - optimiert für Tablets: **Download**
-+ EPUB - optimiert für E-Book-Reader: **Download**
+{{< figure src="/img/pages/ebook3.jpg" title=" "
+alt="Download Vanlife-Ebook Wenig Geld viel Freiheit" >}}
 
-***Hinweis:** Du kannst das heruntergeladene Werk gerne direkt an Freunde weiterleiten - aber nur vollständig und nicht nur in Teilen. Ein öffentlicher Download-Zugang (z.B. auf deiner Webseite) ist **nicht gestattet**. Verlinke stattdessen bitte auf diese Seite. Hier wird auch immer die aktuelle Version des Buchs angeboten.*
-
-{{< figure src="/img/pages/yoga2.jpg" title=" "
-alt="Veganes Tapas-Restaurant in Granada: El Piano" >}}
+Das E-Book 'Wenig Geld, viel Freiheit' kannst du hier **herunterladen**:
 
 
+## [E-Book-Download](https://inspiritana.org)
 
-### Fragen, Hinweise, Feedback?
+***Hinweis:** Du kannst das heruntergeladene Werk gerne direkt an Freunde weiterleiten - aber nur vollständig und nicht nur in Teilen. Ein öffentlicher Download-Zugang (z.B. auf deiner Webseite) ist nicht gestattet. Verlinke stattdessen bitte auf diese Seite. Hier wird auch immer die aktuelle Version des Buchs angeboten.*
 
-Für Feedback jeder Art, Hinweise, Ideen und Fragen, kannst du mich gerne jederzeit über meine sozialen Kanäle oder über das [Kontaktformular]({{< relref "contact.md" >}}) erreichen. **Ich freue mich auf deine Nachricht!**
+
+## Fragen, Hinweise, Feedback?
+
+Für Feedback jeder Art, Hinweise, Ideen und Fragen kannst du mich gerne jederzeit über meine sozialen Kanäle oder über das [Kontaktformular]({{< relref "contact.md" >}}) erreichen. 
+
+**Ich freue mich auf deine Nachricht!**
