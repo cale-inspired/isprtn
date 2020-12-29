@@ -74,7 +74,7 @@ alt="Download Vanlife-Ebook Wenig Geld viel Freiheit" >}}
 Das E-Book 'Wenig Geld, viel Freiheit' kannst du hier **herunterladen**:
 
 
-## [E-Book-Download](https://inspiritana.org)
+## [E-Book-Download](https://inspiritana.org/ebook/Wenig-Geld-viel-Freiheit_v1.0.pdf)
 
 ***Hinweis:** Du kannst das heruntergeladene Werk gerne direkt an Freunde weiterleiten - aber nur vollständig und nicht nur in Teilen. Ein öffentlicher Download-Zugang (z.B. auf deiner Webseite) ist nicht gestattet. Verlinke stattdessen bitte auf diese Seite. Hier wird auch immer die aktuelle Version des Buchs angeboten.*
 
