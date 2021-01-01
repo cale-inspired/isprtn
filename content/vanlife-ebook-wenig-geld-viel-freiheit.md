@@ -1,5 +1,5 @@
 +++
-title = "wenig Geld, viel Freiheit"
+title = "Wenig Geld, Viel Freiheit"
 subtitle = "Der ultimative Vanlife-Ratgeber"
 draft = false
 keywords = "vanlife ratgeber ebook wenig geld viel freiheit download"
