@@ -66,6 +66,8 @@ Ich sage schon jetzt von ganzem Herzen: **Vielen Dank für deine Spende.**
 + **Bitcoin:** [39x6TL9LXLijw7CWFfFkGMGvozmbxZPb7z](bitcoin:39x6TL9LXLijw7CWFfFkGMGvozmbxZPb7z)
 + **Buymeacoffee:** [buymeacoffee.com/inspiritana](https://www.buymeacoffee.com/inspiritana) 
 
+**Übrigens:** Du kannst dieses Projekt auch unterstützen, indem du das Buch deinen Freunden / Followern empfiehlst! Je mehr Menschen daran Teil haben, desto besser. Danke!
+
 ## download
 
 {{< figure src="/img/pages/ebook3.jpg" title=" "
