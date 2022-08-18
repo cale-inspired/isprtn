@@ -6,10 +6,10 @@ keywords = "ashtanga vinyasa yoga meditation teacher workshops"
 tags = ["Yoga", "Meditation", "Ashtanga Yoga", "Hatha Yoga", "Vinyasa Yoga", "Workshops"]
 +++
 
-More than 10 years ago I picked up the guitar for the first time. Starting mainly with classical music in finger-picking style, I was about to go through many **different musical stages** - from covering pop songs to German rap to ambient acoustic improvisations. All of these are still part of my current musical expression, however, real depth has only come since I have found spiritual access to music. 
+I picked up the guitar for the first time as a kid. Starting mainly with classical music in finger-picking style, I was about to go through many **different musical stages** - from covering pop songs to German rap to ambient acoustic improvisations. All of these are still part of my current musical expression, however, real depth has come since I have found spiritual access to music. 
 
 {{< figure src="/img/pages/music.jpg" title=" "
-alt="Veganes Tapas-Restaurant in Granada: El Piano" >}}
+alt="Musician Cale Alit" >}}
 
 ### devotion.
 
@@ -18,7 +18,7 @@ Yoga and the increased consciousness that comes with it have changed my way of l
 ## the persian santur
 
 {{< figure src="/img/pages/santur.jpg" title=" "
-alt="Veganes Tapas-Restaurant in Granada: El Piano" >}}
+alt="Sound healing journey with the Persian Santur" >}}
 
 **The moment the santur came into my life** was a turning-point for me. Its mystical, enchanting, sweet sound touched my soul as no other instrument ever had before. Straight away I knew this was the instrument I had always been looking for without knowing it. 
 
@@ -26,7 +26,7 @@ alt="Veganes Tapas-Restaurant in Granada: El Piano" >}}
 
 With its Persian origin, the unique sound and the 72 strings the santur is **a special instrument without doubt**. It belongs to the category of the hammered dulcimers which are being used throughout the world, with quite some variations. In most countries these string instruments have become rare, however, in India and Iran they are still quite common.
 
-{{% youtube FuTZxmXyuLQ %}}
+{{% youtube yMlTlKYJeRQ %}}
 
 ### expressing the moment.
 
@@ -39,12 +39,17 @@ Close your eyes, open your heart, and listen. When the santur and I flow togethe
 
 ### what i offer
 
-* concerts (up to 45 minutes)
+* concerts (usually 1 hour)
 * guided sound meditations (30 - 60 minutes)
-* accompanying *your* yoga class
+* accompanying *your* yoga class or (breatkwork) workshop
 * public performances and visiting you at home
 
-#### The music is a gift I receive, which I am sharing with you. All concerts and sound healing meditations are offered on a donation basis. Any kind of exchange is possible. 
+### sound healing project
+
+During the past years, I have hosted dozens of sound healing journeys that blend concert music with sound bath elements into a ceremonial setting. For these sessions, I work together with several other talented musicians and healers from around the world - as here with my crew from Mexico 'Aethernas':
+
+{{% youtube Tnk2RfF4_8o %}}
+
 #### Let's [get in touch]({{< relref "contact.md" >}}) for details.
 
 

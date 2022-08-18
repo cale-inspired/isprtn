@@ -6,6 +6,8 @@ keywords = "vanlife ratgeber ebook wenig geld viel freiheit download"
 tags = ["Vanlife", "Ebook", "Download", "Ratgeber", "Tipps", "Wenig Geld viel Freiheit"]
 +++
 
+*still only available in German*
+
 **Mit dem E-Book "Wenig Geld, viel Freiheit" hast du alles zur Hand, was du fürs Vanlife wissen musst**: Das Ratgeber-Buch enthält all das gebündelte Wissen und die Erfarungen, die ich in über vier Jahren Leben on the road gesammelt habe - von den Vorbereitungen und der Fahrzeugwahl über praktische Aspekte des Vanlife-Alltags bis hin zu besonderen Tipps und Tricks für ein gesünderes, minimalisterisches und freieres Leben. 
 
 **All das und noch viel mehr im praktischen E-Book-Format - zum freien Download auf Spendenbasis.**

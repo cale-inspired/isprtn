@@ -11,14 +11,14 @@ I am happy to welcome you to my website. Before I get more into detail about me 
 
 ## Who am I
 
-{{< figure src="/img/pages/about.jpg" title=" " alt="" >}}
+{{< figure src="/img/pages/about.jpg" title=" " alt="Cale Alit, musician and Ashtanga yoga teacher" >}}
 
 
 There is barely any question that is so hard to answer as "Who am I?". I wonder: How would you, who has found his way to my website, want me to introduce myself?
 
 ### my persona
 
-As the ephemeral form I have taken for this lifetime I carry the **name Cale Alit**. I grew up in a small village in Germany which I left right after school **thriving to explore the world**. Realising myself as a child of the earth, I never settled again. Instead I changed my backback for a van a few years later and **became a modern nomad**. <br/>The vanlife brought not only freedom and adventure, but also the possibility to spend my time on **my passions**: playing music, practising and teaching yoga, cooking, writing and being in nature. Working as a freelance author and lecturer, my **love for languages** is also an essential part of my professional life. I speak German, English and Spanish.
+As the ephemeral form I have taken for this lifetime I carry the **name Cale Alit**. I grew up in a small village in Germany which I left right after school **thriving to explore the world**. Realising myself as a child of the earth, I never settled again. Instead I changed my backback for a van a few years later and **became a modern nomad**. After more than four years on the road, I sold my mobile home again - and switched back to the minimalist backpacking lifestyle.<br/>The traveller's lifestyle brought not only freedom and adventure, but also the possibility to spend my time on **my passions**: playing music, practising and teaching yoga, cooking, writing and being in nature.
 
 ### If I could.
 
@@ -27,11 +27,11 @@ Maybe, however, you would like to get straight to the source and get to know the
 ## My Yogic journey
 
 {{< figure src="/img/pages/about2.jpg" title=" "
-alt="Veganes Tapas-Restaurant in Granada: El Piano" >}}
+alt="Cale Alit, yoga teacher in meditation" >}}
 
 ### Beyond the physical.
 
-When I started doing Yoga more than five years ago, it was the physical exercise that attracted me first. It didn't take long, however, to realise that Yoga was so much more than that. After the class **I felt every cell in body vibrating**, I was physically exhausted yet energetically charged as I never felt before. I sensed the infinite potential of the practise that goes beyond the physical.
+When I started doing Yoga at the age of 20, it was the physical exercise that attracted me first. It didn't take long, however, to realise that Yoga was so much more than that. After the class **I felt every cell in body vibrating**, I was physically exhausted yet energetically charged as I never felt before. I sensed the infinite potential of the practise that goes beyond the physical.
 
 ### An eternal soul.
 
