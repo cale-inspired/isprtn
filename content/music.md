@@ -2,8 +2,8 @@
 title = "music"
 subtitle = ""
 draft = false
-keywords = "ashtanga vinyasa yoga meditation teacher workshops"
-tags = ["Yoga", "Meditation", "Ashtanga Yoga", "Hatha Yoga", "Vinyasa Yoga", "Workshops"]
+keywords = "santur music sound journey cale alit meditation music healing"
+tags = ["Music", "Meditation", "Santur", "Sound Journey", "Sound Healing"]
 +++
 
 I picked up the guitar for the first time as a kid. Starting mainly with classical music in finger-picking style, I was about to go through many **different musical stages** - from covering pop songs to German rap to ambient acoustic improvisations. All of these are still part of my current musical expression, however, real depth has come since I have found spiritual access to music. 
@@ -48,7 +48,7 @@ Close your eyes, open your heart, and listen. When the santur and I flow togethe
 
 During the past years, I have hosted dozens of sound healing journeys that blend concert music with sound bath elements into a ceremonial setting. For these sessions, I work together with several other talented musicians and healers from around the world - as here with my crew from Mexico 'Aethernas':
 
-{{% youtube Tnk2RfF4_8o %}}
+{{% youtube L41Hz_4ysnc %}}
 
 #### Let's [get in touch]({{< relref "contact.md" >}}) for details.
 
