@@ -46,7 +46,7 @@ Close your eyes, open your heart, and listen. When the santur and I flow togethe
 
 ### sound healing project
 
-During the past years, I have hosted dozens of sound healing journeys that blend concert music with sound bath elements into a ceremonial setting. For these sessions, I work together with several other talented musicians and healers from around the world - as here with my crew from Mexico 'Aethernas':
+During the past years, I have hosted dozens of sound healing journeys that blend concert music with sound bath elements into a ceremonial setting. For these sessions, I work together with several other talented musicians and healers from around the world - as here with my crew from Mexico 'Aethernas': https://www.youtube.com/watch?v=L41Hz_4ysnc
 
 {{% youtube L41Hz_4ysnc %}}
 
