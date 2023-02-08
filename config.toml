@@ -162,7 +162,7 @@ preserveTaxonomyNames = true
     [[params.connect.list]]
         name= "Instagram"
         icon= "instagram"
-        link= "https://instagram.com/inspiritana/"
+        link= "https://instagram.com/inspiritana.healingsound/"
 
     [[params.connect.list]]
         name = "Facebook"
